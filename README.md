@@ -16,6 +16,6 @@ Sources:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Fmawn ta Nahura [https://fmawntanahura.wordpress.com/]  
   
 APIs and Libraries:  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・WLlìm's API [https://reykunyu.wimiso.nl/]  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Wllìm's API [https://reykunyu.wimiso.nl/]  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Python-docx [https://python-docx.readthedocs.io/en/latest/]  
     
