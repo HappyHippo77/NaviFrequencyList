@@ -1,6371 +1,6371 @@
 {
     "oe": {
-        "count": 1128,
+        "total_count": 1128,
         "meaning": "I, me",
         "type": "pn"
     },
     "lu": {
-        "count": 762,
+        "total_count": 762,
         "meaning": "to be",
         "type": "v:cp"
     },
     "ke": {
-        "count": 463,
+        "total_count": 463,
         "meaning": "not",
         "type": "part"
     },
     "a": {
-        "count": 441,
+        "total_count": 441,
         "meaning": "which, that (subclause marker)",
         "type": "part"
     },
     "HRH": {
-        "count": 414,
+        "total_count": 414,
         "meaning": "LOL (\"laughing out loud\")",
         "type": "intj"
     },
     "nga": {
-        "count": 389,
+        "total_count": 389,
         "meaning": "you",
         "type": "pn"
     },
     "po": {
-        "count": 326,
+        "total_count": 326,
         "meaning": "he, she",
         "type": "pn"
     },
     "tute": {
-        "count": 297,
+        "total_count": 297,
         "meaning": "person",
         "type": "n"
     },
     "s\u00ec": {
-        "count": 287,
+        "total_count": 287,
         "meaning": "and (noun conjunction)",
         "type": "part"
     },
     "alu": {
-        "count": 287,
+        "total_count": 287,
         "meaning": "that is, in other words",
         "type": "conj"
     },
     "ulte": {
-        "count": 265,
+        "total_count": 265,
         "meaning": "and (clausal conjunction)",
         "type": "conj"
     },
     "sl\u00e4": {
-        "count": 253,
+        "total_count": 253,
         "meaning": "but",
         "type": "conj"
     },
     "tsun": {
-        "count": 239,
+        "total_count": 239,
         "meaning": "can, be able",
         "type": "v:m"
     },
     "fwa": {
-        "count": 227,
+        "total_count": 227,
         "meaning": "that (subclause marker)",
         "type": "ctr"
     },
     "fko": {
-        "count": 189,
+        "total_count": 189,
         "meaning": "one, they (unspecified agent)",
         "type": "pn"
     },
     "tsa\u2019u": {
-        "count": 175,
+        "total_count": 175,
         "meaning": "that (thing)",
         "type": "pn"
     },
     "m\u00ec": {
-        "count": 135,
+        "total_count": 135,
         "meaning": "in, on",
         "type": "adp:len"
     },
     "srak": {
-        "count": 125,
+        "total_count": 125,
         "meaning": "yes/no (question marker for yes-or-no questions)",
         "type": "part"
     },
     "new": {
-        "count": 121,
+        "total_count": 121,
         "meaning": "want",
         "type": "v:tr"
     },
     "sunu": {
-        "count": 121,
+        "total_count": 121,
         "meaning": "be pleasing, be likeable; bring enjoyment",
         "type": "v:in"
     },
     "pawm": {
-        "count": 119,
+        "total_count": 119,
         "meaning": "ask",
         "type": "v:tr"
     },
     "rel": {
-        "count": 112,
+        "total_count": 112,
         "meaning": "image, picture",
         "type": "n"
     },
     "zene": {
-        "count": 112,
+        "total_count": 112,
         "meaning": "must",
         "type": "v:m"
     },
     "n\u00ecteng": {
-        "count": 109,
+        "total_count": 109,
         "meaning": "too, also; as well; likewise",
         "type": "adv"
     },
     "taluna": {
-        "count": 105,
+        "total_count": 105,
         "meaning": "because",
         "type": "conj"
     },
     "n\u00ectxan": {
-        "count": 101,
+        "total_count": 101,
         "meaning": "much (abstract), very",
         "type": "adv"
     },
     "l\u00ec\u2019u": {
-        "count": 98,
+        "total_count": 98,
         "meaning": "word",
         "type": "n"
     },
     "fte": {
-        "count": 97,
+        "total_count": 97,
         "meaning": "so that, in order to",
         "type": "conj"
     },
     "plltxe": {
-        "count": 91,
+        "total_count": 91,
         "meaning": "speak",
         "type": "v:tr"
     },
     "\u2019u": {
-        "count": 90,
+        "total_count": 90,
         "meaning": "thing (object, fact, abstraction)",
         "type": "n"
     },
     "kelku": {
-        "count": 89,
+        "total_count": 89,
         "meaning": "home, house",
         "type": "n"
     },
     "srane": {
-        "count": 88,
+        "total_count": 88,
         "meaning": "yes",
         "type": "part"
     },
     "kx\u00ec": {
-        "count": 88,
+        "total_count": 88,
         "meaning": "hello (casual)",
         "type": "intj"
     },
     "set": {
-        "count": 86,
+        "total_count": 86,
         "meaning": "now",
         "type": "adv"
     },
     "\u2019efu": {
-        "count": 84,
+        "total_count": 84,
         "meaning": "feel, sense, perceive",
         "type": "v:tr"
     },
     "krr": {
-        "count": 83,
+        "total_count": 83,
         "meaning": "time",
         "type": "n"
     },
     "tam": {
-        "count": 81,
+        "total_count": 81,
         "meaning": "suffice, be okay",
         "type": "v:in"
     },
     "len": {
-        "count": 79,
+        "total_count": 79,
         "meaning": "happen, occur",
         "type": "v:in"
     },
     "ha": {
-        "count": 79,
+        "total_count": 79,
         "meaning": "so, in that case",
         "type": "adv"
     },
     "kaltx\u00ec": {
-        "count": 79,
+        "total_count": 79,
         "meaning": "hello",
         "type": "intj"
     },
     "pxay": {
-        "count": 79,
+        "total_count": 79,
         "meaning": "many",
         "type": "adj"
     },
     "fp\u00ecl": {
-        "count": 75,
+        "total_count": 75,
         "meaning": "think",
         "type": "v:tr"
     },
     "f\u00ectseng": {
-        "count": 74,
+        "total_count": 74,
         "meaning": "here, this place",
         "type": "n"
     },
     "n\u00ec\u2019aw": {
-        "count": 74,
+        "total_count": 74,
         "meaning": "only",
         "type": "adv"
     },
     "pamrel": {
-        "count": 73,
+        "total_count": 73,
         "meaning": "writing",
         "type": "n"
     },
     "frapo": {
-        "count": 73,
+        "total_count": 73,
         "meaning": "everyone",
         "type": "pn"
     },
     "l\u00ec\u2019fya": {
-        "count": 71,
+        "total_count": 71,
         "meaning": "language",
         "type": "n"
     },
     "p\u00e4ngkxo": {
-        "count": 64,
+        "total_count": 64,
         "meaning": "chat, converse, have a conversation",
         "type": "v:in"
     },
     "tok": {
-        "count": 61,
+        "total_count": 61,
         "meaning": "be at, occupy a space",
         "type": "v:tr"
     },
     "lahe": {
-        "count": 61,
+        "total_count": 61,
         "meaning": "other, else",
         "type": "adj"
     },
     "mip": {
-        "count": 61,
+        "total_count": 61,
         "meaning": "new",
         "type": "adj"
     },
     "eltu": {
-        "count": 60,
+        "total_count": 60,
         "meaning": "brain",
         "type": "n"
     },
     "n\u00ecNa\u2019vi": {
-        "count": 60,
+        "total_count": 60,
         "meaning": "like the Na\u2019vi, Na\u2019vily",
         "type": "adv"
     },
     "slu": {
-        "count": 59,
+        "total_count": 59,
         "meaning": "become",
         "type": "v:cp"
     },
     "txo": {
-        "count": 58,
+        "total_count": 58,
         "meaning": "if",
         "type": "conj"
     },
     "t\u00eckangkem": {
-        "count": 58,
+        "total_count": 58,
         "meaning": "work",
         "type": "n"
     },
     "sran": {
-        "count": 58,
+        "total_count": 58,
         "meaning": "yes (colloquial)",
         "type": "part"
     },
     "peng": {
-        "count": 56,
+        "total_count": 56,
         "meaning": "tell",
         "type": "v:tr"
     },
     "yom": {
-        "count": 55,
+        "total_count": 55,
         "meaning": "eat",
         "type": "v:tr"
     },
     "fu": {
-        "count": 55,
+        "total_count": 55,
         "meaning": "or",
         "type": "conj"
     },
     "f\u00ectrr": {
-        "count": 54,
+        "total_count": 54,
         "meaning": "today",
         "type": "adv"
     },
     "eyktan": {
-        "count": 54,
+        "total_count": 54,
         "meaning": "leader",
         "type": "n"
     },
     "krra": {
-        "count": 53,
+        "total_count": 53,
         "meaning": "when, at the time that",
         "type": "conj"
     },
     "n\u00ec\u2019it": {
-        "count": 53,
+        "total_count": 53,
         "meaning": "a bit, a small amount (abstract)",
         "type": "adv"
     },
     "ta": {
-        "count": 52,
+        "total_count": 52,
         "meaning": "from (locative), from (temporal sense with other time words)",
         "type": "adp"
     },
     "tsakrr": {
-        "count": 51,
+        "total_count": 51,
         "meaning": "then, at that time, that time",
         "type": "adv"
     },
     "kea": {
-        "count": 51,
+        "total_count": 51,
         "meaning": "no (before a noun)",
         "type": "adj"
     },
     "pum": {
-        "count": 50,
+        "total_count": 50,
         "meaning": "\u2018one\u2019 (refers to another instance of a previously mentioned noun)",
         "type": "pn"
     },
     "trr": {
-        "count": 50,
+        "total_count": 50,
         "meaning": "day",
         "type": "n"
     },
     "lefngap": {
-        "count": 50,
+        "total_count": 50,
         "meaning": "metallic",
         "type": "adj"
     },
     "karyu": {
-        "count": 49,
+        "total_count": 49,
         "meaning": "teacher",
         "type": "n"
     },
     "kop": {
-        "count": 49,
+        "total_count": 49,
         "meaning": "too, also, additionally",
         "type": "adv"
     },
     "kehe": {
-        "count": 49,
+        "total_count": 49,
         "meaning": "no",
         "type": "part"
     },
     "n\u00ec\u2019ul": {
-        "count": 49,
+        "total_count": 49,
         "meaning": "more",
         "type": "adv"
     },
     "fa": {
-        "count": 48,
+        "total_count": 48,
         "meaning": "with, by means of",
         "type": "adp"
     },
     "omum": {
-        "count": 47,
+        "total_count": 47,
         "meaning": "know",
         "type": "v:tr"
     },
     "n\u00ecmun": {
-        "count": 47,
+        "total_count": 47,
         "meaning": "again",
         "type": "adv"
     },
     "\u2019a\u2019aw": {
-        "count": 47,
+        "total_count": 47,
         "meaning": "a few, several",
         "type": "adj"
     },
     "teri": {
-        "count": 46,
+        "total_count": 46,
         "meaning": "about, concerning",
         "type": "adp"
     },
     "yune": {
-        "count": 46,
+        "total_count": 46,
         "meaning": "listen to (intentionally)",
         "type": "v:tr"
     },
     "ngop": {
-        "count": 46,
+        "total_count": 46,
         "meaning": "create",
         "type": "v:tr"
     },
     "txanlokxe": {
-        "count": 45,
+        "total_count": 45,
         "meaning": "clan or tribal domain, country",
         "type": "n"
     },
     "kem": {
-        "count": 45,
+        "total_count": 45,
         "meaning": "action, deed",
         "type": "n"
     },
     "makto": {
-        "count": 44,
+        "total_count": 44,
         "meaning": "ride",
         "type": "v:tr"
     },
     "tekre": {
-        "count": 44,
+        "total_count": 44,
         "meaning": "skull",
         "type": "n"
     },
     "hahaw": {
-        "count": 44,
+        "total_count": 44,
         "meaning": "sleep",
         "type": "v:in"
     },
     "sar": {
-        "count": 43,
+        "total_count": 43,
         "meaning": "use",
         "type": "v:tr"
     },
     "mllte": {
-        "count": 43,
+        "total_count": 43,
         "meaning": "agree",
         "type": "v:in"
     },
     "hapx\u00ec": {
-        "count": 43,
+        "total_count": 43,
         "meaning": "part",
         "type": "n"
     },
     "sno": {
-        "count": 42,
+        "total_count": 42,
         "meaning": "his self, her self, its self",
         "type": "pn"
     },
     "s\u00ecltsan": {
-        "count": 42,
+        "total_count": 42,
         "meaning": "good (of its kind), well done",
         "type": "adj"
     },
     "leNa\u2019vi": {
-        "count": 42,
+        "total_count": 42,
         "meaning": "having to do with the Na\u2019vi, the People",
         "type": "adj"
     },
     "za\u2019u": {
-        "count": 42,
+        "total_count": 42,
         "meaning": "come",
         "type": "v:in"
     },
     "uvan": {
-        "count": 41,
+        "total_count": 41,
         "meaning": "game",
         "type": "n"
     },
     "kar": {
-        "count": 41,
+        "total_count": 41,
         "meaning": "teach",
         "type": "v:tr"
     },
     "si": {
-        "count": 41,
+        "total_count": 41,
         "meaning": "(auxiliary verb)",
         "type": "v:si"
     },
     "mi": {
-        "count": 40,
+        "total_count": 40,
         "meaning": "yet, still, as before",
         "type": "adv"
     },
     "ko": {
-        "count": 40,
+        "total_count": 40,
         "meaning": "\u2018let\u2019s\u2019 (particle to solicit agreement)",
         "type": "part"
     },
     "z\u00ecs\u00ect": {
-        "count": 39,
+        "total_count": 39,
         "meaning": "year",
         "type": "n"
     },
     "pongu": {
-        "count": 39,
+        "total_count": 39,
         "meaning": "group of people, party",
         "type": "n"
     },
     "syaw": {
-        "count": 39,
+        "total_count": 39,
         "meaning": "call",
         "type": "v:in"
     },
     "koren": {
-        "count": 38,
+        "total_count": 38,
         "meaning": "rule, guideline",
         "type": "n"
     },
     "yayayr": {
-        "count": 37,
+        "total_count": 37,
         "meaning": "confusion",
         "type": "n"
     },
     "inan": {
-        "count": 37,
+        "total_count": 37,
         "meaning": "read (e.g. the forest), gain knowledge from sensory input",
         "type": "v:tr"
     },
     "olo\u2019eyktan": {
-        "count": 37,
+        "total_count": 37,
         "meaning": "clan leader",
         "type": "n"
     },
     "oeng": {
-        "count": 36,
+        "total_count": 36,
         "meaning": "we, us (inclusive)",
         "type": "pn"
     },
     "txantsan": {
-        "count": 36,
+        "total_count": 36,
         "meaning": "excellent",
         "type": "adj"
     },
     "kxawm": {
-        "count": 35,
+        "total_count": 35,
         "meaning": "perhaps, maybe",
         "type": "adv"
     },
     "nume": {
-        "count": 35,
+        "total_count": 35,
         "meaning": "learn",
         "type": "v:in"
     },
     "li": {
-        "count": 34,
+        "total_count": 34,
         "meaning": "already",
         "type": "adv"
     },
     "fmi": {
-        "count": 34,
+        "total_count": 34,
         "meaning": "try, attempt",
         "type": "v:tr"
     },
     "n\u00ecn": {
-        "count": 34,
+        "total_count": 34,
         "meaning": "look at",
         "type": "v:tr"
     },
     "tsn\u00ec": {
-        "count": 33,
+        "total_count": 33,
         "meaning": "that (function word)",
         "type": "ctr"
     },
     "t\u00ecng": {
-        "count": 33,
+        "total_count": 33,
         "meaning": "give",
         "type": "v:tr"
     },
     "kanom": {
-        "count": 33,
+        "total_count": 33,
         "meaning": "acquire, get",
         "type": "v:tr"
     },
     "san": {
-        "count": 33,
+        "total_count": 33,
         "meaning": "(start-of-quote particle)",
         "type": "part"
     },
     "pamtseo": {
-        "count": 33,
+        "total_count": 33,
         "meaning": "music",
         "type": "n"
     },
     "vur": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "story",
         "type": "n"
     },
     "kin": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "need",
         "type": "v:tr"
     },
     "ne": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "to, towards (direction)",
         "type": "adp"
     },
     "ngian": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "however",
         "type": "adv"
     },
     "srake": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "yes/no (question marker for yes-or-no questions)",
         "type": "part"
     },
     "terkup": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "die",
         "type": "v:in"
     },
     "tse\u2019a": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "see (physical sense)",
         "type": "v:tr"
     },
     "olo\u2019": {
-        "count": 32,
+        "total_count": 32,
         "meaning": "clan",
         "type": "n"
     },
     "ya": {
-        "count": 31,
+        "total_count": 31,
         "meaning": "air",
         "type": "n"
     },
     "smon": {
-        "count": 30,
+        "total_count": 30,
         "meaning": "be familiar, be known (with dative)",
         "type": "v:in"
     },
     "n\u00echawng": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "too, excessively",
         "type": "adv"
     },
     "puk": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "book",
         "type": "n"
     },
     "frakrr": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "always, all the time",
         "type": "adv"
     },
     "herw\u00ec": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "snow",
         "type": "n"
     },
     "t\u00ectxen": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "awakeness, the state of waking",
         "type": "n"
     },
     "tskxekeng": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "training, exercise",
         "type": "n"
     },
     "fya\u2019o": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "path, way, manner",
         "type": "n"
     },
     "ska\u2019a": {
-        "count": 29,
+        "total_count": 29,
         "meaning": "destroy",
         "type": "v:tr"
     },
     "fpom": {
-        "count": 28,
+        "total_count": 28,
         "meaning": "wellbeing, peace, happiness",
         "type": "n"
     },
     "fkeytok": {
-        "count": 28,
+        "total_count": 28,
         "meaning": "exist",
         "type": "v:in"
     },
     "keftxo": {
-        "count": 28,
+        "total_count": 28,
         "meaning": "unhappy, upset",
         "type": "adj"
     },
     "ftia": {
-        "count": 28,
+        "total_count": 28,
         "meaning": "study",
         "type": "v:tr"
     },
     "irayo": {
-        "count": 28,
+        "total_count": 28,
         "meaning": "thank you, thanks",
         "type": "n"
     },
     "s\u00e4\u2019o": {
-        "count": 28,
+        "total_count": 28,
         "meaning": "tool, utensil",
         "type": "n"
     },
     "kezemplltxe": {
-        "count": 27,
+        "total_count": 27,
         "meaning": "of course, needless to say",
         "type": "adv"
     },
     "n\u00ecwotx": {
-        "count": 27,
+        "total_count": 27,
         "meaning": "all (of), in toto, completely",
         "type": "adv"
     },
     "nitram": {
-        "count": 27,
+        "total_count": 27,
         "meaning": "happy (of people)",
         "type": "adj"
     },
     "n\u00ecngay": {
-        "count": 27,
+        "total_count": 27,
         "meaning": "truly",
         "type": "adv"
     },
     "lam": {
-        "count": 27,
+        "total_count": 27,
         "meaning": "seem, appear",
         "type": "v:in"
     },
     "fmawn": {
-        "count": 27,
+        "total_count": 27,
         "meaning": "news, something to report",
         "type": "n"
     },
     "\u2019em": {
-        "count": 27,
+        "total_count": 27,
         "meaning": "cook",
         "type": "v:tr"
     },
     "zum": {
-        "count": 26,
+        "total_count": 26,
         "meaning": "object, thing (physical or tangible)",
         "type": "n"
     },
     "alo": {
-        "count": 26,
+        "total_count": 26,
         "meaning": "time, turn, instance, one of a number of repeated or recurring actions",
         "type": "n"
     },
     "tut": {
-        "count": 26,
+        "total_count": 26,
         "meaning": "continuation marker",
         "type": "part"
     },
     "pefya": {
-        "count": 26,
+        "total_count": 26,
         "meaning": "how",
         "type": "inter"
     },
     "ngeyn": {
-        "count": 26,
+        "total_count": 26,
         "meaning": "tired",
         "type": "adj"
     },
     "run": {
-        "count": 26,
+        "total_count": 26,
         "meaning": "find, discover",
         "type": "v:tr"
     },
     "tafral": {
-        "count": 26,
+        "total_count": 26,
         "meaning": "therefore, because of that",
         "type": "adv"
     },
     "zup": {
-        "count": 25,
+        "total_count": 25,
         "meaning": "fall",
         "type": "v:in"
     },
     "srer": {
-        "count": 25,
+        "total_count": 25,
         "meaning": "appear, materialize, come into view",
         "type": "v:in"
     },
     "kosman": {
-        "count": 25,
+        "total_count": 25,
         "meaning": "wonderful, terrific, fantastic",
         "type": "adj"
     },
     "tse": {
-        "count": 25,
+        "total_count": 25,
         "meaning": "well, you know (conversation starter)",
         "type": "intj"
     },
     "\u2019eylan": {
-        "count": 25,
+        "total_count": 25,
         "meaning": "friend",
         "type": "n"
     },
     "rou": {
-        "count": 24,
+        "total_count": 24,
         "meaning": "be, or get drunk",
         "type": "v:in"
     },
     "tseng": {
-        "count": 24,
+        "total_count": 24,
         "meaning": "place",
         "type": "n"
     },
     "numeyu": {
-        "count": 24,
+        "total_count": 24,
         "meaning": "student",
         "type": "n"
     },
     "na": {
-        "count": 24,
+        "total_count": 24,
         "meaning": "like, as",
         "type": "adp"
     },
     "hum": {
-        "count": 24,
+        "total_count": 24,
         "meaning": "leave, depart",
         "type": "v:in"
     },
     "hapx\u00ectu": {
-        "count": 24,
+        "total_count": 24,
         "meaning": "member",
         "type": "n"
     },
     "ng\u00e4z\u00eck": {
-        "count": 24,
+        "total_count": 24,
         "meaning": "difficult, hard",
         "type": "adj"
     },
     "s\u00eclpey": {
-        "count": 23,
+        "total_count": 23,
         "meaning": "hope (with tsn\u00ec for thing hoped, unless in independent clause)",
         "type": "v:in"
     },
     "Yuesey": {
-        "count": 23,
+        "total_count": 23,
         "meaning": "U.S.A.",
         "type": "n:pr"
     },
     "atxkxe": {
-        "count": 23,
+        "total_count": 23,
         "meaning": "land",
         "type": "n"
     },
     "fpi": {
-        "count": 23,
+        "total_count": 23,
         "meaning": "for the sake of, for the benefit of",
         "type": "adp:len"
     },
     "fyape": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "how",
         "type": "inter"
     },
     "mokri": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "voice",
         "type": "n"
     },
     "hu": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "with (accompaniment)",
         "type": "adp"
     },
     "zey": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "special, distinct",
         "type": "adj"
     },
     "srung": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "help, assistance",
         "type": "n"
     },
     "zo": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "be well, be intact, be as it should be, work correctly or as nature intended",
         "type": "v:in"
     },
     "t\u00ecfkeytok": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "state, condition, situation",
         "type": "n"
     },
     "tslam": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "understand",
         "type": "v:tr"
     },
     "kefyak": {
-        "count": 22,
+        "total_count": 22,
         "meaning": "isn\u2019t it?, right?",
         "type": "part"
     },
     "f\u00eckem": {
-        "count": 21,
+        "total_count": 21,
         "meaning": "this (action)",
         "type": "pn"
     },
     "frato": {
-        "count": 21,
+        "total_count": 21,
         "meaning": "than all (superlative marker)",
         "type": "part"
     },
     "syuve": {
-        "count": 21,
+        "total_count": 21,
         "meaning": "food (collective noun, cannot be pluralised)",
         "type": "n"
     },
     "latem": {
-        "count": 21,
+        "total_count": 21,
         "meaning": "change",
         "type": "v:in"
     },
     "pay": {
-        "count": 21,
+        "total_count": 21,
         "meaning": "water, liquid",
         "type": "n"
     },
     "Na\u2019vi": {
-        "count": 21,
+        "total_count": 21,
         "meaning": "the People, indigenous Pandoran sentient race",
         "type": "n:pr"
     },
     "ftx\u00eclor": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "delicious, good tasting",
         "type": "adj"
     },
     "ultxa": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "meeting",
         "type": "n"
     },
     "t\u00eclen": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "event, happening",
         "type": "n"
     },
     "tuteo": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "somebody, someone",
         "type": "pn"
     },
     "k\u00e4": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "go",
         "type": "v:in"
     },
     "px\u00ecm": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "often",
         "type": "adv"
     },
     "sng\u00e4\u2019i": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "begin, start",
         "type": "v:m"
     },
     "rolun": {
-        "count": 20,
+        "total_count": 20,
         "meaning": "Eureka! I\u2019ve found it!",
         "type": "intj"
     },
     "krrka": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "during",
         "type": "adp"
     },
     "teynga": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "that answer (indirect question marker)",
         "type": "ctr"
     },
     "kintrr": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "week",
         "type": "n"
     },
     "kifkey": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "world (physical, solid)",
         "type": "n"
     },
     "s\u00eck": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "(end-of-quote particle)",
         "type": "part"
     },
     "tengkrr": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "while, same time as",
         "type": "conj"
     },
     "tsatseng": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "there, that place",
         "type": "n"
     },
     "ma": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "O (vocative marker)",
         "type": "part"
     },
     "\u2019awve": {
-        "count": 19,
+        "total_count": 19,
         "meaning": "first (ordinal)",
         "type": "adj"
     },
     "fnu": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "quiet, be quiet",
         "type": "v:in"
     },
     "s\u00e4fp\u00ecl": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "idea",
         "type": "n"
     },
     "pehem": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "what (action)",
         "type": "inter"
     },
     "ftu": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "from (direction)",
         "type": "adp"
     },
     "var": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "to persist in a state, to continue to perform an action",
         "type": "v:m"
     },
     "peu": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "what (thing)",
         "type": "inter"
     },
     "txan": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "much",
         "type": "adj"
     },
     "tstxo": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "name",
         "type": "n"
     },
     "nga\u2019": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "contain",
         "type": "v:tr"
     },
     "t\u00ec\u2019efu": {
-        "count": 18,
+        "total_count": 18,
         "meaning": "feeling",
         "type": "n"
     },
     "lefpom": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "happy, peaceful, joyous, pleasant",
         "type": "adj"
     },
     "stxeli": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "gift",
         "type": "n"
     },
     "n\u00ecltsan": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "well",
         "type": "adv"
     },
     "tanh\u00ec": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "star, bioluminescent freckle",
         "type": "n"
     },
     "kempe": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "what (action)",
         "type": "inter"
     },
     "pey": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "wait, wait for",
         "type": "v:in"
     },
     "tsenge": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "place",
         "type": "n"
     },
     "t\u00ecrol": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "song (vocal)",
         "type": "n"
     },
     "tsleng": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "false",
         "type": "adj"
     },
     "n\u00ecfya\u2019o": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "in a manner",
         "type": "adv"
     },
     "fpe\u2019": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "send",
         "type": "v:tr"
     },
     "pe\u2019un": {
-        "count": 17,
+        "total_count": 17,
         "meaning": "decide",
         "type": "v:tr"
     },
     "ftxoz\u00e4": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "celebration, happy occasion",
         "type": "n"
     },
     "sweylu": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "should",
         "type": "v:in"
     },
     "nawm": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "great, noble",
         "type": "adj"
     },
     "ftxey": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "choose",
         "type": "v:tr"
     },
     "t\u00ecpawm": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "question",
         "type": "n"
     },
     "fmawnta": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "that news (reported observations marker)",
         "type": "ctr"
     },
     "tung": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "allow",
         "type": "v:tr"
     },
     "n\u00eckeftxo": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "unfortunately, sadly",
         "type": "adv"
     },
     "\u00ecl\u00e4": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "by, via, following, according to",
         "type": "adp:len"
     },
     "s\u00e4omum": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "(piece of) information",
         "type": "n"
     },
     "\u2019umtsa": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "medicine",
         "type": "n"
     },
     "l\u00ec\u2019uk\u00ecng": {
-        "count": 16,
+        "total_count": 16,
         "meaning": "sentence",
         "type": "n"
     },
     "pelun": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "why",
         "type": "inter"
     },
     "n\u00ecwin": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "fast,  quickly",
         "type": "adv"
     },
     "rim": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "yellow",
         "type": "adj"
     },
     "n\u00e4k": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "drink",
         "type": "v:tr"
     },
     "t\u00ecfmetok": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "test",
         "type": "n"
     },
     "stum": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "almost",
         "type": "adv"
     },
     "hay": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "next",
         "type": "adj"
     },
     "\u00ec\u00ec": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "um, er",
         "type": "intj"
     },
     "yafkeyk": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "weather",
         "type": "n"
     },
     "l\u00ec\u2019upuk": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "dictionary",
         "type": "n"
     },
     "r\u00e4\u2019\u00e4": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "do not (for negative imperatives, commands only)",
         "type": "part"
     },
     "\u2019\u00e4\u2019": {
-        "count": 15,
+        "total_count": 15,
         "meaning": "oops!",
         "type": "intj"
     },
     "skxawng": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "moron, idiot",
         "type": "n"
     },
     "okup": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "milk",
         "type": "n"
     },
     "t\u00ecp\u00e4ngkxo": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "conversation, discussion",
         "type": "n"
     },
     "txon": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "night",
         "type": "n"
     },
     "nulkrr": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "longer (time)",
         "type": "adv"
     },
     "ralpeng": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "interpret, translate",
         "type": "v:tr"
     },
     "ean": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "blue, green",
         "type": "adj"
     },
     "leymkem": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "protest",
         "type": "v:in"
     },
     "ngong": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "lethargic, lacking sufficient energy, lazy",
         "type": "adj"
     },
     "txankrr": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "for a long time",
         "type": "adv"
     },
     "mawkrr": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "after, afterwards, later",
         "type": "adv"
     },
     "ngopyu": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "creator",
         "type": "n"
     },
     "s\u00e4stars\u00ecm": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "collection (put together intentionally by a person)",
         "type": "n"
     },
     "keml\u00ec\u2019u": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "verb",
         "type": "n"
     },
     "pa\u2019li": {
-        "count": 14,
+        "total_count": 14,
         "meaning": "direhorse",
         "type": "n"
     },
     "hek": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "to be curious, odd, strange, unexpected",
         "type": "v:in"
     },
     "layon": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "black",
         "type": "adj"
     },
     "tsy\u00e4nel": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "TV channel",
         "type": "n"
     },
     "n\u00ecsung": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "besides, additionally, furthermore",
         "type": "adv"
     },
     "kawtu": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "noone",
         "type": "pn"
     },
     "txurtel": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "rope",
         "type": "n"
     },
     "keteng": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "different",
         "type": "adj"
     },
     "w\u00e4tu": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "opponent",
         "type": "n"
     },
     "spxin": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "sick",
         "type": "adj"
     },
     "yewla": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "disappointment, emotional letdown, failed expectation",
         "type": "n"
     },
     "yrrap": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "storm",
         "type": "n"
     },
     "syep": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "trap",
         "type": "v:tr"
     },
     "kolan": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "I mean, rather (selfcorrecting)",
         "type": "intj"
     },
     "tsafya": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "that way, like that",
         "type": "adv"
     },
     "tompa": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "rain",
         "type": "n"
     },
     "tutan": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "man, male (person)",
         "type": "n"
     },
     "t\u00ecsraw": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "pain",
         "type": "n"
     },
     "tswa\u2019": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "forget",
         "type": "v:tr"
     },
     "\u2019eko": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "attack",
         "type": "v:tr"
     },
     "l\u00ec\u2019fyaolo\u2019": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "language group, language users",
         "type": "n"
     },
     "\u2019upxare": {
-        "count": 13,
+        "total_count": 13,
         "meaning": "message",
         "type": "n"
     },
     "wutso": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "dinner, served meal",
         "type": "n"
     },
     "vey": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "meat, any food of animal origin (including fowl, fish, insects, eggs, milk)",
         "type": "n"
     },
     "pxiset": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "right now",
         "type": "adv"
     },
     "t\u00e4txaw": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "return",
         "type": "v:in"
     },
     "tsim": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "source",
         "type": "n"
     },
     "srefwa": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "before",
         "type": "conj"
     },
     "unilt\u00ecrantokx": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "avatar",
         "type": "n"
     },
     "nari": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "eye",
         "type": "n"
     },
     "lrrtok": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "smile",
         "type": "n"
     },
     "atan": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "light",
         "type": "n"
     },
     "n\u00ecfrakrr": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "as always",
         "type": "adv"
     },
     "txopu": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "fear",
         "type": "n"
     },
     "kllte": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "ground",
         "type": "n"
     },
     "kawkrr": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "never",
         "type": "adv"
     },
     "to": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "\u2018than\u2019 (comparative marker)",
         "type": "part"
     },
     "t\u00ectxula": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "construction, constructed thing",
         "type": "n"
     },
     "t\u00eckan": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "aim, goal, purpose, target",
         "type": "n"
     },
     "ftang": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "stop",
         "type": "v:m"
     },
     "\u2019ewll": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "plant",
         "type": "n"
     },
     "fe\u2019": {
-        "count": 12,
+        "total_count": 12,
         "meaning": "bad",
         "type": "adj"
     },
     "f\u00ectsenge": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "here, this place",
         "type": "n"
     },
     "t\u00ecyawr": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "correctness",
         "type": "n"
     },
     "fmokx": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "jealousy, envy",
         "type": "n"
     },
     "Toitsye": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "German (language)",
         "type": "adj"
     },
     "w\u00ecntxu": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "show",
         "type": "v:tr"
     },
     "hufwe": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "wind",
         "type": "n"
     },
     "txep": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "fire",
         "type": "n"
     },
     "s\u00e4numvi": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "lesson",
         "type": "n"
     },
     "apxa": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "large",
         "type": "adj"
     },
     "post\u00ec": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "(forum/blog) post",
         "type": "n"
     },
     "swey": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "best",
         "type": "adj"
     },
     "tsngawv\u00eck": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "cry, weep",
         "type": "v:in"
     },
     "lehrrap": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "dangerous",
         "type": "adj"
     },
     "h\u00ectxoa": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "excuse me",
         "type": "intj"
     },
     "f\u00ecfya": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "this way, like this",
         "type": "adv"
     },
     "frawzo": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "all is well, everything is fine or OK",
         "type": "intj"
     },
     "tsmuk": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "sibling",
         "type": "n"
     },
     "ngay": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "true",
         "type": "adj"
     },
     "zong": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "save, defend",
         "type": "v:tr"
     },
     "t\u00ecftia": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "study",
         "type": "n"
     },
     "fayluta": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "these words (reported speech marker)",
         "type": "ctr"
     },
     "soaia": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "family",
         "type": "n"
     },
     "n\u00ecftxan": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "so, to such an extent",
         "type": "adv"
     },
     "s\u00e4spxin": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "disease, sickness, illness",
         "type": "n"
     },
     "pam": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "sound",
         "type": "n"
     },
     "tsunslu": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "may, be possible",
         "type": "v:in"
     },
     "t\u00ecftiatu": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "researcher",
         "type": "n"
     },
     "tstu": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "closed, shut, overcast (for cloudy skies)",
         "type": "adj"
     },
     "taw": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "sky",
         "type": "n"
     },
     "n\u00ecpxi": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "especially, pointedly, unambiguously",
         "type": "adv"
     },
     "yur": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "wash",
         "type": "v:tr"
     },
     "h\u00ec\u2019ang": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "insect",
         "type": "n"
     },
     "\u2019\u00ec\u2019awn": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "remain, stay",
         "type": "v:in"
     },
     "n\u00ecprrte\u2019": {
-        "count": 11,
+        "total_count": 11,
         "meaning": "pleasurably, gladly, with pleasure",
         "type": "adv"
     },
     "pak": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "disparagement",
         "type": "part"
     },
     "wur": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "cool, chilly",
         "type": "adj"
     },
     "som": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "hot",
         "type": "adj"
     },
     "nantangtsy\u00ecp": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "dog (earth animal), lit. little nantang",
         "type": "n"
     },
     "ftue": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "easy, simple",
         "type": "adj"
     },
     "txula": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "build, construct",
         "type": "v:tr"
     },
     "hasey": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "done, finished",
         "type": "adj"
     },
     "kxakx": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "break, snap in two",
         "type": "v:in"
     },
     "steftxaw": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "examine, check",
         "type": "v:tr"
     },
     "salew": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "proceed, go",
         "type": "v:?"
     },
     "tsawtsray": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "small or medium-sized city",
         "type": "n"
     },
     "vin": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "request, ask for",
         "type": "v:tr"
     },
     "tsawl": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "big (in size), tall",
         "type": "adj"
     },
     "t\u00ecrey": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "life",
         "type": "n"
     },
     "tsaktap": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "violence",
         "type": "n"
     },
     "tolel": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "Eureka! I found it! I understand!",
         "type": "intj"
     },
     "tel": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "receive",
         "type": "v:tr"
     },
     "txasunu": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "love greatly, enjoy tremendously",
         "type": "v:in"
     },
     "tsawlultxa": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "large gathering, conference",
         "type": "n"
     },
     "kan": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "aim, to direct a weapon or other object at a target",
         "type": "v:tr"
     },
     "frrfen": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "visit",
         "type": "v:tr"
     },
     "sleyku": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "produce",
         "type": "v:tr"
     },
     "lun": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "reason",
         "type": "n"
     },
     "kx\u00ecm": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "command, order, assign a task",
         "type": "v:tr"
     },
     "natkenong": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "for example, as an example",
         "type": "conj"
     },
     "ikran": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "ikran, banshee",
         "type": "n"
     },
     "zeyko": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "heal, fix",
         "type": "v:tr"
     },
     "t\u00ecng\u00e4z\u00eck": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "difficulty, problem",
         "type": "n"
     },
     "rol": {
-        "count": 10,
+        "total_count": 10,
         "meaning": "sing",
         "type": "v:?"
     },
     "kekem": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "no action or activity",
         "type": "n"
     },
     "teylu": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "beetle larva",
         "type": "n"
     },
     "trrpuve": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "Friday",
         "type": "n"
     },
     "kaym": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "evening (before twilight), late afternoon",
         "type": "n"
     },
     "n\u00ecfkrr": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "lately, currently",
         "type": "adv"
     },
     "txint\u00ecn": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "occupation, primary role in society",
         "type": "n"
     },
     "tsam": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "war",
         "type": "n"
     },
     "Tawtute": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "Skyperson, human",
         "type": "n"
     },
     "ioang": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "animal, beast",
         "type": "n"
     },
     "tul": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "run",
         "type": "v:in"
     },
     "muve": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "second (ordinal)",
         "type": "adj"
     },
     "letokx": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "bodily, physical",
         "type": "adj"
     },
     "n\u00ecsok": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "recently",
         "type": "adv"
     },
     "Toitslan": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "Germany",
         "type": "n:pr"
     },
     "trram": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "yesterday",
         "type": "adv"
     },
     "txampay": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "sea, ocean",
         "type": "n"
     },
     "tsranten": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "matter, be of importance",
         "type": "v:in"
     },
     "txele": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "matter (subject)",
         "type": "n"
     },
     "kawng": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "bad, evil",
         "type": "adj"
     },
     "w\u00e4tx": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "be bad at",
         "type": "v:tr"
     },
     "unil": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "dream",
         "type": "n"
     },
     "kuma": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "that (as a result)",
         "type": "conj"
     },
     "yawne": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "beloved",
         "type": "adj"
     },
     "tspang": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "kill",
         "type": "v:tr"
     },
     "rutxe": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "please",
         "type": "intj"
     },
     "ohakx": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "hungry",
         "type": "adj"
     },
     "piak": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "open, clear (for cloudless skies)",
         "type": "adj"
     },
     "syura": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "energy (physical or spiritual)",
         "type": "n"
     },
     "txantsawtsray": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "large city, metropolis",
         "type": "n"
     },
     "rey": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "live",
         "type": "v:in"
     },
     "\u2019\u00ecp": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "disappear, vanish, recede from view",
         "type": "v:in"
     },
     "n\u00ec\u2019ul\u2019ul": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "increasingly, more and more",
         "type": "adv"
     },
     "ro\u2019a": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "be impressive, inspire awe or respect",
         "type": "v:in"
     },
     "\u2019awsiteng": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "together",
         "type": "adv"
     },
     "\u2019eveng": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "child",
         "type": "n"
     },
     "tsakem": {
-        "count": 9,
+        "total_count": 9,
         "meaning": "that (action)",
         "type": "n"
     },
     "pehrr": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "when",
         "type": "inter"
     },
     "fwew": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "look for, seek, search",
         "type": "v:tr"
     },
     "oare": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "moon",
         "type": "n"
     },
     "tseri": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "note, notice",
         "type": "v:tr"
     },
     "syewe": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "fat (substance in meat)",
         "type": "n"
     },
     "tsyosyu": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "food made from flour",
         "type": "n"
     },
     "rewon": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "morning",
         "type": "n"
     },
     "txonam": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "last night",
         "type": "adv"
     },
     "t\u00eckin": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "need",
         "type": "n"
     },
     "talun": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "because of, due to",
         "type": "adp"
     },
     "wem": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "fight",
         "type": "v:in"
     },
     "yo": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "surface",
         "type": "n"
     },
     "prrnen": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "infant, baby",
         "type": "n"
     },
     "\u00e4tx\u00e4le": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "request",
         "type": "n"
     },
     "tsmuke": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "sister",
         "type": "n"
     },
     "ral": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "meaning",
         "type": "n"
     },
     "n\u00ectam": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "enough",
         "type": "adv"
     },
     "letsranten": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "important",
         "type": "adj"
     },
     "meuia": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "honor",
         "type": "n"
     },
     "maw": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "after (time)",
         "type": "adp"
     },
     "kintrram": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "last week",
         "type": "n"
     },
     "utral": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "tree",
         "type": "n"
     },
     "vospx\u00ec": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "month",
         "type": "n"
     },
     "txen": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "awake",
         "type": "adj"
     },
     "eyawr": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "correct, right",
         "type": "adj"
     },
     "t\u00eckangkemvi": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "project, piece of work",
         "type": "n"
     },
     "weptseng": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "website",
         "type": "n"
     },
     "t\u00eckanu": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "intelligence",
         "type": "n"
     },
     "tor": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "last, ultimate, terminal",
         "type": "adj"
     },
     "n\u00ec\u2019awtu": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "alone (as one person)",
         "type": "adv"
     },
     "lekye\u2019ung": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "insane, crazy",
         "type": "adj"
     },
     "t\u00ec\u2019eyng": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "answer, response",
         "type": "n"
     },
     "\u2019uo": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "something",
         "type": "pn"
     },
     "\u2019i\u2019a": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "end, conclude",
         "type": "v:in"
     },
     "ye\u2019r\u00ecn": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "soon",
         "type": "adv"
     },
     "n\u00ec\u2019i\u2019a": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "finally, at long last",
         "type": "adv"
     },
     "l\u00ec\u2019fyavi": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "expression, bit of language",
         "type": "n"
     },
     "kaw\u2019it": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "not at all, not a bit (used with ke, see ke kaw\u2019it not...at all in phrases)",
         "type": "adv"
     },
     "le\u2019\u00ccngl\u00ecs\u00ec": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "English, of the English language",
         "type": "adj"
     },
     "\u2019Rrta": {
-        "count": 8,
+        "total_count": 8,
         "meaning": "Earth",
         "type": "n:pr"
     },
     "o": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "some, (with words of time) during",
         "type": "aff:suf"
     },
     "fkan": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "resemble in a sensory modality, come to the senses as",
         "type": "v:in"
     },
     "n\u00eclam": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "apparently",
         "type": "adv"
     },
     "fwel": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "broken",
         "type": "adj"
     },
     "z\u00e4fi": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "modified, interfered with, no longer in a natural state",
         "type": "adj"
     },
     "sko": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "something as, in the capacity of, or in the role of, something else",
         "type": "adp:len"
     },
     "n\u00ecfkeytongay": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "actually, as a matter of fact",
         "type": "adv"
     },
     "sr\u00e4tx": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "annoy, bother",
         "type": "v:tr"
     },
     "w\u00e4": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "against (as in: fight against)",
         "type": "adp:len"
     },
     "leykek": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "enforce",
         "type": "v:tr"
     },
     "trray": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "tomorrow",
         "type": "adv"
     },
     "t\u00ecftxey": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "choice",
         "type": "n"
     },
     "f\u00ectsap": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "each other",
         "type": "adv"
     },
     "wew": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "cold",
         "type": "adj"
     },
     "numtseng": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "school",
         "type": "n"
     },
     "txasom": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "very hot",
         "type": "adj"
     },
     "toltem": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "shoot",
         "type": "v:tr"
     },
     "tokx": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "body",
         "type": "n"
     },
     "lawk": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "discourse on, talk about, say something concerning",
         "type": "v:tr"
     },
     "pxan": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "worthy",
         "type": "adj"
     },
     "eo": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "before, in front of (place)",
         "type": "adp"
     },
     "vay": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "up to",
         "type": "adp"
     },
     "tsamsiyu": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "warrior",
         "type": "n"
     },
     "syon": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "feature, trait, attribute, characteristic, point, aspect, facet, property",
         "type": "n"
     },
     "slan": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "support (emotional, social or personal support)",
         "type": "v:tr"
     },
     "pxor": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "explode",
         "type": "v:in"
     },
     "nivi": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "sleeping hammock (general term)",
         "type": "n"
     },
     "srey": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "version",
         "type": "n"
     },
     "sung": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "add",
         "type": "v:tr"
     },
     "\u2019o\u2019": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "bringing fun, exciting",
         "type": "adj"
     },
     "fra\u2019u": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "everything",
         "type": "pn"
     },
     "\u2019eyng": {
-        "count": 7,
+        "total_count": 7,
         "meaning": "answer, respond",
         "type": "v:?"
     },
     "tstunwi": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "kind, thoughtful, considerate",
         "type": "adj"
     },
     "seykxel": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "strong (emotionally, spiritually, not physical), confident",
         "type": "adj"
     },
     "hufwa": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "although",
         "type": "conj"
     },
     "kanu": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "smart, intelligent",
         "type": "adj"
     },
     "f\u00ectxan": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "so, to such an extent",
         "type": "adv"
     },
     "skxakep": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "probable",
         "type": "adj"
     },
     "numtsengvi": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "classroom, division of a school",
         "type": "n"
     },
     "swoa": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "intoxicating beverage, or \"spirits\"",
         "type": "n"
     },
     "loi": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "egg",
         "type": "n"
     },
     "hangvur": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "joke, funny story",
         "type": "n"
     },
     "yawntu": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "loved one",
         "type": "n"
     },
     "nulnew": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "prefer",
         "type": "v:tr"
     },
     "txampx\u00ec": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "majority, most, large part",
         "type": "n"
     },
     "kangay": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "valid",
         "type": "adj"
     },
     "lefkrr": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "current",
         "type": "adj"
     },
     "tson": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "obligation, duty, imposed requirement",
         "type": "n"
     },
     "tiam": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "count",
         "type": "v:tr"
     },
     "fpx\u00e4k\u00ecm": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "enter",
         "type": "v:in"
     },
     "kintrray": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "next week",
         "type": "n"
     },
     "lok": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "approach",
         "type": "v:tr"
     },
     "lekoren": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "lawlike",
         "type": "adj"
     },
     "vefya": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "system, process, procedure, approach",
         "type": "n"
     },
     "lew": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "cover, lid",
         "type": "n"
     },
     "ham": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "previous",
         "type": "adj"
     },
     "t\u00ecralpeng": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "translation, interpretation",
         "type": "n"
     },
     "kum": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "result",
         "type": "n"
     },
     "mok": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "suggest",
         "type": "v:tr"
     },
     "zeykoyu": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "healer",
         "type": "n"
     },
     "muw\u00ecntxu": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "introduce, present",
         "type": "v:tr"
     },
     "n\u00ecftue": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "easily",
         "type": "adv"
     },
     "syeprel": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "camera",
         "type": "n"
     },
     "p\u00eclok": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "blog",
         "type": "n"
     },
     "kam": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "ago",
         "type": "adp"
     },
     "fpxamo": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "terrible, horrible, awful",
         "type": "adj"
     },
     "alunta": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "because, from the reason",
         "type": "conj"
     },
     "n\u00eclun": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "of course, logically, following common sense",
         "type": "adv"
     },
     "tsonta": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "to (with kx\u00ecm)",
         "type": "conj"
     },
     "sa": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "rise to a challenge",
         "type": "v:in"
     },
     "txolar": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "dollar",
         "type": "n"
     },
     "tsulf\u00e4tu": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "master of an art, craft, or skill, expert",
         "type": "n"
     },
     "vaykrr": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "until",
         "type": "conj"
     },
     "reyfya": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "way of living, culture",
         "type": "n"
     },
     "fp\u00eclfya": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "thought pattern, way of thinking",
         "type": "n"
     },
     "holpxay": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "number",
         "type": "n"
     },
     "t\u00ecran": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "walk",
         "type": "v:in"
     },
     "pxaw": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "around",
         "type": "adp"
     },
     "pesu": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "who",
         "type": "inter"
     },
     "tswayon": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "fly",
         "type": "v:in"
     },
     "txawew": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "very cold",
         "type": "adj"
     },
     "vir\u00e4": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "spread, proliferate",
         "type": "v:?"
     },
     "tsawke": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "sun, Alpha Centauri A",
         "type": "n"
     },
     "sa\u2019nok": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "mother",
         "type": "n"
     },
     "kllfro\u2019": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "be responsible",
         "type": "v:in"
     },
     "sla\u2019tsu": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "describe",
         "type": "v:tr"
     },
     "\u2019it": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "bit, a small amount",
         "type": "n"
     },
     "wiya": {
-        "count": 6,
+        "total_count": 6,
         "meaning": "expression of warning or frustration, \u2019damn!\u2019",
         "type": "intj"
     },
     "sngum": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "worry",
         "type": "n"
     },
     "n\u00ecs\u00eclpey": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "hopefully",
         "type": "adv"
     },
     "syayvi": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "luck, chance",
         "type": "n"
     },
     "srefey": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "expect",
         "type": "v:tr"
     },
     "hona": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "endearing, adorable, cute",
         "type": "adj"
     },
     "txoa": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "forgiveness",
         "type": "n"
     },
     "nim": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "timid, shy",
         "type": "adj"
     },
     "stawm": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "hear",
         "type": "v:tr"
     },
     "fl\u00e4": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "succeed",
         "type": "v:in"
     },
     "teng": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "same, equal",
         "type": "adj"
     },
     "tsaheylu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "bond (neural connection)",
         "type": "n"
     },
     "tup": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "instead of, rather than",
         "type": "conj"
     },
     "spaw": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "believe",
         "type": "v:tr"
     },
     "tswal": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "power",
         "type": "n"
     },
     "fpap": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "pound",
         "type": "v:tr"
     },
     "tskxe": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "rock, stone",
         "type": "n"
     },
     "eyk": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "lead",
         "type": "v:tr"
     },
     "io": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "over,  above",
         "type": "adp"
     },
     "t\u00ecnew": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "desire",
         "type": "n"
     },
     "fkxara": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "stress (mental or emotional feeling)",
         "type": "n"
     },
     "k\u00e4munge": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "take",
         "type": "v:tr"
     },
     "zenke": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "must not",
         "type": "v:m"
     },
     "lonu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "release, let go",
         "type": "v:tr"
     },
     "zamunge": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "bring",
         "type": "v:tr"
     },
     "takuk": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "strike, beat, slap",
         "type": "v:tr"
     },
     "naer": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "drink, something able to be drunk",
         "type": "n"
     },
     "palulukantsy\u00ecp": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "cat (earth animal), lit. little palulukan",
         "type": "n"
     },
     "ketsran": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "no matter, no matter what, whatever",
         "type": "adj"
     },
     "s\u00e4wem": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "fight",
         "type": "n"
     },
     "txum": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "poison",
         "type": "n"
     },
     "fratrr": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "daily, every day",
         "type": "adv"
     },
     "mui\u00e4": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "proper, fair, right, justified",
         "type": "adj"
     },
     "yll": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "communal",
         "type": "adj"
     },
     "n\u00ecyey": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "directly, straight to the point",
         "type": "adv"
     },
     "reypay": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "blood",
         "type": "n"
     },
     "zerok": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "remember",
         "type": "v:tr"
     },
     "zoslu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "heal, become well, get fixed",
         "type": "v:in"
     },
     "ki": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "but rather, but instead",
         "type": "conj"
     },
     "fteke": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "so that not, lest",
         "type": "conj"
     },
     "kilvan": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "river",
         "type": "n"
     },
     "mawey": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "calm",
         "type": "adj"
     },
     "kxeyey": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "error, mistake",
         "type": "n"
     },
     "laro": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "clean",
         "type": "adj"
     },
     "hawnu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "protect, shelter",
         "type": "v:tr"
     },
     "kx\u00ecmyu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "commander, one with authority over another",
         "type": "n"
     },
     "tsalsungay": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "nevertheless, even so",
         "type": "adv"
     },
     "h\u00e4n": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "net, web",
         "type": "n"
     },
     "ayu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "things",
         "type": "n"
     },
     "lesar": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "useful",
         "type": "adj"
     },
     "lek": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "heed, obey",
         "type": "v:tr"
     },
     "keng": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "even, so much as",
         "type": "adv"
     },
     "sop": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "travel",
         "type": "v:in"
     },
     "rikx": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "move, shift position",
         "type": "v:in"
     },
     "payoang": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "fish",
         "type": "n"
     },
     "fratseng": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "everywhere",
         "type": "adv"
     },
     "koaktu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "old person",
         "type": "n"
     },
     "ve\u2019k\u00ec": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "hate",
         "type": "v:tr"
     },
     "ftxul\u00ec\u2019u": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "orate, give speech",
         "type": "v:in"
     },
     "sa\u2019sem": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "parent or set of parents",
         "type": "n"
     },
     "tsams\u00e4\u2019o": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "weapon of war",
         "type": "n"
     },
     "t\u00ec\u2019i\u2019a": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "ending, conclusion",
         "type": "n"
     },
     "h\u00ec\u2019i": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "small, little (in size)",
         "type": "adj"
     },
     "tsan\u2019ul": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "improve, get better",
         "type": "v:in"
     },
     "zawprrte\u2019": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "be enjoyable",
         "type": "v:in"
     },
     "\u2019ipu": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "humorous, funny, amusing",
         "type": "adj"
     },
     "ta\u2019leng": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "skin",
         "type": "n"
     },
     "na\u2019r\u00ecng": {
-        "count": 5,
+        "total_count": 5,
         "meaning": "forest",
         "type": "n"
     },
     "nui": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "fail, falter, go astray, not obtain expected or desired result",
         "type": "v:in"
     },
     "m\u00ecftxele": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "in this regard, related to this matter",
         "type": "adv"
     },
     "hawngkrr": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "late",
         "type": "adv"
     },
     "ngaytxoa": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "sorry, my apologies (acknowledgment of guilt and regret)",
         "type": "intj"
     },
     "z\u00ecskrrmipaw": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "spring",
         "type": "n"
     },
     "Eywa": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "Eywa, world spirit, Gaia",
         "type": "n:pr"
     },
     "syor": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "relax, chill out",
         "type": "v:in"
     },
     "n\u00ecvingkap": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "by the way, incidentally",
         "type": "adv"
     },
     "p\u00e4hem": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "arrive",
         "type": "v:in"
     },
     "narlor": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "beautiful visually",
         "type": "adj"
     },
     "kxa": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "mouth",
         "type": "n"
     },
     "walak": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "energetic, active",
         "type": "adj"
     },
     "sl\u00e4r": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "cave",
         "type": "n"
     },
     "weyn": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "draw, illustrate",
         "type": "v:tr"
     },
     "luke": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "without",
         "type": "adp"
     },
     "mo": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "space, hollow, enclosed open area",
         "type": "n"
     },
     "tsapo": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "that one (for people only)",
         "type": "pn"
     },
     "mawfwa": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "after",
         "type": "conj"
     },
     "txintseng": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "base of operations",
         "type": "n"
     },
     "sp\u00e4": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "jump",
         "type": "v:?"
     },
     "melo": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "twice",
         "type": "adv"
     },
     "srekrr": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "before, already, ahead of time",
         "type": "adv"
     },
     "oeykt\u00ecng": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "explain (why)",
         "type": "v:tr"
     },
     "s\u00e4w\u00ecntxu": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "showing, exhibition",
         "type": "n"
     },
     "y\u00ec": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "shelf, ledge, level, step, rung ",
         "type": "n"
     },
     "muntxatu": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "spouse",
         "type": "n"
     },
     "fyeyntu": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "adult person",
         "type": "n"
     },
     "kxan\u00ec": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "forbidden",
         "type": "adj"
     },
     "l\u00ecm": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "be far",
         "type": "v:in"
     },
     "kxap": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "threat",
         "type": "n"
     },
     "kavan": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "support (physically)",
         "type": "v:tr"
     },
     "skxir": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "wound",
         "type": "n"
     },
     "sl\u00e4kop": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "but also",
         "type": "adv"
     },
     "spulmokri": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "phone, telephone",
         "type": "n"
     },
     "tx\u00e4rem": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "bone",
         "type": "n"
     },
     "tstal": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "knife",
         "type": "n"
     },
     "hol": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "few",
         "type": "adj"
     },
     "law": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "clear, certain",
         "type": "adj"
     },
     "fmong": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "steal, rob",
         "type": "v:tr"
     },
     "t\u00ecmwi\u00e4": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "fairness, justice",
         "type": "n"
     },
     "ka": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "across, covering thoroughly",
         "type": "adp"
     },
     "lor": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "beautiful, pleasant to the senses",
         "type": "adj"
     },
     "vewng": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "look after, take care of, be responsible for",
         "type": "v:tr"
     },
     "srungsiyu": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "assistant, helper",
         "type": "n"
     },
     "zongtseng": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "safe place, refuge",
         "type": "n"
     },
     "sempul": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "father",
         "type": "n"
     },
     "hawl": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "prepare",
         "type": "v:tr"
     },
     "kelpx\u00ecmrun": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "rare",
         "type": "adj"
     },
     "n\u00ecn\u00e4n": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "less",
         "type": "adv"
     },
     "t\u00eclatem": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "change (abstract concept)",
         "type": "n"
     },
     "hiy\u00eck": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "funny, strange",
         "type": "adj"
     },
     "mawkrra": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "after (temporal)",
         "type": "conj"
     },
     "kllkxem": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "stand",
         "type": "v:in"
     },
     "tsray": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "village",
         "type": "n"
     },
     "mawl": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "half",
         "type": "n"
     },
     "\u2019upe": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "what (thing)",
         "type": "inter"
     },
     "emza\u2019u": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "pass (a test), overcome",
         "type": "v:tr"
     },
     "\u2019\u00ccngl\u00ecs\u00ec": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "English language",
         "type": "n"
     },
     "sng\u00e4\u2019iyu": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "beginner",
         "type": "n"
     },
     "ep\u2019ang": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "complex",
         "type": "adj"
     },
     "tsu\u2019o": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "ability",
         "type": "n"
     },
     "ha\u2019": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "fit, suit, complement, inherently enhance",
         "type": "v:in"
     },
     "\u2019awstengyem": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "bind / bring two or more things together",
         "type": "v:tr"
     },
     "tsap\u2019alute": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "apology",
         "type": "n"
     },
     "ken\u2019aw": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "not only",
         "type": "adv"
     },
     "n\u00ecsng\u00e4\u2019i": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "originally, at first",
         "type": "adv"
     },
     "n\u00eck\u2019ong": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "slowly",
         "type": "adv"
     },
     "k\u00ec\u2019ong": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "slow",
         "type": "adj"
     },
     "Neytiri": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "female Na\u2019vi of the Omatikaya Clan",
         "type": "n:pr"
     },
     "txe\u2019lan": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "heart",
         "type": "n"
     },
     "fpomtokxnga\u2019": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "healthful (physically)",
         "type": "adj"
     },
     "\u2019okvur": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "history (nonancient)",
         "type": "n"
     },
     "lepx\u00ecmrun": {
-        "count": 4,
+        "total_count": 4,
         "meaning": "common, often found",
         "type": "adj"
     },
     "kxutu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "enemy",
         "type": "n"
     },
     "n\u00ecmwey": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "calmly, peacefully",
         "type": "adv"
     },
     "Eytukan": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "male leader of the Omatikaya",
         "type": "n:pr"
     },
     "leytslam": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "appreciate",
         "type": "v:tr"
     },
     "n\u00ectengfya": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "as, same way as (similar action)",
         "type": "adv"
     },
     "k\u00e4teng": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "spend time with, hang out with",
         "type": "v:in"
     },
     "etr\u00ecp": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "favorable, auspicious",
         "type": "adj"
     },
     "letam": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "sufficient",
         "type": "adj"
     },
     "n\u00ecksran": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "in a mediocre manner",
         "type": "adv"
     },
     "tewti": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "wow, expression of surprise and pleasure",
         "type": "intj"
     },
     "krrnekx": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "take/consume time",
         "type": "v:in"
     },
     "t\u00eckxey": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "incorrectness, mistakeness",
         "type": "n"
     },
     "tsulf\u00e4": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "mastery",
         "type": "n"
     },
     "pewn": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "neck",
         "type": "n"
     },
     "kom": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "dare",
         "type": "v:m"
     },
     "me": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "(dual)",
         "type": "aff:pre"
     },
     "p\u00ecsaw": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "clumsy, accidentprone",
         "type": "adj"
     },
     "ngenga": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "you (honorific form)",
         "type": "pn"
     },
     "lemweypey": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "patient",
         "type": "adj"
     },
     "ekxan": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "barricade, obstruction",
         "type": "n"
     },
     "key": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "face",
         "type": "n"
     },
     "p\u00e4ngkxoyu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "chatter, converser",
         "type": "n"
     },
     "tsyeym": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "treasure, something rare and of great value",
         "type": "n"
     },
     "yayo": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "bird",
         "type": "n"
     },
     "tsongropx": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "hole, cavity, excavation with a bottom (visible or presumed)",
         "type": "n"
     },
     "tengfya": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "as, same way as (situational similarity)",
         "type": "conj"
     },
     "pamrelvi": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "letter (phonetic symbol)",
         "type": "n"
     },
     "pxawngip": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "environment",
         "type": "n"
     },
     "sim": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "be near",
         "type": "v:in"
     },
     "hifwo": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "flee, escape",
         "type": "v:in"
     },
     "hamalo": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "last time",
         "type": "adv"
     },
     "nrr": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "glow, be luminous",
         "type": "v:in"
     },
     "tsewtx": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "dirty",
         "type": "adj"
     },
     "swaran": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "humble, modest, self-effacing",
         "type": "adj"
     },
     "kxumpay": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "viscous liquid, gel",
         "type": "n"
     },
     "txin": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "main, primary",
         "type": "adj"
     },
     "yoa": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "in exchange for",
         "type": "adp"
     },
     "tskxepay": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "ice",
         "type": "n"
     },
     "t\u00ecyewn": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "expression",
         "type": "n"
     },
     "t\u00ecyawn": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "love",
         "type": "n"
     },
     "vo\u00eck": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "behavior, how one conducts oneself",
         "type": "n"
     },
     "t\u00ecw\u00e4te": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "dispute, argument",
         "type": "n"
     },
     "t\u00eckxuke": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "safety",
         "type": "n"
     },
     "t\u00echan": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "loss",
         "type": "n"
     },
     "venu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "foot",
         "type": "n"
     },
     "somwew": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "temperature",
         "type": "n"
     },
     "tut\u00e9": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "woman, female (person)",
         "type": "n"
     },
     "lom": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "missing, missed (as an absent person who is longed for)",
         "type": "adj"
     },
     "sto": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "refuse (to do something)",
         "type": "v:tr"
     },
     "hipx": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "control",
         "type": "v:tr"
     },
     "mesrram": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "the day before yesterday, two days ago",
         "type": "n"
     },
     "vun": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "provide",
         "type": "v:tr"
     },
     "teya": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "full",
         "type": "adj"
     },
     "keltrrtrr": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "unusual",
         "type": "adj"
     },
     "fpeio": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "challenge (ceremonial)",
         "type": "n"
     },
     "s\u00e4tare": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "connection, relationship",
         "type": "n"
     },
     "pamtseotu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "musician",
         "type": "n"
     },
     "swir\u00e4": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "creature",
         "type": "n"
     },
     "lie": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "experience",
         "type": "n"
     },
     "lamaytxa": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "flood",
         "type": "n"
     },
     "txur": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "strong (physically)",
         "type": "adj"
     },
     "pxul": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "formidable, imposing",
         "type": "adj"
     },
     "tsyokx": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "hand",
         "type": "n"
     },
     "fyep": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "hold in the hand, grasp, grip",
         "type": "v:tr"
     },
     "teyr": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "white",
         "type": "adj"
     },
     "nemfa": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "into, inside",
         "type": "adp"
     },
     "horenleykekyu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "law enforcer, police officer",
         "type": "n"
     },
     "s\u00e4leymkem": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "protest, instance of protesting",
         "type": "n"
     },
     "nekx": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "burn, consume",
         "type": "v:tr"
     },
     "mauti": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "fruit",
         "type": "n"
     },
     "n\u00ectrrtrr": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "on a daily basis, regularly",
         "type": "adv"
     },
     "sang": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "warm",
         "type": "adj"
     },
     "kato": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "rhythm",
         "type": "n"
     },
     "t\u00ecloho": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "surprise",
         "type": "n"
     },
     "wok": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "loud",
         "type": "adj"
     },
     "sti": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "anger (intransitive), be angry",
         "type": "v:in"
     },
     "wou": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "be amazing, fascinating (slang)",
         "type": "v:in"
     },
     "srew": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "dance",
         "type": "v:in"
     },
     "hangham": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "laugh",
         "type": "v:in"
     },
     "fnan": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "be good at",
         "type": "v:tr"
     },
     "kame": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "see, see into, understand, know (spiritual sense)",
         "type": "v:tr"
     },
     "t\u00ectsunslu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "possibility",
         "type": "n"
     },
     "tswesya": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "current",
         "type": "n"
     },
     "loho": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "be surprising (experiencer in dative)",
         "type": "v:in"
     },
     "skxom": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "chance, opportunity",
         "type": "n"
     },
     "yewn": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "express, convey (a thought or feeling)",
         "type": "v:tr"
     },
     "han": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "lose",
         "type": "v:tr"
     },
     "fmetok": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "test",
         "type": "v:tr"
     },
     "s\u00e4mok": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "suggestion",
         "type": "n"
     },
     "n\u00ecrangal": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "wish (contrary to fact, with perfective or imperfective subjunctive)",
         "type": "adv"
     },
     "tsyafe": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "mild, moderate, comfortable",
         "type": "adj"
     },
     "n\u00ecfl\u00e4": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "successfully",
         "type": "adv"
     },
     "sng\u00e4\u2019ikrr": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "beginning, starting time",
         "type": "n"
     },
     "yo\u2019": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "be perfect, flawless",
         "type": "v:in"
     },
     "yo\u2019ko": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "circle",
         "type": "n"
     },
     "am\u2019a": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "doubt",
         "type": "n"
     },
     "pela\u2019ang": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "what the hell",
         "type": "intj"
     },
     "wrrza\u2019u": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "come out, emerge",
         "type": "v:in"
     },
     "le\u2019awtu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "alone, on one\u2019s own, by one\u2019s self, lonely",
         "type": "adj"
     },
     "\u2019emyu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "cook, cooker",
         "type": "n"
     },
     "re\u2019o": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "head",
         "type": "n"
     },
     "mun\u2019i": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "cut",
         "type": "v:?"
     },
     "\u2019aku": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "remove, take away, take off",
         "type": "v:tr"
     },
     "\u2019ewan": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "young",
         "type": "adj"
     },
     "\u2019opinsung": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "color, color in",
         "type": "v:tr"
     },
     "txanso\u2019hayu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "fan, enthusiast",
         "type": "n"
     },
     "mll\u2019an": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "accept",
         "type": "v:tr"
     },
     "Eywa\u2019eveng": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "Pandora",
         "type": "n:pr"
     },
     "t\u00ectxurnga\u2019": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "powerful",
         "type": "adj"
     },
     "st\u00e4\u2019n\u00ecpam": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "recording",
         "type": "n"
     },
     "naf\u00ec\u2019u": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "such",
         "type": "adj"
     },
     "t\u00ecsla\u2019tsu": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "description",
         "type": "n"
     },
     "pel\u00ec\u2019u": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "what (word, utterance)",
         "type": "inter"
     },
     "fkxaranga\u2019": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "stressful",
         "type": "adj"
     },
     "so\u2019ha": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "be enthusiastic about, show enthusiasm for, be excited about",
         "type": "v:tr"
     },
     "se\u2019ayl": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "an individual tall, thin waterfall that pours down a sheer high cliff, or off of a floating mountain (countable)",
         "type": "n"
     },
     "flew": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "throat",
         "type": "n"
     },
     "t\u00ecm": {
-        "count": 3,
+        "total_count": 3,
         "meaning": "low",
         "type": "adj"
     },
     "ronsem": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "mind",
         "type": "n"
     },
     "lal": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "old (opposite of mip)",
         "type": "adj"
     },
     "tare": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "connect, relate to, have a relationship with",
         "type": "v:tr"
     },
     "loreyu": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "helicoradian, beautiful spiral",
         "type": "n"
     },
     "lapo": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "other person or thing",
         "type": "pn"
     },
     "muntrr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "weekend",
         "type": "n"
     },
     "vospx\u00ecmrr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "May",
         "type": "n"
     },
     "mei": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "wet",
         "type": "adj"
     },
     "t\u00eclor": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "beauty",
         "type": "n"
     },
     "z\u00ecs\u00eckrr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "season",
         "type": "n"
     },
     "plltxeyu": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "speaker",
         "type": "n"
     },
     "way": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "song (ancient, ceremonial)",
         "type": "n"
     },
     "keyawr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "incorrect, wrong, not right",
         "type": "adj"
     },
     "ramtsy\u00ecp": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "hill",
         "type": "n"
     },
     "ngim": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "long (physical length)",
         "type": "adj"
     },
     "h\u00ecno": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "fine, detailed, precise, intricate (of things)",
         "type": "adj"
     },
     "numultxa": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "class (for instruction)",
         "type": "n"
     },
     "stxong": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "strange, unfamiliar, unknown",
         "type": "adj"
     },
     "t\u00ecomum": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "knowledge",
         "type": "n"
     },
     "tsurokx": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "rest",
         "type": "v:in"
     },
     "nutx": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "thick",
         "type": "adj"
     },
     "txokefyaw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "if not, or else, otherwise",
         "type": "conj"
     },
     "n\u00eclaw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "clearly",
         "type": "adv"
     },
     "Kelutral": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "Hometree",
         "type": "n:pr"
     },
     "ventil": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "ankle",
         "type": "n"
     },
     "ft\u00e4r": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "left (not right)",
         "type": "adj"
     },
     "ts\u00eck": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "suddenly, without warning",
         "type": "adv"
     },
     "netr\u00ecp": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "luckily, happily",
         "type": "adv"
     },
     "snum\u00ecna": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "dim",
         "type": "adj"
     },
     "nawfwe": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "fluent (for speech)",
         "type": "adj"
     },
     "n\u00ecno": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "in detail, expansively, thoroughly",
         "type": "adv"
     },
     "lehawngkrr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "late",
         "type": "adj"
     },
     "f\u00ectxon": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "tonight",
         "type": "n"
     },
     "snanumultxa": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "course (as a collection of classes)",
         "type": "n"
     },
     "n\u00ecToitsye": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "German",
         "type": "adv"
     },
     "fw\u00ecng": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "humiliation, embarrassment, loss of face",
         "type": "n"
     },
     "pxir": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "beer",
         "type": "n"
     },
     "srankehe": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "more or less, somewhat, yes and no, kind of",
         "type": "part"
     },
     "n\u00ecTsyungwen": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "Zhongwen",
         "type": "adv"
     },
     "tsyokl\u00ect": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "chocolate",
         "type": "n"
     },
     "kalin": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "sweet to the taste",
         "type": "adj"
     },
     "fkxen": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "vegetable (food)",
         "type": "n"
     },
     "lumpe": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "why",
         "type": "inter"
     },
     "ohe": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "I (deferential or ceremonial form)",
         "type": "pn"
     },
     "kelhoan": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "uncomfortable",
         "type": "adj"
     },
     "z\u00ecskrrtsawn": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "autumn, fall",
         "type": "n"
     },
     "yapay": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "mist, fog, steam",
         "type": "n"
     },
     "fnel": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "kind, type",
         "type": "n"
     },
     "toruk": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "toruk, great leonopteryx",
         "type": "n"
     },
     "fwampop": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "tapirus",
         "type": "n"
     },
     "velek": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "give up, surrender, concede defeat",
         "type": "v:in"
     },
     "n\u00ecyawr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "correctly, rightly",
         "type": "adv"
     },
     "pximaw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "right after",
         "type": "adp"
     },
     "t\u00ecngay": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "truth",
         "type": "n"
     },
     "swaw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "moment",
         "type": "n"
     },
     "wempongu": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "squad, military clan, battle party",
         "type": "n"
     },
     "uk": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "shadow",
         "type": "n"
     },
     "fwi": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "slip, slide",
         "type": "v:in"
     },
     "slele": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "swim",
         "type": "v:in"
     },
     "palang": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "contact (in a social sense), communicate with",
         "type": "v:tr"
     },
     "letrrtrr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "ordinary",
         "type": "adj"
     },
     "t\u00ecohakx": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "hunger",
         "type": "n"
     },
     "ultxarun": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "encounter, meet by chance",
         "type": "v:tr"
     },
     "rangal": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "wish",
         "type": "v:in"
     },
     "rawn": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "replace, substitute",
         "type": "v:tr"
     },
     "heyn": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "sit",
         "type": "v:in"
     },
     "hayalo": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "next time",
         "type": "adv"
     },
     "t\u00ecsom": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "heat",
         "type": "n"
     },
     "pxeyve": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "third (ordinal)",
         "type": "adj"
     },
     "ftanglen": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "prevent",
         "type": "v:tr"
     },
     "t\u00ecp\u00e4ngkxotsy\u00ecp": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "little conversation",
         "type": "n"
     },
     "nokx": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "give birth to",
         "type": "v:tr"
     },
     "t\u00ecmuntxa": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "mating, marriage",
         "type": "n"
     },
     "kxemyo": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "wall, vertical surface",
         "type": "n"
     },
     "neni": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "sand",
         "type": "n"
     },
     "nawmtu": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "great person",
         "type": "n"
     },
     "pllngay": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "admit",
         "type": "v:in"
     },
     "vospx\u00ecam": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "last month",
         "type": "n"
     },
     "Omatikaya": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "Blue Flute Clan",
         "type": "n:pr"
     },
     "fmongyu": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "thief",
         "type": "n"
     },
     "n\u00ecli": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "in advance",
         "type": "adv"
     },
     "ley": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "be of value, have some positive value, be worth something",
         "type": "v:in"
     },
     "m\u00ecfa": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "inside",
         "type": "n"
     },
     "muntxa": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "mated, married",
         "type": "adj"
     },
     "t\u00ecftang": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "stopping, the glottal stop",
         "type": "n"
     },
     "spuwin": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "old, former",
         "type": "adj"
     },
     "l\u00ecng": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "float in the air, hover",
         "type": "v:in"
     },
     "vospx\u00ecvol": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "August",
         "type": "n"
     },
     "tstew": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "brave",
         "type": "adj"
     },
     "snonrra": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "selfpride (negative connotation)",
         "type": "n"
     },
     "vospx\u00ecvomun": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "October",
         "type": "n"
     },
     "t\u00ectxur": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "strength, power",
         "type": "n"
     },
     "zoplo": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "offence, insult",
         "type": "n"
     },
     "steng": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "similar",
         "type": "adj"
     },
     "vll": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "indicate, point at",
         "type": "v:tr"
     },
     "fuke": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "or not",
         "type": "conj"
     },
     "n\u00echek": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "strangely, oddly",
         "type": "adv"
     },
     "tx\u00ecm": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "butt, rear end, ass",
         "type": "n"
     },
     "ukxo": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "dry",
         "type": "adj"
     },
     "sre": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "before (time)",
         "type": "adp:len"
     },
     "s\u00e4nrr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "glow, an instance of glowing, light source, lamp",
         "type": "n"
     },
     "mowar": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "advice, bit or piece of advice",
         "type": "n"
     },
     "swizaw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "arrow",
         "type": "n"
     },
     "munge": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "take, bring",
         "type": "v:tr"
     },
     "al\u00ecm": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "far away, at a distance",
         "type": "adv"
     },
     "palon": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "burn",
         "type": "v:in"
     },
     "tong": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "put out, quench",
         "type": "v:tr"
     },
     "w\u00ecngay": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "prove",
         "type": "v:tr"
     },
     "smaw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "approve of",
         "type": "v:tr"
     },
     "t\u00eckemwi\u00e4": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "unfairness, injustice",
         "type": "n"
     },
     "nong": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "follow, proceed after",
         "type": "v:tr"
     },
     "meyp": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "weak",
         "type": "adj"
     },
     "uo": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "behind",
         "type": "adp"
     },
     "fpomtokx": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "health (physical)",
         "type": "n"
     },
     "n\u00ecsyen": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "lastly",
         "type": "adv"
     },
     "nikre": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "hair",
         "type": "n"
     },
     "wan": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "hide",
         "type": "v:tr"
     },
     "kulat": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "reveal, bring forth, uncover (literally and metaphorically)",
         "type": "v:tr"
     },
     "h\u00ecmtxan": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "amount",
         "type": "n"
     },
     "alaksi": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "ready",
         "type": "adj"
     },
     "t\u00eceyktan": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "leadership",
         "type": "n"
     },
     "tsmukan": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "brother",
         "type": "n"
     },
     "kelkin": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "unnecessary",
         "type": "adj"
     },
     "n\u00ecwok": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "loudly",
         "type": "adv"
     },
     "ronsrelngop": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "imagine, envision (c.w. from ronsem mind, rel picture, ngop create, casual pronunciation [\u02c8\u027eon.s\u027e\u025bw.\u014b\u00b7op\u031a] )",
         "type": "v:tr"
     },
     "tsawn": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "gather growing food from the forest, pick; harvest (in agriculture)",
         "type": "v:tr"
     },
     "zet": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "treat (emotionally), display an attitude towards",
         "type": "v:tr"
     },
     "pxim": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "erect, upright",
         "type": "adj"
     },
     "m\u00eckam": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "between",
         "type": "adp"
     },
     "pate": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "get to a place, arrive",
         "type": "v:?"
     },
     "kllwo": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "alight, land (process of)",
         "type": "v:in"
     },
     "\u2019\u00ecn": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "be busy, be occupied",
         "type": "v:in"
     },
     "fpiv\u00ecl": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "hmm, let\u2019s see, let me think",
         "type": "intj"
     },
     "n\u00ec\u2019awve": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "first",
         "type": "adv"
     },
     "la\u2019um": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "pretend (use with tsn\u00ec)",
         "type": "v:in"
     },
     "Mo\u2019at": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "tsah\u00eck of the Omatikaya",
         "type": "n:pr"
     },
     "\u2019ur": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "sight, look, appearance",
         "type": "n"
     },
     "may\u2019": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "taste, try, sample, evaluate, check out, testdrive",
         "type": "v:tr"
     },
     "\u2019are": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "poncho, cape, shawl",
         "type": "n"
     },
     "ko\u2019on": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "ring, oval, closed shape roughly circular",
         "type": "n"
     },
     "t\u00eck\u2019\u00ecn": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "free time, the absence of business",
         "type": "n"
     },
     "\u2019\u00e4r\u00ecp": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "move",
         "type": "v:tr"
     },
     "fng\u00e4\u2019": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "relieve oneself, (on Earth) use the restroom, go to the bathroom",
         "type": "v:in"
     },
     "syonl\u00ec\u2019u": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "adjective",
         "type": "n"
     },
     "yora\u2019": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "win",
         "type": "v:tr"
     },
     "n\u00ecfe\u2019": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "badly",
         "type": "adv"
     },
     "keml\u00ec\u2019uvi": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "infix",
         "type": "n"
     },
     "r\u00ec\u2019\u00ecr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "reflection",
         "type": "n"
     },
     "spe\u2019e": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "capture",
         "type": "v:tr"
     },
     "vospx\u00ec\u2019aw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "January",
         "type": "n"
     },
     "kelha\u2019": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "inappropriate",
         "type": "adj"
     },
     "\u2019onglawn": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "exhiliration of first bonding",
         "type": "n"
     },
     "mu\u2019ni": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "accomplish, achieve",
         "type": "v:tr"
     },
     "l\u00ec\u2019upam": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "accent, pronunciation",
         "type": "n"
     },
     "\u2019awlie": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "once (in the past)",
         "type": "adv"
     },
     "\u2019ong": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "unfold, blossom",
         "type": "v:?"
     },
     "leymfe\u2019": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "complain",
         "type": "v:in"
     },
     "t\u00ecve\u2019k\u00ec": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "hatred",
         "type": "n"
     },
     "\u2019ongokx": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "be born",
         "type": "v:in"
     },
     "\u2019oratsy\u00ecp": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "pond, pool",
         "type": "n"
     },
     "s\u00e4ftxul\u00ec\u2019u": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "speech, oration",
         "type": "n"
     },
     "px\u00ecmun\u2019i": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "divide, cut into parts",
         "type": "v:tr"
     },
     "lel\u00ec\u2019fya": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "concerning language, regarding language",
         "type": "adj"
     },
     "\u2019ul": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "increase",
         "type": "v:in"
     },
     "\u2019okrol": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "history (ancient)",
         "type": "n"
     },
     "le\u2019aw": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "only",
         "type": "adj"
     },
     "\u2019opin": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "color",
         "type": "n"
     },
     "teylupil": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "teylu-face (vulgar)",
         "type": "n"
     },
     "kalweyaveng": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "son of a bitch (vulgar)",
         "type": "n"
     },
     "lekin": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "necessary",
         "type": "adj"
     },
     "srunga\u2019": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "helpful",
         "type": "adj"
     },
     "lawr": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "melody",
         "type": "n"
     },
     "t\u00eckenong": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "example",
         "type": "n"
     },
     "kewan": {
-        "count": 2,
+        "total_count": 2,
         "meaning": "age",
         "type": "n"
     },
     "fta": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "knot",
         "type": "n"
     },
     "h\u00eckrr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "second, very short time",
         "type": "n"
     },
     "n\u00ecran": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "basically, fundamentally, in essence",
         "type": "adv"
     },
     "t\u00ecslan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "support (emotional, social or personal support) ",
         "type": "n"
     },
     "txonay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "tomorrow night",
         "type": "adv"
     },
     "hafyon": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wisdom",
         "type": "n"
     },
     "z\u00ecskrrwew": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "winter",
         "type": "n"
     },
     "z\u00ecskrrsom": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "summer",
         "type": "n"
     },
     "nrra": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pride, feeling of pride",
         "type": "n"
     },
     "neto": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "away (direction)",
         "type": "adv"
     },
     "nekll": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "down (direction)",
         "type": "adv"
     },
     "poan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "he",
         "type": "pn"
     },
     "tsawa": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "that (subclause marker)",
         "type": "ctr"
     },
     "ts\u00eclpey": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hope (abstract concept)",
         "type": "n"
     },
     "s\u00e4fl\u00e4": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "success (an instance of succeeding)",
         "type": "n"
     },
     "syen": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "last, final",
         "type": "adj"
     },
     "lisre": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "by, before, up to but not after",
         "type": "adp:len"
     },
     "ontu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "nose",
         "type": "n"
     },
     "sur": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "taste, flavor",
         "type": "n"
     },
     "y\u00ecm": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "bind",
         "type": "v:tr"
     },
     "seyn": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "chair, stool, bench, any tool or device to facilitate sitting",
         "type": "n"
     },
     "t\u00ectsyul": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "beginning, start",
         "type": "n"
     },
     "kavuk": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "treachery",
         "type": "n"
     },
     "t\u00echawl": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "preparations, plan",
         "type": "n"
     },
     "tatlam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "apparently",
         "type": "adv"
     },
     "fl\u00ec": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "thin",
         "type": "adj"
     },
     "frir": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "layer",
         "type": "n"
     },
     "txap": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "press, press on, apply (physical) pressure to",
         "type": "v:tr"
     },
     "trrmrrve": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Thursday",
         "type": "n"
     },
     "kxam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "middle, midpoint",
         "type": "n"
     },
     "tsakrrvay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "until then, in the meantime",
         "type": "adv"
     },
     "kawkxan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "free, unblocked, unobstructed, clear",
         "type": "adj"
     },
     "ewro": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "euro",
         "type": "n"
     },
     "lehawng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "excessive",
         "type": "adj"
     },
     "t\u00ecsop": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "journey",
         "type": "n"
     },
     "letxi": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hurried, frenzied",
         "type": "adj"
     },
     "lafyon": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wise",
         "type": "adj"
     },
     "riti": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "stingbat",
         "type": "n"
     },
     "tsy\u00ecr\u00e4f\u00ec": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "giraffe",
         "type": "n"
     },
     "miklor": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pleasant sounding, beautiful sounding",
         "type": "adj"
     },
     "stiwi": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "mischief",
         "type": "n"
     },
     "aungia": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "sign, omen",
         "type": "n"
     },
     "\u00e4ie": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "vision (spiritual)",
         "type": "n"
     },
     "uniltsa": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "dream of, dream about",
         "type": "v:tr"
     },
     "taronyu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hunter",
         "type": "n"
     },
     "srungtsy\u00ecp": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "helpful hint, tip",
         "type": "n"
     },
     "ketsuktiam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "uncountable, infinite",
         "type": "adj"
     },
     "fwopx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "dust (in the air)",
         "type": "n"
     },
     "tsyey": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "snack, light meal",
         "type": "n"
     },
     "maweypeyyu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "One who is patient",
         "type": "n"
     },
     "wrrpa": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "outside",
         "type": "n"
     },
     "pxiswawam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "just a moment ago",
         "type": "adv"
     },
     "fpomron": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "health or wellbeing (mental)",
         "type": "n"
     },
     "pxe": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "(trial)",
         "type": "aff:pre"
     },
     "mam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wrap",
         "type": "v:tr"
     },
     "hena": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "carry",
         "type": "v:tr"
     },
     "kur": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hang",
         "type": "v:in"
     },
     "l\u00e4txayn": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "defeat in battle, conquer",
         "type": "v:tr"
     },
     "steyki": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "anger, make someone angry",
         "type": "v:tr"
     },
     "leyn": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "repeat, do again",
         "type": "v:tr"
     },
     "seyson\u00ecltsan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "well done! (derived from hasey soli n\u00ecltsan accomplished well)",
         "type": "intj"
     },
     "zevakx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "cruel",
         "type": "adj"
     },
     "zun": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "if (counterfactual use)",
         "type": "conj"
     },
     "zel": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "then (counterfactual use)",
         "type": "adv"
     },
     "spxam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "mushroom, fungus",
         "type": "n"
     },
     "swawtsy\u00ecp": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "little moment, second",
         "type": "n"
     },
     "kawnglan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "malicious, bad hearted",
         "type": "adj"
     },
     "y\u00e4kx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "not notice, ignore, snub",
         "type": "v:tr"
     },
     "lertu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "colleague",
         "type": "n"
     },
     "s\u00e4sr\u00e4tx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "annoyance",
         "type": "n"
     },
     "mowan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pleasing, enjoyable (physically, sexually)",
         "type": "adj"
     },
     "sngap": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "sting",
         "type": "v:tr"
     },
     "stiwisiyu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "mischiefmaker",
         "type": "n"
     },
     "ketuwong": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "alien",
         "type": "n"
     },
     "letrr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "daily",
         "type": "adj"
     },
     "iv": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "(subjunctive)",
         "type": "aff:in"
     },
     "t\u00ecmok": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "abstract idea of a suggestion",
         "type": "n"
     },
     "yawnetu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "loved one",
         "type": "n"
     },
     "zawr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "animal call",
         "type": "n"
     },
     "lefpomtokx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "healthy (physically) ",
         "type": "adj"
     },
     "ran": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "intrinsic character or nature, essence, constitution",
         "type": "n"
     },
     "fyin": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "simple",
         "type": "adj"
     },
     "sul\u00ecn": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "be busy (positive sense), be engrossed in something one finds especially pleasant and energizing",
         "type": "v:in"
     },
     "l": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "(agentive case, subject of transitive verb)",
         "type": "aff:suf"
     },
     "nantang": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "viperwolf Caniferratus costatus, striped armored wolf",
         "type": "n"
     },
     "muntrram": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "last weekend",
         "type": "n"
     },
     "kerusey": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "dead",
         "type": "adj"
     },
     "flrr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "gentle, mild, tender  (people or things)",
         "type": "adj"
     },
     "lenomum": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "curious",
         "type": "adj"
     },
     "poe": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "she",
         "type": "pn"
     },
     "ftawnemkrr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "past",
         "type": "n"
     },
     "hufwetsy\u00ecp": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "breeze, light wind",
         "type": "n"
     },
     "v\u00e4pam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "noise. ugly or unpleasant sound, screech",
         "type": "n"
     },
     "hawmpam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "noise. sound that is excessive, unnecessary, inappropriate, unexpected or startling",
         "type": "n"
     },
     "pup": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "short (physical length)",
         "type": "adj"
     },
     "s\u00e4kanom": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "something acquired, an acquisition, a possession",
         "type": "n"
     },
     "tsang": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "piercing",
         "type": "n"
     },
     "kxum": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "viscous, gelatinous, thick",
         "type": "adj"
     },
     "wip": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "salty",
         "type": "adj"
     },
     "Europa": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Europe",
         "type": "n:pr"
     },
     "leyewla": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "disappointing",
         "type": "adj"
     },
     "susyang": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "fragile, delicate",
         "type": "adj"
     },
     "taksyokx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "clap hands",
         "type": "v:in"
     },
     "sey": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "cup or bowl minimally modified from naturally occuring resources",
         "type": "n"
     },
     "zusawkrr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "future",
         "type": "n"
     },
     "koaktan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "old man",
         "type": "n"
     },
     "yomt\u00ecng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "feed (with dative object)",
         "type": "v:in"
     },
     "vrrtep": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "demon",
         "type": "n"
     },
     "telem": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "cord",
         "type": "n"
     },
     "t\u00ecsyortsy\u00ecp": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "break, small rest or relaxation",
         "type": "n"
     },
     "asim": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "nearby, at close range",
         "type": "adv"
     },
     "win": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "fast",
         "type": "adj"
     },
     "txung": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "disturb, disrupt, bother, affect negatively",
         "type": "v:tr"
     },
     "puktsy\u00ecp": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pamphlet, booklet",
         "type": "n"
     },
     "r\u00ecn": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wood",
         "type": "n"
     },
     "vurvi": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "summary, synopsis",
         "type": "n"
     },
     "txukx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "deep (physically)",
         "type": "adj"
     },
     "fngap": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "metal",
         "type": "n"
     },
     "sok": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "recent",
         "type": "adj"
     },
     "m\u00e4kxu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "interrupt, throw out of harmonious balance",
         "type": "v:tr"
     },
     "kot": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "coat",
         "type": "n"
     },
     "t\u00e4ftxu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "weave",
         "type": "v:tr"
     },
     "fekem": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "accident",
         "type": "n"
     },
     "fyeyn": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "ripe, mature, adult",
         "type": "adj"
     },
     "n\u00ecksman": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wonderfully",
         "type": "adv"
     },
     "t\u00ecsteftxaw": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "examination",
         "type": "n"
     },
     "n\u00ecpxay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "many, manily",
         "type": "adv"
     },
     "teyrpin": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "white",
         "type": "n"
     },
     "snaytx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "lose",
         "type": "v:tr"
     },
     "s\u00e4w\u00ecngay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "proof (particular instance)",
         "type": "n"
     },
     "stxenut\u00ecng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "offer",
         "type": "v:tr"
     },
     "h\u00ecm": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "small (in quantity)",
         "type": "adj"
     },
     "n\u00eczen": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "necessarily",
         "type": "adv"
     },
     "uran": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "boat",
         "type": "n"
     },
     "kxaml\u00e4": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "through (via the middle of)",
         "type": "adp"
     },
     "nalutsa": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "large armored whalelike sea creature",
         "type": "n"
     },
     "wo": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "reach for",
         "type": "v:tr"
     },
     "raw": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "down to",
         "type": "adp"
     },
     "kew": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "zero",
         "type": "num"
     },
     "kay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "from now (in the future)",
         "type": "adp"
     },
     "ts\u00ecve": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "fourth (ordinal)",
         "type": "adj"
     },
     "mrrve": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "fifth (ordinal)",
         "type": "adj"
     },
     "s\u00ecn": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "on, onto",
         "type": "adp"
     },
     "t\u00ecoeykt\u00ecng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "explanation",
         "type": "n"
     },
     "tsaheyl": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "bond with, establish a neural connection",
         "type": "n:si"
     },
     "hrrap": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "danger",
         "type": "n"
     },
     "fralo": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "every time, every instance, each time",
         "type": "adv"
     },
     "tseo": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "art",
         "type": "n"
     },
     "tatep": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "lose track, lose awareness of something",
         "type": "v:tr"
     },
     "frrtu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "guest, visitor",
         "type": "n"
     },
     "trrts\u00ecve": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Wednesday",
         "type": "n"
     },
     "tseotu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "artist (generic term) ",
         "type": "n"
     },
     "n\u00ectstew": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "bravely, courageously",
         "type": "adv"
     },
     "txantxewm": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "terrifying",
         "type": "adj"
     },
     "txewm": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "scary, frightening",
         "type": "adj"
     },
     "t\u00ecswaran": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "humility, humbleness",
         "type": "n"
     },
     "syar": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "stick, stick to, adhere",
         "type": "v:in"
     },
     "kxumpaysyar": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "glue",
         "type": "n"
     },
     "lawnol": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "great joy",
         "type": "n"
     },
     "s\u00e4w\u00e4te": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "point of contention, source of argument, thing disputed",
         "type": "n"
     },
     "trrpxeyve": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Tuesday",
         "type": "n"
     },
     "h\u00ecmtxewvay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "minimally",
         "type": "adv"
     },
     "kive": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "seventh (ordinal)",
         "type": "adj"
     },
     "kllrikx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "earthquake",
         "type": "n"
     },
     "weopx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wave (of water)",
         "type": "n"
     },
     "ro": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "at (locative)",
         "type": "adp:len"
     },
     "ngrrpongu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "grassroots movement",
         "type": "n"
     },
     "t\u00ecfmong": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "theft",
         "type": "n"
     },
     "kawngsar": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "exploit",
         "type": "v:tr"
     },
     "volve": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "eighth (ordinal)",
         "type": "adj"
     },
     "ts\u00ecng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "four",
         "type": "num"
     },
     "txewluke": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "endless, boundless, without limit",
         "type": "adj"
     },
     "hawng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "overabundance",
         "type": "n"
     },
     "z\u00ecs\u00ectay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "next year",
         "type": "n"
     },
     "Pari": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Paris",
         "type": "n:pr"
     },
     "pizayu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "ancestor",
         "type": "n"
     },
     "f\u00ecpo": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "this one person or thing",
         "type": "pn"
     },
     "kxll": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "charge, running attack",
         "type": "n"
     },
     "vospx\u00ecay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "next month",
         "type": "n"
     },
     "faoi": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "smooth",
         "type": "adj"
     },
     "tun": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "red, orange",
         "type": "adj"
     },
     "z\u00ecs\u00ectsaltrr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "(yearly) anniversary",
         "type": "n"
     },
     "takrra": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "since (temporal)",
         "type": "conj"
     },
     "rum": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "ball",
         "type": "n"
     },
     "ng\u00e4ng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "stomach",
         "type": "n"
     },
     "letsim": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "original, unique, not derived from another source",
         "type": "adj"
     },
     "syaksyuk": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "prolemuris",
         "type": "n"
     },
     "\u00e4o": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "under, below",
         "type": "adp"
     },
     "t\u00echawnu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "protection",
         "type": "n"
     },
     "kxener": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "smoke",
         "type": "n"
     },
     "txeptun": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "orange (\"fire tun\")",
         "type": "adj"
     },
     "tsyal": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wing",
         "type": "n"
     },
     "vawm": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "dark",
         "type": "adj"
     },
     "rawng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "entrance, doorway",
         "type": "n"
     },
     "kemwi\u00e4": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "improper, unfair, wrong, unjustified",
         "type": "adj"
     },
     "atanzaw": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "forked lightning",
         "type": "n"
     },
     "tungzup": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "drop",
         "type": "v:tr"
     },
     "p\u00e4sketpol": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "basketball",
         "type": "n"
     },
     "vospx\u00ecvos\u00ecng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "December",
         "type": "n"
     },
     "mikyun": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "ear",
         "type": "n"
     },
     "s\u00e4vll": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "sign, indication, signal",
         "type": "n"
     },
     "payn\u00e4pll": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pineapple",
         "type": "n"
     },
     "tsw\u00eck": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "suck",
         "type": "v:tr"
     },
     "ropx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hole (going clear through an object)",
         "type": "n"
     },
     "klltxay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "lie on the ground",
         "type": "v:in"
     },
     "s\u00e4nume": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "teaching, instruction",
         "type": "n"
     },
     "s\u00e4tswayon": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "flight (an instance of flying)",
         "type": "n"
     },
     "n\u00ectxukx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "deeply",
         "type": "adv"
     },
     "muntxate": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wife, female spouse",
         "type": "n"
     },
     "muntxatan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "husband, male spouse",
         "type": "n"
     },
     "tirea": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "spirit",
         "type": "n"
     },
     "palulukan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "thanator",
         "type": "n"
     },
     "t\u00ecpxul": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "formidableness, imposingness",
         "type": "n"
     },
     "n\u00ecpxul": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "formidably, imposingly",
         "type": "adv"
     },
     "t\u00ecwusem": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "fighting",
         "type": "n"
     },
     "ultxatu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "meeting participant",
         "type": "n"
     },
     "mune": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "two",
         "type": "num"
     },
     "n\u00eczevakx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "cruelly",
         "type": "adv"
     },
     "kllvawm": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "brown",
         "type": "adj"
     },
     "yaymak": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "foolish, ignorant",
         "type": "adj"
     },
     "wum": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "approximately, roughly",
         "type": "adv"
     },
     "yem": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "put, place",
         "type": "v:tr"
     },
     "paw": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "grow, germinate and develop (of a plant)",
         "type": "v:in"
     },
     "fe\u2019ul": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "worsen, get worse",
         "type": "v:in"
     },
     "fngo\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "require, demand",
         "type": "v:tr"
     },
     "yayayrnga\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "confusing",
         "type": "adj"
     },
     "\u2019ak": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "ow, ouch",
         "type": "intj"
     },
     "hawre\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hat",
         "type": "n"
     },
     "\u2019awlo": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "once",
         "type": "adv"
     },
     "n\u00ec\u2019o\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "in a manner which is enjoyable, enjoyably",
         "type": "adv"
     },
     "\u2019e\u2019al": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "worst",
         "type": "adj"
     },
     "am\u2019aluke": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "without a doubt",
         "type": "adv"
     },
     "t\u00ecftxul\u00ec\u2019u": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "speechmaking, public speaking",
         "type": "n"
     },
     "tswalnga\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "powerful",
         "type": "adj"
     },
     "t\u00ecprrte\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pleasure",
         "type": "n"
     },
     "\u2019en": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "guess, informed guess, hunch, intuition",
         "type": "n"
     },
     "l\u00ec\u2019uvi": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "affix",
         "type": "n"
     },
     "fyal\u00ec\u2019u": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "adverb",
         "type": "n"
     },
     "Ralu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "male Na\u2019vi",
         "type": "n:pr"
     },
     "\u2019on": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "shape, form",
         "type": "n"
     },
     "mo\u2019ara": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "gathering place",
         "type": "n"
     },
     "tstxol\u00ec\u2019u": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "noun",
         "type": "n"
     },
     "\u2019ana": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hanging vine",
         "type": "n"
     },
     "l\u00ec\u2019uvan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pun, wordplay",
         "type": "n"
     },
     "t\u00ec\u2019o\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "fun, excitement",
         "type": "n"
     },
     "fil": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "child\u2019s toy, plaything",
         "type": "n"
     },
     "txon\u2019ong": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "nightfall, sunset, dusk, gloaming",
         "type": "n"
     },
     "\u2019\u00e4nsyem": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "complete",
         "type": "adj"
     },
     "\u2019rrpxom": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "thunder",
         "type": "n"
     },
     "sresrr\u2019ong": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "before dawn",
         "type": "n"
     },
     "Anurai": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Na\u2019vi Clan name",
         "type": "n:pr"
     },
     "Tawkami": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Na\u2019vi Clan name",
         "type": "n:pr"
     },
     "meuianga\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "honorable, honorably",
         "type": "adj"
     },
     "v\u00e4\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "unpleasant to the senses, noisome",
         "type": "adj"
     },
     "paynga\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "moist, humid, damp",
         "type": "adj"
     },
     "n\u00ec\u2019en": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "making an informed guess, acting on intuition",
         "type": "adv"
     },
     "unilt\u00ecrantokxolo\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "clan, or group of avatars",
         "type": "n"
     },
     "za\u2019\u00e4r\u00ecp": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "pull",
         "type": "v:tr"
     },
     "tsawlh\u00ec\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "size",
         "type": "n"
     },
     "t\u00ec\u2019ongokx": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "birth",
         "type": "n"
     },
     "n\u00ecyo\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "perfectly, flawlessly",
         "type": "adv"
     },
     "sru\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "crush, trample",
         "type": "v:tr"
     },
     "am\u2019ake": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "sure, confident",
         "type": "adj"
     },
     "sreton\u2019ong": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "dusk, evening before sunset",
         "type": "n"
     },
     "t\u00ecmu\u2019ni": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "achievement, accomplishment",
         "type": "n"
     },
     "leha\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "appropriate, suitable, fitting",
         "type": "adj"
     },
     "t\u00ec\u2019i\u2019avay": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "until the end",
         "type": "adv"
     },
     "fe\u2019pey": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "feel dread, expect something bad to happen, fear (with tsn\u00ec for thing dreaded)",
         "type": "v:in"
     },
     "t\u00ecpe\u2019un": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "decision",
         "type": "n"
     },
     "t\u00ecme\u2019em": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "harmony (general sense)",
         "type": "n"
     },
     "n\u00ec\u2019eyng": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "back, in response, in answer",
         "type": "adv"
     },
     "pa\u2019o": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "side",
         "type": "n"
     },
     "tsre\u2019i": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "throw",
         "type": "v:tr"
     },
     "st\u00e4\u2019n\u00ec": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "catch",
         "type": "v:tr"
     },
     "t\u00ec\u2019eylan": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "friendship",
         "type": "n"
     },
     "spe\u2019etu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "captive",
         "type": "n"
     },
     "t\u00ecska\u2019a": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "destruction",
         "type": "n"
     },
     "\u2019evi": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "kid (affectionate form of)",
         "type": "n"
     },
     "\u2019ango": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "soft (of a sound)",
         "type": "adj"
     },
     "t\u00ec\u2019ipu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "humor",
         "type": "n"
     },
     "ha\u2019ngir": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "afternoon",
         "type": "n"
     },
     "trr\u2019awve": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "Sunday",
         "type": "n"
     },
     "\u2019rrko": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "roll",
         "type": "v:in"
     },
     "ng\u00e4\u2019\u00e4n": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "suffer mentally or emotionally, be miserable",
         "type": "v:in"
     },
     "sy\u00e4\u2019\u00e4": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "bitter",
         "type": "adj"
     },
     "t\u00eckx\u00ecm": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "commanding, ordering, assigning tasks",
         "type": "n"
     },
     "n\u00e4n": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "decrease",
         "type": "v:in"
     },
     "leyr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "frozen",
         "type": "adj"
     },
     "vospx\u00eckin": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "July",
         "type": "n"
     },
     "\u2019ora": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "lake",
         "type": "n"
     },
     "rusey": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "alive, living, living thing",
         "type": "n"
     },
     "ram": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "mountain",
         "type": "n"
     },
     "t\u00ectstunwinga\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "kind",
         "type": "adj"
     },
     "saylahe": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "\u2019et cetera\u2019",
         "type": "adv"
     },
     "penghrr": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "warn",
         "type": "v:in"
     },
     "\u2019otxang": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "musical instrument (generic term)",
         "type": "n"
     },
     "tslolam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "get it, I understand",
         "type": "intj"
     },
     "l\u00ec\u2019uk\u00ecngvi": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "phrase",
         "type": "n"
     },
     "nang": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "surprise, exclamation, encouragement (mirative)",
         "type": "part"
     },
     "pamtseongopyu": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "music creator, composer",
         "type": "n"
     },
     "t\u00ecyo\u2019": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "perfection",
         "type": "n"
     },
     "t\u00ecpalang": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "(social) contact",
         "type": "n"
     },
     "s\u00e4s\u00eclpey": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hope (particular instance)",
         "type": "n"
     },
     "pxorpam": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "ejective consonant",
         "type": "n"
     },
     "le\u2019al": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "wasteful",
         "type": "adj"
     },
     "sraw": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "painful",
         "type": "adj"
     },
     "taron": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "hunt",
         "type": "v:tr"
     },
     "\u2019ite": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "daughter",
         "type": "n"
     },
     "txanwawe": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "personally meaningful, significant",
         "type": "adj"
     },
     "nget": {
-        "count": 1,
+        "total_count": 1,
         "meaning": "smell of decaying wood and leaves, dank (nonanimal decay)",
         "type": "adj"
     }
