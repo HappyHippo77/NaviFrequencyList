@@ -12,7 +12,7 @@ Info:
   
 Sources:  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・#💙nìna’vi-nì’aw (Kelutral Discord Server) [https://www.kelutral.org/]  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Fmawn ta 'Rrta (All releases from 08/22/2020 to 02/13/2021) [https://fmawnrrta.weebly.com/]  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Fmawn ta 'Rrta (All releases since 08/22/2020) [https://fmawnrrta.weebly.com/]  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Fmawn ta Nahura [https://fmawntanahura.wordpress.com/]  
   
 APIs and Libraries:  
