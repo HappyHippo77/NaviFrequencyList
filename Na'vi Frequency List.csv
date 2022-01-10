@@ -1,886 +1,932 @@
-oe,2576,"I, me",pn
-lu,1948,to be,v:cp
-ke,1090,not,part
-a,1039,that (subclause marker),part
-nga,890,you,pn
-po,836,"he, she",pn
-fwa,738,that (subclause marker),ctr
-ulte,723,and (clausal conjunction),conj
-tute,709,person,n
-HRH,694,"LOL (""laughing out loud"")",intj
-alu,677,"that is, in other words",conj
-mì,619,"in, on",adp:len
-sì,617,and (noun conjunction),part
-slä,573,but,conj
-tsun,545,"can, be able",v:m
-fko,496,"one, they (unspecified agent)",pn
-tsa’u,472,that (thing),pn
-ma,413,O (vocative marker),part
-si,307,(auxiliary verb),v:si
-taluna,285,because,conj
-zene,280,must,v:m
-new,269,want,v:tr
-srak,259,yes/no (question marker for yes-or-no questions),part
-pxay,257,many,adj
-fte,255,"so that, in order to",conj
-nìtxan,249,"much (abstract), very",adv
-nìteng,248,"too, also, as well, likewise",adv
-kelku,236,"home, house",n
-sunu,235,"be pleasing, be likeable, bring enjoyment",v:in
-fpìl,220,think,v:tr
-set,214,now,adv
-kaltxì,211,hello,intj
-eyktan,208,leader,n
-lì’u,206,word,n
-ne,203,"to, towards (direction)",adp
-plltxe,197,speak,v:tr
-ha,195,"so, in that case",adv
-len,192,"happen, occur",v:in
-lahe,190,"other, else",adj
-’efu,189,"feel, sense, perceive",v:tr
-’u,185,"thing (object, fact, abstraction)",n
-slu,176,become,v:cp
-krr,175,time,n
-trr,171,day,n
-frapo,167,everyone,pn
-fa,167,"with, by means of",adp
-hu,165,with (accompaniment),adp
-srane,165,yes,part
-ta,161,"from (locative), from (temporal sense with other time words)",adp
-nì’ul,159,more,adv
-txo,158,if,conj
-zìsìt,157,year,n
-fìtrr,156,today,adv
-fu,156,or,conj
-tsakrr,155,"then, at that time, that time",adv
-kop,153,"too, also, additionally",adv
-lefngap,150,metallic,adj
-nì’aw,149,only,adv
-tok,148,"be at, occupy a space",v:tr
-pamrel,148,write,nv:si
-rel,148,"image, picture",n
-tam,145,"suffice, be okay",v:in
-peng,145,tell,v:tr
-txanlokxe,145,"clan or tribal domain, country",n
-tsakem,142,that (action),n
-olo’eyktan,141,clan leader,n
-eltu,140,brain,n
-teri,139,"about, concerning",adp
-tìkangkem,133,work,nv:si
-teynga,132,that answer (indirect question marker),ctr
-omum,131,know,v:tr
-pongu,131,"group of people, party",n
-pawm,131,ask,v:tr
-yom,129,eat,v:tr
-uvan,128,play (a game),nv:si
-fìtseng,126,"here, this place",n
-hapxì,126,part,n
-’a’aw,124,"a few, several",adj
-säomum,122,(piece of) information,n
-kea,121,no (before a noun),adj
-lì’fya,121,language,n
-pum,119,‘one’ (refers to another instance of a previously mentioned noun),pn
-mi,117,"yet, still, as before",adv
-syaw,117,call,v:in
-mip,117,new,adj
-nìNa’vi,115,"like the Na’vi, Na’vily",adv
-ngop,115,create,v:tr
-pängkxo,114,"chat, converse, have a conversation",v:in
-hahaw,112,sleep,v:in
-nìmun,112,again,adv
-sno,112,"his self, her self, its self",pn
-krra,109,"when, at the time that",conj
-za’u,107,come,v:in
-san,107,(start-of-quote particle),part
-kxì,106,hello (casual),intj
-sar,105,use,v:tr
-ftu,102,from (direction),adp
-nì’it,102,"a bit, a small amount (abstract)",adv
-kem,101,"action, deed",n
-sìltsan,100,"good (of its kind), well done",adj
-tsnì,100,that (function word),ctr
-koren,100,"rule, guideline",n
-terkup,100,die,v:in
-sran,98,yes (colloquial),part
-fmi,98,"try, attempt",v:tr
-li,98,already,adv
-ya,97,air,n
-irayo,97,"thank you, thanks",n
-Yuesey,97,U.S.A.,n:pr
-tseng,96,place,n
-ngian,94,however,adv
-na,93,"like, as",adp
-kä,93,go,v:in
-tse’a,90,see (physical sense),v:tr
-lì’ukìng,90,sentence,n
-srake,84,yes/no (question marker for yes-or-no questions),part
-oeng,84,"we, us (inclusive)",pn
-krrka,82,during,adp
-kifkey,82,"world (physical, solid)",n
-sngä’i,81,"begin, start",v:m
-kehe,78,no,part
-kin,78,need,v:tr
-fya’o,78,"path, way, manner",n
-kxawm,77,"perhaps, maybe",adv
-atxkxe,77,land,n
-kanom,77,"acquire, get",v:tr
-tslam,75,understand,v:tr
-tìlen,75,"event, happening",n
-nìwotx,73,"all (of), in toto, completely",adv
-makto,73,ride,v:tr
-mllte,73,agree,v:in
-pay,72,"water, liquid",n
-tekre,72,skull,n
-tsenge,71,place,n
-nìhawng,70,"too, excessively",adv
-run,70,"find, discover",v:tr
-tìng,70,give,v:tr
-txan,70,much,adj
-hum,69,"leave, depart",v:in
-talun,69,"because of, due to",adp
-maw,69,after (time),adp
-tsatseng,68,"there, that place",n
-leNa’vi,68,"having to do with the Na’vi, the People",adj
-tìtxen,67,"to wake, to waken, wake up",nv:si
-fmawnta,67,that news (reported observations marker),ctr
-sìk,67,(end-of-quote particle),part
-smon,66,"be familiar, be known (with dative)",v:in
-zup,66,fall,v:in
-inan,65,"read (e.g. the forest), gain knowledge from sensory input",v:tr
-apxa,65,large,adj
-txantsan,64,excellent,adj
-ìlä,64,"by, via, following, according to",adp:len
-fpom,63,"wellbeing, peace, happiness",n
-ko,63,‘let’s’ (particle to solicit agreement),part
-tafral,63,"therefore, because of that",adv
-ska’a,62,destroy,v:tr
-nume,62,learn,v:in
-tìngäzìk,62,"difficulty, problem",n
-zum,62,"object, thing (physical or tangible)",n
-fpi,61,"for the sake of, for the benefit of",adp:len
-pe’un,61,decide,v:tr
-ftxey,60,choose,v:tr
-frakrr,60,"always, all the time",adv
-olo’,60,clan,n
-sìlpey,59,hope ,v:in
-nìngay,58,truly,adv
-yrrap,58,storm,n
-latem,58,change,v:in
-tse,57,well (conversation starter),intj
-ngäzìk,57,"difficult, hard",adj
-fmawn,57,"news, something to report",n
-’eylan,56,friend,n
-lefpom,56,"happy, peaceful, joyous, pleasant",adj
-tsray,56,village,n
-’awve,56,first (ordinal),adj
-kezemplltxe,55,"of course, needless to say",adv
+oe,2844,"I, me",pn
+lu,2142,to be,v:cp
+ke,1205,not,part
+a,1148,that (subclause marker),part
+nga,973,you,pn
+po,902,"he, she",pn
+fwa,825,that (subclause marker),ctr
+ulte,809,and (clausal conjunction),conj
+tute,792,person,n
+alu,766,"that is, in other words",conj
+HRH,734,"LOL (""laughing out loud"")",intj
+mì,687,"in, on",adp:len
+sì,660,and (noun conjunction),part
+slä,651,but,conj
+tsun,588,"can, be able",v:m
+fko,552,"one, they (unspecified agent)",pn
+tsa’u,516,that (thing),pn
+ma,442,O (vocative marker),part
+si,341,(auxiliary verb),v:si
+zene,310,must,v:m
+taluna,304,because,conj
+new,290,want,v:tr
+nìteng,288,"too, also, as well, likewise",adv
+fte,278,"so that, in order to",conj
+pxay,278,many,adj
+nìtxan,271,"much (abstract), very",adv
+srak,267,yes/no (question marker for yes-or-no questions),part
+kelku,259,"home, house",n
+sunu,258,"be pleasing, be likeable, bring enjoyment",v:in
+fpìl,240,think,v:tr
+eyktan,237,leader,n
+set,226,now,adv
+kaltxì,223,hello,intj
+ne,223,"to, towards (direction)",adp
+lì’u,219,word,n
+plltxe,210,speak,v:tr
+’efu,209,"feel, sense, perceive",v:tr
+len,209,"happen, occur",v:in
+ha,206,"so, in that case",adv
+lahe,205,"other, else",adj
+’u,204,"thing (object, fact, abstraction)",n
+slu,195,become,v:cp
+krr,194,time,n
+hu,190,with (accompaniment),adp
+fa,186,"with, by means of",adp
+frapo,185,everyone,pn
+trr,184,day,n
+srane,180,yes,part
+zìsìt,180,year,n
+fìtrr,177,today,adv
+nì’ul,176,more,adv
+fu,174,or,conj
+tsakrr,174,"then, at that time, that time",adv
+kop,172,"too, also, additionally",adv
+ta,172,"from (locative), from (temporal sense with other time words)",adp
+txo,171,if,conj
+rel,169,"image, picture",n
+tsakem,168,that (action),n
+lefngap,164,metallic,adj
+tok,162,"be at, occupy a space",v:tr
+nì’aw,161,only,adv
+pamrel,159,write,nv:si
+teri,157,"about, concerning",adp
+olo’eyktan,157,clan leader,n
+txanlokxe,157,"clan or tribal domain, country",n
+peng,156,tell,v:tr
+tam,154,"suffice, be okay",v:in
+tìkangkem,151,work,nv:si
+fìtseng,148,"here, this place",n
+eltu,147,brain,n
+mip,146,new,adj
+pongu,146,"group of people, party",n
+hapxì,143,part,n
+omum,141,know,v:tr
+’a’aw,141,"a few, several",adj
+uvan,140,play (a game),nv:si
+yom,139,eat,v:tr
+teynga,137,that answer (indirect question marker),ctr
+pum,134,‘one’ (refers to another instance of a previously mentioned noun),pn
+krra,134,"when, at the time that",conj
+pawm,134,ask,v:tr
+mi,133,"yet, still, as before",adv
+kea,132,no (before a noun),adj
+säomum,130,(piece of) information,n
+lì’fya,128,language,n
+sno,127,"his self, her self, its self",pn
+za’u,126,come,v:in
+ngop,123,create,v:tr
+nìNa’vi,122,"like the Na’vi, Na’vily",adv
+hahaw,120,sleep,v:in
+nìmun,120,again,adv
+pängkxo,120,"chat, converse, have a conversation",v:in
+syaw,118,call,v:in
+tsnì,115,that (function word),ctr
+terkup,115,die,v:in
+ya,114,air,n
+nì’it,114,"a bit, a small amount (abstract)",adv
+ftu,113,from (direction),adp
+sar,113,use,v:tr
+san,113,(start-of-quote particle),part
+tseng,112,place,n
+koren,112,"rule, guideline",n
+sìltsan,111,"good (of its kind), well done",adj
+kxì,110,hello (casual),intj
+kem,109,"action, deed",n
+li,109,already,adv
+irayo,107,"thank you, thanks",n
+fmi,105,"try, attempt",v:tr
+Yuesey,103,U.S.A.,n:pr
+sran,102,yes (colloquial),part
+krrka,102,during,adp
+na,102,"like, as",adp
+kä,100,go,v:in
+ngian,100,however,adv
+tse’a,95,see (physical sense),v:tr
+lì’ukìng,95,sentence,n
+srake,91,yes/no (question marker for yes-or-no questions),part
+nìwotx,88,"all (of), in toto, completely",adv
+kanom,88,"acquire, get",v:tr
+kxawm,87,"perhaps, maybe",adv
+sngä’i,87,"begin, start",v:m
+nìhawng,86,"too, excessively",adv
+oeng,86,"we, us (inclusive)",pn
+txan,86,much,adj
+tslam,85,understand,v:tr
+tìlen,85,"event, happening",n
+kifkey,85,"world (physical, solid)",n
+kehe,83,no,part
+kin,82,need,v:tr
+zup,80,fall,v:in
+fya’o,80,"path, way, manner",n
+hum,79,"leave, depart",v:in
+mllte,79,agree,v:in
+makto,78,ride,v:tr
+run,78,"find, discover",v:tr
+atxkxe,78,land,n
+tìng,78,give,v:tr
+apxa,77,large,adj
+fmawnta,76,that news (reported observations marker),ctr
+ska’a,75,destroy,v:tr
+leNa’vi,75,"having to do with the Na’vi, the People",adj
+smon,74,"be familiar, be known (with dative)",v:in
+tsenge,74,place,n
+tìtxen,73,"to wake, to waken, wake up",nv:si
+pay,73,"water, liquid",n
+tekre,73,skull,n
+fpi,73,"for the sake of, for the benefit of",adp:len
+talun,73,"because of, due to",adp
+sìk,73,(end-of-quote particle),part
+herwì,73,snow,n
+tsatseng,72,"there, that place",n
+maw,72,after (time),adp
+sìlpey,71,hope ,v:in
+fpom,71,"wellbeing, peace, happiness",n
+ftxey,70,choose,v:tr
+yrrap,70,storm,n
+ìlä,70,"by, via, following, according to",adp:len
+txantsan,69,excellent,adj
+inan,68,"read (e.g. the forest), gain knowledge from sensory input",v:tr
+ko,68,‘let’s’ (particle to solicit agreement),part
+zum,68,"object, thing (physical or tangible)",n
+nume,67,learn,v:in
+tìngäzìk,67,"difficulty, problem",n
+tafral,67,"therefore, because of that",adv
+kezemplltxe,65,"of course, needless to say",adv
+tse,64,well (conversation starter),intj
+frakrr,64,"always, all the time",adv
+nìngay,64,truly,adv
+latem,64,change,v:in
+ngäzìk,63,"difficult, hard",adj
+tìfkeytok,63,"state, condition, situation",n
+’eylan,62,friend,n
+pe’un,62,decide,v:tr
+olo’,62,clan,n
+pa’li,61,direhorse,n
+nìn,61,look at,v:tr
+pelun,60,why,inter
+lefpom,60,"happy, peaceful, joyous, pleasant",adj
+tskxekeng,60,"exercise, train",nv:si
+syuve,60,"food (collective noun, cannot be pluralised)",n
+lam,60,"seem, appear",v:in
+’awve,60,first (ordinal),adj
+ngeyn,59,tired,adj
+trram,58,yesterday,adv
+fmawn,58,"news, something to report",n
+hapxìtu,58,member,n
+numeyu,57,student,n
+ftia,57,study,v:tr
+keftxo,57,"unhappy, upset",adj
+tsray,57,village,n
+yafkeyk,56,weather,n
+pxìm,56,often,adv
+tengkrr,55,"while, same time as",conj
+sweylu,55,should,v:in
+ftang,55,stop,v:m
 ’em,55,cook,v:tr
-pelun,54,why,inter
-ngeyn,54,tired,adj
-ftang,54,stop,v:m
-tskxekeng,54,"exercise, train",nv:si
-syuve,54,"food (collective noun, cannot be pluralised)",n
-tìfkeytok,54,"state, condition, situation",n
-pa’li,53,direhorse,n
-var,53,"to persist in a state, to continue to perform an action",v:m
-alo,52,"time, turn, instance, one of a number of repeated or recurring actions",n
-fayluta,52,these words (reported speech marker),ctr
-hapxìtu,52,member,n
-yafkeyk,51,weather,n
-trram,51,yesterday,adv
-pefya,51,how,inter
-fkeytok,51,exist,v:in
-pxìm,51,often,adv
+alo,55,"time, turn, instance, one of a number of repeated or recurring actions",n
+nitram,55,happy (of people),adj
+kam,55,ago,adp
+tìfmetok,55,test,n
+fkeytok,54,exist,v:in
+zo,54,"be well, be intact, be as it should be, work correctly or as nature intended",v:in
+var,54,"to persist in a state, to continue to perform an action",v:m
+karyu,54,teacher,n
+srung,54,"help, assistance",n
+fayluta,54,these words (reported speech marker),ctr
+ftxozä,54,"celebration, happy occasion",n
+tompa,53,rain,n
+’eko,53,attack,v:tr
+tut,53,continuation marker,part
+pamtseo,52,music,n
+pefya,52,how,inter
+kefyak,52,"isn’t it?, right?",part
+to,52,‘than’ (comparative marker),part
+’Rrta,51,Earth,n:pr
 ftxìlor,51,"delicious, good tasting",adj
-lam,51,"seem, appear",v:in
-ftia,51,study,v:tr
-nitram,51,happy (of people),adj
-keftxo,51,"unhappy, upset",adj
-srung,51,"help, assistance",n
-herwì,51,snow,n
-sweylu,50,should,v:in
-tompa,50,rain,n
-zo,50,"be well, be intact, be as it should be, work correctly or as nature intended",v:in
-nìn,50,look at,v:tr
-karyu,50,teacher,n
-kintrr,50,week,n
-kam,50,ago,adp
-kefyak,49,"isn’t it?, right?",part
-tut,49,continuation marker,part
-numeyu,49,student,n
-tsamsiyu,49,warrior,n
-tìfmetok,49,test,n
-pamtseo,48,music,n
-tengkrr,48,"while, same time as",conj
-fìtsenge,48,"here, this place",n
-yune,47,listen to (intentionally),v:tr
+kintrr,51,week,n
+tsamsiyu,51,warrior,n
+natkenong,50,"for example, as an example",conj
+fìtsenge,50,"here, this place",n
+lok,50,close to,adp
+frato,50,than all (superlative marker),part
+mawkrr,50,"after, afterwards, later",adv
+yune,49,listen to (intentionally),v:tr
+kar,49,teach,v:tr
+leymkem,49,protest,v:in
+tì’efu,48,feeling,n
+yayayr,48,confusion,n
+nìkeftxo,47,"unfortunately, sadly",adv
+txele,47,matter (subject),n
 tìftiatu,47,researcher,n
-kar,47,teach,v:tr
-yayayr,47,confusion,n
-’eko,46,attack,v:tr
-’Rrta,45,Earth,n:pr
-to,45,‘than’ (comparative marker),part
-sä’o,45,"tool, utensil",n
-som,44,hot,adj
-txele,44,matter (subject),n
+soaia,46,family,n
+sä’o,46,"tool, utensil",n
+txep,46,fire,n
+rolun,46,Eureka! I’ve found it!,intj
+hufwe,45,wind,n
+som,45,hot,adj
+kllte,45,ground,n
+ioang,44,"animal, beast",n
+txon,44,night,n
 puk,44,book,n
-lok,44,close to,adp
-rolun,44,Eureka! I’ve found it!,intj
+spxin,44,sick,adj
+steftxaw,44,"examine, check",v:tr
+säfpìl,43,idea,n
+pam,43,sound,n
 Tawtute,43,"Skyperson, human",n
-tì’efu,43,feeling,n
-frato,42,than all (superlative marker),part
-hufwe,41,wind,n
-natkenong,41,"for example, as an example",conj
-säfpìl,41,idea,n
-ioang,41,"animal, beast",n
-txep,41,fire,n
-mawkrr,41,"after, afterwards, later",adv
-sop,40,travel,v:in
-rewon,40,morning,n
-steftxaw,40,"examine, check",v:tr
-nìkeftxo,39,"unfortunately, sadly",adv
-kxìm,39,"command, order, assign a task",v:tr
-nìltsan,39,well,adv
-Na’vi,39,"the People, indigenous Pandoran sentient race",n:pr
-kllte,39,ground,n
-ftxozä,39,"celebration, happy occasion",n
-txolar,39,dollar,n
-nìftxan,38,"so, to such an extent",adv
-kawtu,38,no one,pn
-hì’i,38,"small, little (in size)",adj
-hufwa,38,although,conj
+tìtxula,43,"construction, constructed thing",n
+rutxe,42,please,intj
+tätxaw,42,return,v:in
+nìftxan,42,"so, to such an extent",adv
+kxìm,42,"command, order, assign a task",v:tr
+sop,42,travel,v:in
+rewon,42,morning,n
+nìltsan,42,well,adv
+txolar,42,dollar,n
+oare,41,moon,n
+txantsawtsray,41,"large city, metropolis",n
+’ì’awn,41,"remain, stay",v:in
+hì’i,41,"small, little (in size)",adj
+tspang,41,kill,v:tr
+pehem,40,what (action),inter
+kawtu,40,no one,pn
+tsawa,40,that (subclause marker),ctr
+kosman,40,"wonderful, terrific, fantastic",adj
+zong,40,"save, defend",v:tr
+Na’vi,40,"the People, indigenous Pandoran sentient race",n:pr
+txampay,39,"sea, ocean",n
+stum,39,almost,adv
+tutan,39,"man, male (person)",n
+tsunslu,39,"may, be possible",v:in
+hufwa,39,although,conj
+tson,39,"obligation, duty, imposed requirement",n
+txin,39,"main, primary",adj
+lehrrap,38,dangerous,adj
+wew,38,cold,adj
+trray,38,tomorrow,adv
+tstxo,38,name,n
+kempe,38,what (action),inter
+vur,38,story,n
+tung,38,allow,v:tr
+srer,38,"appear, materialize, come into view",v:in
 vospxì,38,month,n
-tätxaw,37,return,v:in
-tstxo,37,name,n
-kosman,37,"wonderful, terrific, fantastic",adj
-txantsawtsray,37,"large city, metropolis",n
-tspang,37,kill,v:tr
-leymkem,37,protest,v:in
-rutxe,36,please,intj
-txampay,36,"sea, ocean",n
-stum,36,almost,adv
-soaia,36,family,n
+kuma,37,that (as a result),conj
+nìwin,37,"fast,  quickly",adv
+tìran,37,walk,v:in
+wìntxu,37,show,v:tr
+ultxa,37,meeting,n
+’eveng,37,child,n
+nga’,37,contain,v:tr
+stxeli,37,gift,n
+leykek,37,enforce,v:tr
+’o’,36,"bringing fun, exciting",adj
+hasey,36,"done, finished",adj
+tsonta,36,to (with kxìm),conj
+sleyku,36,produce,v:tr
+säspxin,36,"disease, sickness, illness",n
 tslolam,36,"get it, I understand",intj
-tsawa,36,that (subclause marker),ctr
-kempe,36,what (action),inter
-wìntxu,36,show,v:tr
-tsunslu,36,"may, be possible",v:in
-kuma,35,that (as a result),conj
-tutan,35,"man, male (person)",n
-trray,35,tomorrow,adv
-spxin,35,sick,adj
+hay,36,next,adj
+tuteo,36,"somebody, someone",pn
+pey,36,"wait, wait for",v:in
+kangay,36,valid,adj
+ngim,36,long (physical length),adj
+zey,36,"special, distinct",adj
+fkan,35,"resemble in a sensory modality, come to the senses as",v:in
+srefwa,35,before,conj
+ham,35,previous,adj
+ikran,35,"ikran, banshee",n
 rä’ä,35,"do not (for negative imperatives, commands only)",part
-tuteo,35,"somebody, someone",pn
-ngim,35,long (physical length),adj
-zong,35,"save, defend",v:tr
-zey,35,"special, distinct",adj
-pehem,34,what (action),inter
-txon,34,night,n
-pey,34,"wait, wait for",v:in
-tung,34,allow,v:tr
-srer,34,"appear, materialize, come into view",v:in
-nga’,34,contain,v:tr
-txin,34,"main, primary",adj
+tìpängkxo,35,"conversation, discussion",n
+keng,35,"even, so much as",adv
+numtseng,35,school,n
+tsafya,35,"that way, like that",adv
+sko,35,"something as, in the capacity of, or in the role of, something else",adp:len
+oeyktìng,34,explain (why),v:tr
+tìralpeng,34,"translation, interpretation",n
+nivi,34,sleeping hammock (general term),n
+fyape,34,how,inter
+skxawng,34,"moron, idiot",n
+tsranten,34,"matter, be of importance",v:in
+tsawl,34,"big (in size), tall",adj
+’upxare,34,message,n
+kemlì’u,34,verb,n
+vay,34,up to,adp
+pxor,34,explode,v:in
+lonu,34,"release, let go",v:tr
+postì,34,(forum/blog) post,n
+tsawtsray,34,small or medium-sized city,n
+wutso,33,"dinner, served meal",n
 tsawke,33,sun; Alpha Centauri A,n
-fkan,33,"resemble in a sensory modality, come to the senses as",v:in
-nìwin,33,"fast,  quickly",adv
-tsonta,33,to (with kxìm),conj
-sleyku,33,produce,v:tr
-tìran,33,walk,v:in
-fyape,33,how,inter
-vur,33,story,n
-’upxare,33,message,n
-vay,33,up to,adp
-pxor,33,explode,v:in
-tìtxula,33,"construction, constructed thing",n
-postì,33,(forum/blog) post,n
-leykek,33,enforce,v:tr
-oare,32,moon,n
-ikran,32,"ikran, banshee",n
-nawm,32,"great, noble",adj
-’ì’awn,32,"remain, stay",v:in
-layon,32,black,adj
-fpe’,32,send,v:tr
-taw,31,sky,n
-’o’,31,"bringing fun, exciting",adj
-pam,31,sound,n
-lehrrap,31,dangerous,adj
-tanhì,31,"star, bioluminescent freckle",n
-tìpängkxo,31,"conversation, discussion",n
-’eveng,31,child,n
-hay,31,next,adj
-fe’,31,bad,adj
-tsafya,31,"that way, like that",adv
-tsawl,31,"big (in size), tall",adj
-kangay,31,valid,adj
-wutso,30,"dinner, served meal",n
-tìralpeng,30,"translation, interpretation",n
-hasey,30,"done, finished",adj
-frrfen,30,visit,v:tr
-srefwa,30,before,conj
-nìprrte’,30,"pleasurably, gladly, with pleasure",adv
-ultxa,30,meeting,n
-eyawr,30,"correct, right",adj
-tsranten,30,"matter, be of importance",v:in
-luke,30,without,adp
-tsyänel,30,TV channel,n
-syura,30,energy (physical or spiritual),n
-lonu,30,"release, let go",v:tr
-kolan,29,"I mean, rather (selfcorrecting)",intj
-säspxin,29,"disease, sickness, illness",n
-pxaw,29,around,adp
-pxiset,29,right now,adv
-tswa’,29,forget,v:tr
-skxawng,29,"moron, idiot",n
+taw,33,sky,n
+ye’rìn,33,soon,adv
+pxaw,33,around,adp
+nìprrte’,33,"pleasurably, gladly, with pleasure",adv
+nawm,33,"great, noble",adj
+eyawr,33,"correct, right",adj
+fe’,33,bad,adj
+layon,33,black,adj
+luke,33,without,adp
+fpe’,33,send,v:tr
+hek,33,"to be curious, odd, strange, unexpected",v:in
+tìkan,33,"aim, goal, purpose, target",n
+tswa’,32,forget,v:tr
+tanhì,32,"star, bioluminescent freckle",n
+mokri,32,voice,n
+syura,32,energy (physical or spiritual),n
+muve,32,second (ordinal),adj
+tskxe,32,"rock, stone",n
+mawfwa,31,after,conj
+kolan,31,"I mean, rather (selfcorrecting)",intj
+frrfen,31,visit,v:tr
+pxiset,31,right now,adv
+salew,31,"proceed, go",v:?
+wä,31,against (as in: fight against),adp:len
+tsyänel,31,TV channel,n
+ralpeng,29,"interpret, translate",v:tr
+lawk,29,"discourse on, talk about, say something concerning",v:tr
 ’ewll,29,plant,n
-mokri,29,voice,n
-kemlì’u,29,verb,n
-sko,29,"something as, in the capacity of, or in the role of, something else",adp:len
-hek,29,"to be curious, odd, strange, unexpected",v:in
-ralpeng,28,"interpret, translate",v:tr
-oeyktìng,28,explain (why),v:tr
-wew,28,cold,adj
-ham,28,previous,adj
-zeyko,28,"heal, fix",v:tr
-’umtsa,28,medicine,n
+nì’awve,29,first,adv
+zeyko,29,"heal, fix",v:tr
+’umtsa,29,medicine,n
+stawm,29,hear,v:tr
+ätxäle,29,request,n
+tul,28,run,v:in
+kawkrr,28,never,adv
+sa’nok,28,mother,n
+tokx,28,body,n
+nari,28,eye,n
 ral,28,meaning,n
-tìkan,28,"aim, goal, purpose, target",n
-tsawtsray,28,small or medium-sized city,n
-ye’rìn,27,soon,adv
-tul,27,run,v:in
+nìsung,28,"besides, additionally, furthermore",adv
+tsawlultxa,28,"large gathering, conference",n
+eyk,28,lead,v:tr
+nulkrr,27,longer (time),adv
+lun,27,reason,n
+näk,27,drink,v:tr
 rikx,27,"move, shift position",v:in
-sa’nok,27,mother,n
-keng,27,"even, so much as",adv
+txasom,27,very hot,adj
+peu,27,what (thing),inter
+nìyey,27,"directly, straight to the point",adv
+ean,27,"blue, green",adj
 law,27,"clear, certain",adj
-mawfwa,26,after,conj
-nivi,26,sleeping hammock (general term),n
+txintìn,27,"occupation, primary role in society",n
+kum,27,result,n
 ìì,26,"um, er",intj
-nì’awve,26,first,adv
-numtseng,26,school,n
-peu,26,what (thing),inter
-wä,26,against (as in: fight against),adp:len
+hìtxoa,26,excuse me,intj
+spaw,26,believe,v:tr
+meuia,26,honor,n
+hayalovay,26,until next time,intj
+swey,26,best,adj
+rey,26,live,v:in
+palulukantsyìp,26,cat (earth animal); lit. little palulukan,n
+ngopyu,26,creator,n
 hìkrr,26,"second, very short time",n
-tson,26,"obligation, duty, imposed requirement",n
-kum,26,result,n
-tskxe,26,"rock, stone",n
-eyk,26,lead,v:tr
+txintseng,26,base of operations,n
 txasunu,25,"love greatly, enjoy tremendously",v:in
 letokx,25,"bodily, physical",adj
-kawkrr,25,never,adv
-nulkrr,25,longer (time),adv
-lun,25,reason,n
-näk,25,drink,v:tr
-hìtxoa,25,excuse me,intj
-salew,25,"proceed, go",v:?
-hayalovay,25,until next time,intj
-ean,25,"blue, green",adj
-swey,25,best,adj
-palulukantsyìp,25,cat (earth animal); lit. little palulukan,n
+fnu,25,"quiet, be quiet",v:in
+txankrr,25,for a long time,adv
+’ä’,25,oops!,intj
+yoa,25,in exchange for,adp
+nìpxi,25,"especially, pointedly, unambiguously",adv
+tìsraw,25,"hurt, be painful",nv:si
+tel,25,receive,v:tr
+’ìp,25,"disappear, vanish, recede from view",v:in
+yem,25,"put, place",v:tr
 rou,25,"be, or get drunk",v:in
-ätxäle,25,request,n
-lawk,24,"discourse on, talk about, say something concerning",v:tr
-txankrr,24,for a long time,adv
-’ä’,24,oops!,intj
-txasom,24,very hot,adj
+txen,24,awake,adj
+ro,24,at (locative),adp:len
+’i’a,24,"end, conclude",v:in
+ka,24,"across, covering thoroughly",adp
+na’rìng,24,forest,n
 nantangtsyìp,24,dog (earth animal); lit. little nantang,n
-tokx,24,body,n
-yem,24,"put, place",v:tr
-txintìn,24,"occupation, primary role in society",n
+hawnu,24,"protect, shelter",v:tr
 tìkangkemvi,24,"project, piece of work",n
-stxeli,24,gift,n
-fnu,23,"quiet, be quiet",v:in
-txen,23,awake,adj
-na’rìng,23,forest,n
-nìpxi,23,"especially, pointedly, unambiguously",adv
-tìsraw,23,"hurt, be painful",nv:si
-nìyey,23,"directly, straight to the point",adv
-’ìp,23,"disappear, vanish, recede from view",v:in
-rey,23,live,v:in
-hawnu,23,"protect, shelter",v:tr
+nìfya’o,24,in a manner,adv
+ngong,23,"lethargic, lacking sufficient energy, lazy",adj
+nìfkeytongay,23,"actually, as a matter of fact",adv
+txopu,23,fear,n
+hona,23,"endearing, adorable, cute",adj
+tìlatem,23,change (abstract concept),n
+uran,23,boat,n
+tsleng,23,false,adj
+tìpawm,23,question,n
+srekrr,23,"before, already, ahead of time",adv
 fìkem,23,this (action),pn
+tìkxuke,23,safety,n
+spe’e,23,capture,v:tr
 lrrtok,22,smile,nv:si
-nìfkeytongay,22,"actually, as a matter of fact",adv
+uniltìrantokx,22,avatar,n
 hì’ang,22,insect,n
+tsmuk,22,sibling,n
 kilvan,22,river,n
-spaw,22,believe,v:tr
-meuia,22,honor,n
+sngum,22,worry,n
 ram,22,mountain,n
+vewng,22,"look after, take care of, be responsible for",v:tr
 loi,22,egg,n
-tsleng,22,false,adj
-nari,22,eye,n
+tìyawr,22,correctness,n
+wrrpa,22,outside,n
 sung,22,add,v:tr
-stawm,22,hear,v:tr
+letsranten,22,important,adj
 lekoren,22,lawlike,adj
-nìfya’o,22,in a manner,adv
+tì’i’a,22,"ending, conclusion",n
+holpxay,22,number,n
 tsam,22,war,n
-txintseng,22,base of operations,n
+weptseng,21,website,n
+nekx,21,"burn, consume",v:tr
+sìn,21,"on, onto",adp
 nìfkrr,21,"lately, currently",adv
-ngong,21,"lethargic, lacking sufficient energy, lazy",adj
 atan,21,light,n
-hona,21,"endearing, adorable, cute",adj
-’i’a,21,"end, conclude",v:in
-tsmuk,21,sibling,n
-tìlatem,21,change (abstract concept),n
-muve,21,second (ordinal),adj
+’it,21,"bit, a small amount",n
+tìkin,21,need,n
+yewla,21,"disappointment, emotional letdown, failed expectation",n
+vaykrr,21,until,conj
+fwew,21,"look for, seek, search",v:tr
+skxakep,21,probable,adj
+tstxolì’u,21,noun,n
+tseri,21,"note, notice",v:tr
+wem,21,fight,v:in
+frawzo,21,"all is well, everything is fine or OK",intj
+txawew,21,very cold,adj
 rìk,21,leaf,n
-nìsung,21,"besides, additionally, furthermore",adv
-tìpawm,21,question,n
+steyki,21,"anger, make someone angry",v:tr
+tìrey,21,life,n
+tì’eyng,21,"answer, response",n
+tstu,21,"closed, shut, overcast (for cloudy skies)",adj
 nì’i’a,21,"finally, at long last",adv
-tsawlultxa,21,"large gathering, conference",n
-’it,20,"bit, a small amount",n
-ro,20,at (locative),adp:len
-yoa,20,in exchange for,adp
-yewla,20,"disappointment, emotional letdown, failed expectation",n
+txula,21,"build, construct",v:tr
+wur,20,"cool, chilly",adj
+rol,20,sing,v:?
 utral,20,tree,n
-uran,20,boat,n
+ki,20,"but rather, but instead",conj
+yì,20,"shelf, ledge, level, step, rung ",n
+nìtam,20,enough,adv
+nì’ul’ul,20,"increasingly, more and more",adv
+ftue,20,"easy, simple",adj
 kxeyey,20,"error, mistake",n
-frawzo,20,"all is well, everything is fine or OK",intj
-tstu,20,"closed, shut, overcast (for cloudy skies)",adj
-holpxay,20,number,n
-srekrr,20,"before, already, ahead of time",adv
+kllpxìltu,20,territory,n
+takuk,20,"strike, beat, slap",v:tr
 key,20,face,n
-txula,20,"build, construct",v:tr
-weptseng,19,website,n
-nekx,19,"burn, consume",v:tr
-tìkin,19,need,n
-wur,19,"cool, chilly",adj
-vaykrr,19,until,conj
-fwew,19,"look for, seek, search",v:tr
-skxakep,19,probable,adj
-ki,19,"but rather, but instead",conj
-tstxolì’u,19,noun,n
-sngum,19,worry,n
-yì,19,"shelf, ledge, level, step, rung ",n
-nìtam,19,enough,adv
-wem,19,fight,v:in
+toltem,20,shoot,v:tr
+lefkrr,20,current,adj
+ayu,19,things,n
+sang,19,warm,adj
+yawne,19,beloved,adj
+sempul,19,father,n
+alunta,19,"because, from the reason",conj
+txe’lan,19,heart,n
 nemfa,19,"into, inside",adp
 ngay,19,true,adj
-tìyawr,19,correctness,n
-ftue,19,"easy, simple",adj
-wrrpa,19,outside,n
+tare,19,"connect, relate to, have a relationship with",v:tr
 kan,19,"aim, to direct a weapon or other object at a target",v:tr
-tì’eyng,19,"answer, response",n
+nìsìlpey,19,hopefully,adv
+zeykoyu,19,healer,n
 okup,19,milk,n
-ngopyu,19,creator,n
+tsim,19,source,n
 vefya,19,"system, process, procedure, approach",n
-toltem,19,shoot,v:tr
+wätu,19,opponent,n
 kxumpay,19,"viscous liquid, gel",n
-spe’e,19,capture,v:tr
-txopu,18,fear,n
+hìmtxewvay,19,minimally,adv
+skxir,19,wound,nv:si
+txampxì,18,"majority, most, large part",n
+tup,18,"instead of, rather than",conj
+vawm,18,dark,adj
+sre,18,before (time),adp:len
+teya,18,fill (with dative of thing filled),nv:si
+Neytiri,18,female Na’vi of the Omatikaya Clan,n:pr
 lor,18,"beautiful, pleasant to the senses",adj
-ka,18,"across, covering thoroughly",adp
-tseri,18,"note, notice",v:tr
-txe’lan,18,heart,n
-nì’ul’ul,18,"increasingly, more and more",adv
-tel,18,receive,v:tr
-letsranten,18,important,adj
-zeykoyu,18,healer,n
+tun,18,"red, orange",adj
+eo,18,"before, in front of (place)",adp
+släkop,18,but also,adv
+leymfe’,18,complain,v:in
+hawl,18,prepare,v:tr
 kawng,18,"bad, evil",adj
-takuk,18,"strike, beat, slap",v:tr
-tì’i’a,18,"ending, conclusion",n
-tsim,18,source,n
-wätu,18,opponent,n
-lefkrr,18,current,adj
+flä,18,succeed,v:in
+uo,18,behind,adp
+tswayon,18,fly,v:in
+rawn,18,"replace, substitute",v:tr
+syep,18,trap,v:tr
 tìreyn,18,train,n
-skxir,18,wound,nv:si
-tìkxuke,18,safety,n
-txampxì,17,"majority, most, large part",n
+syor,17,"relax, chill out",v:in
 kxanì,17,forbidden,adj
-tun,17,"red, orange",adj
-eo,17,"before, in front of (place)",adp
-vewng,17,"look after, take care of, be responsible for",v:tr
+ewro,17,euro,n
+sim,17,be near,v:in
+tolel,17,Eureka! I found it! I understand!,intj
+hrrap,17,danger,n
+’ärìp,17,move,v:tr
 tìftia,17,study,n
-leymfe’,17,complain,v:in
-hawl,17,prepare,v:tr
-txawew,17,very cold,adj
-steyki,17,"anger, make someone angry",v:tr
-flä,17,succeed,v:in
-tswayon,17,fly,v:in
+zerok,17,remember,v:tr
+pähem,17,arrive,v:in
+pxawngip,17,environment,n
+Europa,17,Europe,n:pr
 slan,17,"support (emotional, social or personal support)",v:tr
 txepram,17,volcano,n
-ayu,16,things,n
-sìn,16,"on, onto",adp
-vawm,16,dark,adj
+kenong,17,"model, represent, exemplify",v:in
 tsyosyu,16,food made from flour,n
-teya,16,fill (with dative of thing filled),nv:si
-rol,16,sing,v:?
-yawne,16,beloved,adj
+muntrr,16,weekend,n
+fìfya,16,"this way, like this",adv
+keteng,16,different,adj
 fra’u,16,everything,pn
-släkop,16,but also,adv
+ken’aw,16,not only,adv
 tsan’ul,16,"improve, get better",v:in
-sempul,16,father,n
-alunta,16,"because, from the reason",conj
+ngaytxoa,16,"sorry, my apologies (acknowledgment of guilt and regret)",intj
+vey,16,"meat, any food of animal origin (including fowl, fish, insects, eggs, milk)",n
+fratrr,16,"daily, every day",adv
+kerusey,16,dead,adj
+txonam,16,last night,adv
 unil,16,dream,n
-nìsìlpey,16,hopefully,adv
+hifwo,16,"flee, escape",v:in
 tsngawvìk,16,"cry, weep",v:in
 vin,16,"request, ask for",v:tr
-tìrey,16,life,n
+wan,16,hide,v:tr
+tsaktap,16,violence,n
+lek,16,"heed, obey",v:tr
+syayvi,16,"luck, chance",n
 rim,16,yellow,adj
+hol,16,few,adj
+lì’upuk,16,dictionary,n
 tìftxey,16,choice,n
+tìsop,16,journey,n
 spuwin,16,"old, former",adj
 lamaytxa,16,flood,n
+tuté,16,"woman, female (person)",n
+säwäsul,16,competition,n
+rum,16,ball,n
+sä’eoio,16,"ceremony, ritual, rite",n
 spono,16,island,n
-tup,15,"instead of, rather than",conj
-sre,15,before (time),adp:len
+wou,15,"be amazing, fascinating (slang)",v:in
+swizaw,15,arrow,n
+sa’sem,15,parent or set of parents,n
 mo,15,"space, hollow, enclosed open area",n
-muntrr,15,weekend,n
-fìfya,15,"this way, like this",adv
-Neytiri,15,female Na’vi of the Omatikaya Clan,n:pr
-keteng,15,different,adj
-tolel,15,Eureka! I found it! I understand!,intj
-ngaytxoa,15,"sorry, my apologies (acknowledgment of guilt and regret)",intj
-vey,15,"meat, any food of animal origin (including fowl, fish, insects, eggs, milk)",n
-’ärìp,15,move,v:tr
-fratrr,15,"daily, every day",adv
-kerusey,15,dead,adj
+sa,15,rise to a challenge,v:in
+zoslu,15,"heal, become well, get fixed",v:in
+fwel,15,broken,adj
 fmokx,15,"jealousy, envy",n
 nìlam,15,apparently,adv
-zerok,15,remember,v:tr
+spulmokri,15,"phone, telephone",n
+voìk,15,"behavior, how one conducts oneself",n
+yur,15,wash,v:tr
 ohakx,15,hungry,adj
-lì’upuk,15,dictionary,n
-tìsop,15,journey,n
-syep,15,trap,v:tr
 poe,15,she,pn
+kxap,15,threaten,nv:si
 rusey,15,"alive, living, living thing",n
-rum,15,ball,n
-syor,14,"relax, chill out",v:in
+oeyk,15,cause,n
+kllfro’,15,be responsible,v:in
 ’awsiteng,14,together,adv
+wiya,14,"expression of warning or frustration, ’damn!’",intj
 le’Ìnglìsì,14,"English, of the English language",adj
 kekem,14,no action or activity,n
-sa,14,rise to a challenge,v:in
-ewro,14,euro,n
-zoslu,14,"heal, become well, get fixed",v:in
-sim,14,be near,v:in
-ken’aw,14,not only,adv
+pesu,14,who,inter
+’eyng,14,"answer, respond",v:in
+sngä’ikrr,14,"beginning, starting time",n
 wo,14,reach for,v:tr
 nìnän,14,less,adv
-hrrap,14,danger,n
-pähem,14,arrive,v:in
-hifwo,14,"flee, escape",v:in
+kaw’it,14,"not at all, not a bit (used with ke; see ke kaw’it not...at all in phrases)",adv
+lì’fyaolo’,14,"language group, language users",n
+kämunge,14,take,v:tr
+pak,14,disparagement,part
+sla’tsu,14,describe,v:tr
+kxa,14,mouth,n
+pxeyve,14,third (ordinal),adj
 fteke,14,"so that not, lest",conj
 yrr,14,"wild, natural (something in its original, unmodified, untamperedwith natural state)",adj
-tsaktap,14,violence,n
-yur,14,wash,v:tr
 penghrr,14,warn,v:in
-hol,14,few,adj
+etrìp,14,"favorable, auspicious",adj
+lew,14,"cover, lid",n
 kxakx,14,"break, snap in two",v:in
 ep’ang,14,complex,adj
-Europa,14,Europe,n:pr
-hìmtxewvay,14,minimally,adv
-kxap,14,threaten,nv:si
-tuté,14,"woman, female (person)",n
-säwäsul,14,competition,n
-sä’eoio,14,"ceremony, ritual, rite",n
-wou,13,"be amazing, fascinating (slang)",v:in
+syonlì’u,14,adjective,n
+muntxatan,14,"husband, male spouse",n
+payoang,14,fish,n
+reyfya,14,"way of living, culture",n
+srätx,13,"annoy, bother",v:tr
 zawprrte’,13,be enjoyable,v:in
-sa’sem,13,parent or set of parents,n
-sang,13,warm,adj
+wätx,13,be bad at,v:tr
+laro,13,"clean, make free of dirt",nv:si
 nìfrakrr,13,as always,adv
 piak,13,"open, clear (for cloudless skies)",adj
-sngä’ikrr,13,"beginning, starting time",n
-kaw’it,13,"not at all, not a bit (used with ke; see ke kaw’it not...at all in phrases)",adv
-fwel,13,broken,adj
-pak,13,disparagement,part
-txonam,13,last night,adv
+nìmwey,13,"calmly, peacefully",adv
+melo,13,twice,adv
+ve’kì,13,hate,v:tr
+seykxel,13,"strong (emotionally, spiritually, not physical), confident",adj
+lie,13,experience,n
+’aku,13,"remove, take away, take off",v:tr
 tìrol,13,song (vocal),n
 vll,13,"indicate, point at",v:tr
-pxeyve,13,third (ordinal),adj
-lek,13,"heed, obey",v:tr
+tsap’alute,13,apologise (apologize),nv:si
+virä,13,"spread, proliferate",v:?
 pate,13,"get to a place, arrive",v:?
-syayvi,13,"luck, chance",n
 fngap,13,metal,n
-uo,13,behind,adp
+Tsyeyk,13,Jake,n:pr
+kaym,13,"evening (before twilight), late afternoon",n
+Toitslan,13,Germany,n:pr
+fwopx,13,dust (in the air),n
 hipx,13,control,v:tr
-kllfro’,13,be responsible,v:in
 srungsiyu,13,"assistant, helper",n
-payoang,13,fish,n
-reyfya,13,"way of living, culture",n
 ta’leng,12,skin,n
 nìk’ong,12,slowly,adv
 fìtxan,12,"so, to such an extent",adv
 mauti,12,fruit,n
 mawl,12,half,n
 ’ur,12,"sight, look, appearance",n
-pesu,12,who,inter
+steng,12,similar,adj
 tewti,12,"wow, expression of surprise and pleasure",intj
 kxamtxon,12,midnight,n
-nìmwey,12,"calmly, peacefully",adv
 nì’awtu,12,alone (as one person),adv
-ve’kì,12,hate,v:tr
+nìsok,12,recently,adv
 am’ake,12,"sure, confident",adj
-seykxel,12,"strong (emotionally, spiritually, not physical), confident",adj
-kämunge,12,take,v:tr
-sla’tsu,12,describe,v:tr
-’aku,12,"remove, take away, take off",v:tr
-spulmokri,12,"phone, telephone",n
-tsap’alute,12,apologise (apologize),nv:si
+äo,12,"under, below",adp
+fratseng,12,everywhere,adv
+nìlun,12,"of course, logically, following common sense",adv
+tìkxey,12,"mess up, foul, do wrong",nv:si
+am’a,12,doubt,n
+Eywa’eveng,12,Pandora,n:pr
+lìm,12,be far,v:in
+kame,12,"see, see into, understand, know (spiritual sense)",v:tr
+netrìp,12,"luckily, happily",adv
+maweypey,12,be patient,v:in
 srey,12,version,n
 tìftang,12,stop (someone or something) ,nv:si
-wan,12,hide,v:tr
+lom,12,"missing, missed (as an absent person who is longed for)",adj
 tor,12,"last, ultimate, terminal",adj
 syen,12,"last, final",adj
-lew,12,"cover, lid",n
-kaym,12,"evening (before twilight), late afternoon",n
-rawn,12,"replace, substitute",v:tr
+’uo,12,something,pn
+yora’,12,win,v:tr
 pìlok,12,blog,n
-pxawngip,12,environment,n
 tompakel,12,drought,n
 sna’o,12,"set, group, pile, clump, stand",n
-oeyk,12,cause,n
-muntxatan,12,"husband, male spouse",n
-wiya,11,"expression of warning or frustration, ’damn!’",intj
+säleymkem,12,"protest, instance of protesting",n
+fuke,11,or not,conj
+tskxepay,11,ice,n
 mawey,11,calm,adj
-laro,11,"clean, make free of dirt",nv:si
+takrra,11,since (temporal),conj
 fìtxon,11,tonight,n
 Eywa,11,"Eywa, world spirit, Gaia",n:pr
-’eyng,11,"answer, respond",v:in
+tìsom,11,heat,n
 tsmukan,11,brother,n
 tìtxur,11,"strength, power",n
-melo,11,twice,adv
 Kelutral,11,Hometree,n:pr
-lì’fyaolo’,11,"language group, language users",n
 ’Ìnglìsì,11,English language,n
 hena,11,carry,v:tr
+yo’,11,"be perfect, flawless",v:in
 saylahe,11,’et cetera’,adv
+tsmuke,11,sister,n
+lertu,11,colleague,n
+weyn,11,"draw, illustrate",v:tr
 o,11,"some, (with words of time) during",aff:suf
-fratseng,11,everywhere,adv
 Toitsye,11,German (language),adj
-nìlun,11,"of course, logically, following common sense",adv
-tìkxey,11,"mess up, foul, do wrong",nv:si
-am’a,11,doubt,n
-lìm,11,be far,v:in
 trrpuve,11,Friday,n
+teng,11,"same, equal",adj
 kxu,11,harm,nv:si
 muntxa,11,"mate (with someone), marry",nv:si
-etrìp,11,"favorable, auspicious",adj
-’uo,11,something,pn
+skxom,11,"chance, opportunity",n
+nìflä,11,successfully,adv
+so’ha,11,"be enthusiastic about, show enthusiasm for, be excited about",v:tr
+yäkx,11,"not notice, ignore, snub",v:tr
+mìftxele,11,"in this regard, related to this matter",adv
 hawngkrr,11,late,adv
-Toitslan,11,Germany,n:pr
+fe’ul,11,"worsen, get worse",v:in
+zìskrrsom,11,summer,n
+emza’u,11,"pass (a test), overcome",v:tr
 zamunge,11,bring,v:tr
+tiam,11,count,v:tr
+’awstengyem,11,bind / bring two or more things together,v:tr
+fekem,11,accident,n
 palon,11,burn,v:in
+zongtseng,11,"safe place, refuge",n
 ’ul,10,increase,v:in
+mesrram,10,"the day before yesterday, two days ago",n
 txewm,10,"scary, frightening",adj
-srätx,10,"annoy, bother",v:tr
+’ampi,10,touch,v:tr
 pehrr,10,when,inter
-swizaw,10,arrow,n
 nui,10,"fail, falter, go astray, not obtain expected or desired result",v:in
 sto,10,refuse (to do something),v:tr
-wätx,10,be bad at,v:tr
-nìsok,10,recently,adv
+tsìk,10,"suddenly, without warning",adv
+nìvingkap,10,"by the way, incidentally",adv
+tìhawl,10,"preparations, plan",n
+lesar,10,"be useful, be of use, come in handy",nv:si
 keyawr,10,"incorrect, wrong, not right",adj
+fìtsap,10,each other,adv
 ekxan,10,"exclude, keep out, bar",nv:si
-tsmuke,10,sister,n
 re’o,10,head,n
 stä’nìpam,10,recording,n
-tare,10,"connect, relate to, have a relationship with",v:tr
-Eywa’eveng,10,Pandora,n:pr
+srefey,10,expect,v:tr
 fmetok,10,test,v:tr
-netrìp,10,"luckily, happily",adv
 teylu,10,beetle larva,n
 Tuktirey,10,Jake and Neytiri’s daughter,n:pr
-maweypey,10,be patient,v:in
-voìk,10,"behavior, how one conducts oneself",n
 lekye’ung,10,"insane, crazy",adj
 pängkxoyu,10,"chatter, converser",n
-virä,10,"spread, proliferate",v:?
-kllpxìltu,10,territory,n
-skxom,10,"chance, opportunity",n
-lom,10,"missing, missed (as an absent person who is longed for)",adj
-mìftxele,10,"in this regard, related to this matter",adv
-zìskrrsom,10,summer,n
+txìng,10,"leave, abandon",v:tr
+nìsngä’i,10,"originally, at first",adv
+kintrram,10,last week,n
+zìskrrmipaw,10,spring,n
+tsulfätu,10,"master of an art, craft, or skill, expert",n
+muiä,10,"proper, fair, right, justified",adj
 fwi,10,"slip, slide",v:in
 fpomtokx,10,health (physical),n
 numultxa,10,class (for instruction),n
 nìsyen,10,lastly,adv
+kintrray,10,next week,n
 säwìntxu,10,"showing, exhibition",n
 fyin,10,simple,adj
-syonlì’u,10,adjective,n
 pänutìng,10,promise (a thing to someone),v:tr
-’awstengyem,10,bind / bring two or more things together,v:tr
 spe’etu,10,captive,n
+kxitx,10,death,n
 tìmwiä,10,"fairness, justice",n
-mesrram,9,"the day before yesterday, two days ago",n
-fuke,9,or not,conj
-tskxepay,9,ice,n
+kemwiä,10,"improper, unfair, wrong, unjustified",adj
+horenleykekyu,10,"law enforcer, police officer",n
+han,10,lose,v:tr
+frrtu,10,"guest, visitor",n
 mungwrr,9,except,adp
-tsìk,9,"suddenly, without warning",adv
+sti,9,"anger (intransitive), be angry",v:in
 ’ora,9,lake,n
-nìvingkap,9,"by the way, incidentally",adv
-takrra,9,since (temporal),conj
+slantire,9,inspire,nv:si
+sur,9,"taste, flavor",n
 swoa,9,"intoxicating beverage, or ""spirits""",n
 sngä’iyu,9,beginner,n
-tìsom,9,heat,n
-steng,9,similar,adj
 tsurokx,9,rest,v:in
+mìso,9,away (position),adv
 tìk’ìn,9,"free time, the absence of business",n
-äo,9,"under, below",adp
 nìfe’,9,badly,adv
+lefkeytongay,9,real,adj
 txung,9,"disturb, disrupt, bother, affect negatively",v:tr
-yo’,9,"be perfect, flawless",v:in
 kxìmyu,9,"commander, one with authority over another",n
-lertu,9,colleague,n
-weyn,9,"draw, illustrate",v:tr
+wok,9,loud,adj
+numtsengvi,9,"classroom, division of a school",n
 tswesya,9,current,n
 naer,9,"drink, something able to be drunk",n
-kxa,9,mouth,n
 nrr,9,"glow, be luminous",v:in
 lini,9,"young of an animal, bird, fish, insect",n
-kame,9,"see, see into, understand, know (spiritual sense)",v:tr
+kxuke,9,safe,adj
 nìyrr,9,"naturally, without tampering with or changing the nature",adv
-nìsngä’i,9,"originally, at first",adv
+fnel,9,"kind, type",n
 prrnen,9,"infant, baby",n
-kintrram,9,last week,n
-so’ha,9,"be enthusiastic about, show enthusiasm for, be excited about",v:tr
+ha’ngir,9,afternoon,n
 sästarsìm,9,collection (put together intentionally by a person),n
 vun,9,provide,v:tr
-fe’ul,9,"worsen, get worse",v:in
 ’upe,9,what (thing),inter
-muiä,9,"proper, fair, right, justified",adj
-emza’u,9,"pass (a test), overcome",v:tr
-yora’,9,win,v:tr
+nulnew,9,prefer,v:tr
 krrnekx,9,take/consume time,v:in
 tìkanu,9,intelligence,n
+tsalsungay,9,"nevertheless, even so",adv
 me,9,(dual),aff:pre
+kulat,9,"reveal, bring forth, uncover (literally and metaphorically)",v:tr
 tsìltsan,9,"good (abstract concept), goodness",n
-säleymkem,9,"protest, instance of protesting",n
+vospxìvomun,9,October,n
 semkä,9,bridge,n
+txanso’hayu,9,"fan, enthusiast",n
+zìsìtay,9,next year,n
 tseotu,9,artist (generic term) ,n
-kxitx,9,death,n
-fekem,9,accident,n
 mll’an,9,accept,v:tr
+tsyul,9,"begin, start",v:tr
 lekin,9,necessary,adj
-kemwiä,9,"improper, unfair, wrong, unjustified",adj
-kenong,9,"model, represent, exemplify",v:in
+’okvur,9,history (nonancient),n
+säftxulì’u,9,"speech, oration",n
 atxkxerel,9,map,n
+pxen,9,functional clothing (item of),n
 Tsu’tey,9,male of the Omatikaya Clan,n:pr
+rangal,8,wish,v:in
+tsko,8,bow (weapon),n
+tsyafe,8,"mild, moderate, comfortable",adj
+muntxatu,8,spouse,n
 txoa,8,forgiveness,n
-lesar,8,"be useful, be of use, come in handy",nv:si
-mìso,8,away (position),adv
+tìhawnu,8,protect,nv:si
 way,8,"song (ancient, ceremonial)",n
 tstunwi,8,"kind, thoughtful, considerate",adj
-lie,8,experience,n
-lefkeytongay,8,real,adj
-fìtsap,8,each other,adv
 ftanglen,8,prevent,v:tr
+komum,8,"don’t know, no idea (slang)",phr
 mowar,8,"advice, bit or piece of advice",n
-wok,8,loud,adj
-numtsengvi,8,"classroom, division of a school",n
-srefey,8,expect,v:tr
+fkxara,8,stress (mental or emotional feeling),n
+lì’fyavi,8,"expression, bit of language",n
+säwäsultsyìp,8,contest,n
 mok,8,suggest,v:tr
 nän,8,decrease,v:in
 ’ongokx,8,be born,v:in
 koaktu,8,old person,n
 tsìve,8,fourth (ordinal),adj
-teng,8,"same, equal",adj
 win,8,fast,adj
+pllngay,8,admit,v:in
 taron,8,hunt,v:tr
-fnel,8,"kind, type",n
 munge,8,"take, bring",v:tr
-zìskrrmipaw,8,spring,n
-ha’ngir,8,afternoon,n
-nìflä,8,successfully,adv
-tsulfätu,8,"master of an art, craft, or skill, expert",n
-nulnew,8,prefer,v:tr
+kllkxem,8,stand,v:in
 syewe,8,fat (substance in meat),n
+swaw,8,moment,n
 kanu,8,"smart, intelligent",adj
-fwopx,8,dust (in the air),n
-tsalsungay,8,"nevertheless, even so",adv
+tsawng,8,"shatter, break into pieces",v:in
+pxan,8,worthy,adj
 zäfi,8,"modified, interfered with, no longer in a natural state",adj
 fpìlfya,8,"thought pattern, way of thinking",n
 tsapo,8,that one (for people only),pn
 wrrza’u,8,"come out, emerge",v:in
+somwew,8,temperature,n
 paw,8,grow; germinate and develop (of a plant),v:in
-vospxìvomun,8,October,n
 pìwopx,8,cloud,n
 kxayl,8,high,adj
 ingyentsim,8,"mystery, riddle, enigma, conundrum",n
 kunsìp,8,gunship,n
-horenleykekyu,8,"law enforcer, police officer",n
+fpeio,8,challenge (ceremonial),n
+wum,8,"approximately, roughly",adv
+hän,8,"net, web",n
+tìska’a,8,destruction,n
+tìtxurnga’,8,powerful,adj
 txurtel,8,rope,n
 tsyeym,8,treasure; something rare and of great value,n
 txi,8,"hurry, hurriedness, frenzy",n
 kxener,7,smoke,n
 vezeyko,7,"put in order, organize",v:tr
-rangal,7,wish,v:in
+tsewtx,7,dirty,adj
+käteng,7,"spend time with, hang out with",v:in
 tstal,7,knife,n
 seysonìltsan,7,well done! (derived from hasey soli nìltsan accomplished well),intj
 kxamtrr,7,"midday, noon",n
-tsyafe,7,"mild, moderate, comfortable",adj
-slantire,7,inspire,nv:si
-muntxatu,7,spouse,n
+tì’o’,7,"fun, excitement",n
 mun’i,7,cut,v:?
-tìhawnu,7,protect,nv:si
 ’opin,7,color,n
+io,7,"over,  above",adp
 ro’a,7,"be impressive, inspire awe or respect",v:in
 fmong,7,"steal, rob",v:tr
 teyr,7,white,adj
 tsyoklìt,7,chocolate,n
 lehawngkrr,7,late,adj
 ronsem,7,mind,n
-fkxara,7,stress (mental or emotional feeling),n
 uolì’uvi,7,suffix,n
 nìno,7,"in detail, expansively, thoroughly",adv
+mìkam,7,between,adp
 tsyey,7,"snack, light meal",n
-txìng,7,"leave, abandon",v:tr
+mìfa,7,inside,n
+’itan,7,son,n
+sänumvi,7,lesson,n
+pup,7,short (physical length),adj
+’aw,7,one,num
 hamalo,7,last time,adv
 hiyìk,7,"funny, strange",adj
 tsongropx,7,"hole, cavity, excavation with a bottom (visible or presumed)",n
 reypay,7,blood,n
 neni,7,sand,n
 tìohakx,7,hunger,n
-swaw,7,moment,n
+tìomum,7,knowledge,n
 fpxäkìm,7,enter,v:in
-kintrray,7,next week,n
 ftxulì’u,7,"orate, give speech",v:in
 ’are,7,"poncho, cape, shawl",n
-tsawng,7,"shatter, break into pieces",v:in
 pewn,7,neck,n
-pxan,7,worthy,adj
-somwew,7,temperature,n
+nìftue,7,easily,adv
 vospxìam,7,last month,n
 ’ong,7,"unfold, blossom",v:?
-tiam,7,count,v:tr
 tsyokx,7,hand,n
 vospxìvol,7,August,n
 eykyu,7,"leader (typically temporary, of a small group like a hunting party)",n
+tìpe’un,7,decision,n
 ropx,7,hole (going clear through an object),n
+ye’krr,7,early,adv
 tong,7,"put out, quench",v:tr
 zet,7,"treat (emotionally), display an attitude towards",v:tr
-wum,7,"approximately, roughly",adv
-tsyul,7,"begin, start",v:tr
+sänrr,7,"glow, an instance of glowing; light source, lamp",n
 tìeyktan,7,leadership,n
-hän,7,"net, web",n
-’okvur,7,history (nonancient),n
 sähena,7,"container, vessel, carrier",n
+txum,7,poison,n
 txon’ongmaw,7,"twilight, the time before dark, after sunset",n
 tsamsä’o,7,weapon of war,n
-tsewtx,6,dirty,adj
+pe’ngayyu,7,judge,n
+sngel,7,"garbage, trash, rubbish",n
 atokirina’,6,seed of the great tree,n
+zìskrrwew,6,winter,n
+tem,6,shoot,v:in
 palang,6,"contact (in a social sense), communicate with",v:tr
-sti,6,"anger (intransitive), be angry",v:in
+lumpe,6,why,inter
 kalin,6,sweet to the taste,adj
-tì’o’,6,"fun, excitement",n
-uniltìrantokx,6,avatar,n
+txokefyaw,6,"if not, or else, otherwise",conj
+lang,6,"investigate, explore",v:tr
 nìtengfya,6,"as, same way as (similar action)",adv
+nìlaw,6,clearly,adv
 kip,6,among,adp
 kìte’e,6,serve,nv:si
 ngenga,6,you (honorific form),pn
 tìwäte,6,"dispute, argument",n
 mrrtrr,6,five day work week,n
 yayayrnga’,6,confusing,adj
+le’awtu,6,"alone, on one’s own, by one’s self; lonely",adj
+le’aw,6,only,adj
 ’emyu,6,"cook, cooker",n
-lì’fyavi,6,"expression, bit of language",n
+nang,6,"surprise, exclamation, encouragement (mirative)",part
 nong,6,"follow, proceed after",v:tr
-mìkam,6,between,adp
+ke’u,6,nothing,pn
 tsaheylu,6,bond (neural connection),n
-mìfa,6,inside,n
+ontu,6,nose,n
+hewne,6,soft (of an object),adj
+lapo,6,other person or thing,pn
+pxi,6,sharp (as a point),adj
 yayo,6,bird,n
 txa’,6,hard,adj
 lal,6,old (opposite of mip),adj
-kxuke,6,safe,adj
-pup,6,short (physical length),adj
-pllngay,6,admit,v:in
-’aw,6,one,num
 ran,6,"intrinsic character or nature, essence, constitution",n
 yawntu,6,loved one,n
 kxum,6,"viscous, gelatinous, thick",adj
@@ -888,250 +934,241 @@ mawkrra,6,after (temporal),conj
 syon,6,"feature, trait, attribute, characteristic, point, aspect, facet, property",n
 mei,6,wet,adj
 zìsìkrr,6,season,n
-Tsyeyk,6,Jake,n:pr
-tìomum,6,knowledge,n
+zenke,6,must not,v:m
+leytslam,6,appreciate,v:tr
 kay,6,from now (in the future),adp
 lehawng,6,excessive,adj
+hangvur,6,"joke, funny story",n
+tsulfä,6,mastery,n
 narlor,6,beautiful visually,adj
-nìftue,6,easily,adv
 nim,6,"timid, shy",adj
+tsawn,6,gather growing food from the forest; pick; harvest (in agriculture),v:tr
 ’awlie,6,once (in the past),adv
-tìpe’un,6,decision,n
-txanso’hayu,6,"fan, enthusiast",n
+’ewan,6,young,adj
+sävll,6,"sign, indication, signal",n
+reypaytun,6,"red (""blood tun"")",adj
 zoplo,6,"offence, insult",n
-ye’krr,6,early,adv
 eyktanay,6,"deputy, general, one step down from leader",n
+wäsul,6,compete,v:in
 yawo,6,"take off, launch",v:in
-fpeio,6,challenge (ceremonial),n
 yll,6,communal,adj
-han,6,lose,v:tr
-txum,6,poison,n
 vospxìkin,6,July,n
-frrtu,6,"guest, visitor",n
 kllrikx,6,earthquake,n
-pxen,6,functional clothing (item of),n
+fìpo,6,this one person or thing,pn
+mäkxu,6,"interrupt, throw out of harmonious balance",v:tr
+tawtute,6,"Skyperson, human",n
 meyp,5,weak,adj
-’ampi,5,touch,v:tr
 slele,5,swim,v:in
 ftawnemkrr,5,past,n
-lumpe,5,why,inter
+zusawkrr,5,future,n
+stä’nì,5,catch,v:tr
 fpomtokxnga’,5,healthful (physically),adj
-sur,5,"taste, flavor",n
-txokefyaw,5,"if not, or else, otherwise",conj
-lang,5,"investigate, explore",v:tr
+nikre,5,hair,n
 txon’ong,5,"nightfall, sunset, dusk, gloaming",n
-io,5,"over,  above",adp
 yo,5,surface,n
 heyn,5,sit,v:in
 ohe,5,I (deferential or ceremonial form),pn
+tìmu’ni,5,"achievement, accomplishment",n
 tawng,5,"dive, duck (into or under water)",v:in
 weopx,5,wave (of water),n
-le’awtu,5,"alone, on one’s own, by one’s self; lonely",adj
-le’aw,5,only,adj
 hìmtxan,5,amount,n
-nang,5,"surprise, exclamation, encouragement (mirative)",part
+leha’,5,"appropriate, suitable, fitting",adj
 zun,5,if (counterfactual use),conj
 zel,5,then (counterfactual use),adv
-ke’u,5,nothing,pn
 velek,5,"give up, surrender, concede defeat",v:in
-säwäsultsyìp,5,contest,n
 kelpxìmrun,5,rare,adj
 tsaheyl,5,"bond with, establish a neural connection",nv:si
 fwampop,5,tapirus,n
 hayalo,5,next time,adv
 fil,5,"child’s toy, plaything",n
-pxi,5,sharp (as a point),adj
+tìketeng,5,difference,n
 yomtìng,5,feed (with dative object),v:in
+fkxen,5,vegetable (food),n
 srew,5,dance,v:in
-’itan,5,son,n
-sänumvi,5,lesson,n
 äzan,5,"force, compel",nv:si
 nokx,5,give birth to,v:tr
 peseng,5,where,inter
 toruk,5,"toruk, great leonopteryx",n
 pelì’u,5,"what (word, utterance)",inter
-kllkxem,5,stand,v:in
+fkxaranga’,5,stressful,adj
 nìtrrtrr,5,"on a daily basis, regularly",adv
 ketsran,5,"no matter, no matter what, whatever",adj
+syeprel,5,camera,n
+fngo’,5,"require, demand",v:tr
 vospxìmrr,5,May,n
-zenke,5,must not,v:m
+Eytukan,5,male leader of the Omatikaya,n:pr
 ’awlo,5,once,adv
 kì’ong,5,slow,adj
-hangvur,5,"joke, funny story",n
+nutx,5,thick,adj
 aungia,5,"sign, omen",n
 ’on,5,"shape, form",n
 ketsuktiam,5,"uncountable, infinite",adj
 tswal,5,power,n
 tìmok,5,abstract idea of a suggestion,n
-tsawn,5,gather growing food from the forest; pick; harvest (in agriculture),v:tr
+fyeyntu,5,adult person,n
+susyang,5,"fragile, delicate",adj
 ukxo,5,dry,adj
+säsulìn,5,"hobby, pleasureyielding activity",n
 mek,5,"empty, or metaphorically: having no value",adj
-’ewan,5,young,adj
 ’awpo,5,one individual,pn
-reypaytun,5,"red (""blood tun"")",adj
+sok,5,recent,adj
 ngip,5,"space, open or borderless area",n
 tìsteftxaw,5,examination,n
 mìn,5,"turn, rotate on an axis",v:in
-wäsul,5,compete,v:in
-sänrr,5,"glow, an instance of glowing; light source, lamp",n
+tsìpxì,5,one-fourth,n
 zìsìtsaltrr,5,(yearly) anniversary,n
+txew,5,"edge, brink, limit, border, end",n
 pxìmun’i,5,"divide, cut into parts",v:tr
 muntxate,5,"wife, female spouse",n
+alìm,5,"far away, at a distance",adv
 txur,5,strong (physically),adj
+nuä,5,beyond,adp:len
 tawsìp,5,skyship,n
-tìska’a,5,destruction,n
-säftxulì’u,5,"speech, oration",n
 Sweriye,5,Sweden,n:pr
 atanzaw,5,forked lightning,n
 tìnew,5,desire,n
-zongtseng,5,"safe place, refuge",n
-pe’ngayyu,5,judge,n
+kxetse,5,tail,n
+slär,5,cave,n
+keltrrtrr,5,unusual,adj
+emrey,5,survive,v:in
 wrrzärìp,5,"pull out, extract",v:tr
-käteng,4,"spend time with, hang out with",v:in
 sngap,4,sting,v:tr
-zìskrrwew,4,winter,n
-tem,4,shoot,v:in
-tsko,4,bow (weapon),n
-zusawkrr,4,future,n
-stä’nì,4,catch,v:tr
+nìli,4,in advance,adv
 sosul,4,"pleasant smell of nearby running water, rain, moist vegetation",adj
+renulke,4,"irregular, random",adj
 fnan,4,be good at,v:tr
 nìzawnong,4,safely,adv
 alaksi,4,ready,adj
-nikre,4,hair,n
+ftem,4,pass by (something),v:tr
 letrrtrr,4,ordinary,adj
 paynga’,4,"moist, humid, damp",adj
-nìlaw,4,clearly,adv
+lìng,4,"float in the air, hover",v:in
 yapay,4,"mist, fog, steam",n
 txanatan,4,"bright, vivid",adj
+txanwawe,4,"personally meaningful, significant",adj
 srankehe,4,"more or less, somewhat, yes and no, kind of",part
 rawm,4,lightning (general term),n
 tìngay,4,truth,n
 tìkemwiä,4,"unfairness, injustice",n
 tìloho,4,surprise,n
 loho,4,be surprising (experiencer in dative),v:in
-komum,4,"don’t know, no idea (slang)",phr
 ’ipu,4,"humorous, funny, amusing",adj
+fyalì’u,4,adverb,n
 nìrangal,4,"wish (contrary to fact, with perfective or imperfective subjunctive)",adv
 ha’,4,"fit, suit, complement, inherently enhance",v:in
 säwìngay,4,proof (particular instance),n
 tsawlhì’,4,size,n
-ontu,4,nose,n
-hewne,4,soft (of an object),adj
 srunga’,4,helpful,adj
-lapo,4,other person or thing,pn
 srä,4,cloth; a piece of cloth woven on a loom,n
-tìketeng,4,difference,n
 syeha,4,breathe,nv:si
+tupe,4,who,inter
 taronyu,4,hunter,n
+leyn,4,"repeat, do again",v:tr
 smaw,4,approve of,v:tr
 neto,4,away (direction),adv
 tìmuntxa,4,"mating, marriage",n
 seyn,4,"chair, stool, bench; any tool or device to facilitate sitting",n
+kewan,4,age,n
 flew,4,throat,n
 nìwok,4,loudly,adv
 kato,4,rhythm,n
+ronsrelngop,4,"imagine, envision (c.w. from ronsem mind, rel picture, ngop create, casual pronunciation [ˈɾon.sɾɛw.ŋ·op̚] )",v:tr
 tìsla’tsu,4,description,n
 tìkxìm,4,"commanding, ordering, assigning tasks",n
-yäkx,4,"not notice, ignore, snub",v:tr
+nìToitsye,4,German,adv
 kxutu,4,enemy,n
-syeprel,4,camera,n
 plltxeyu,4,speaker,n
-Eytukan,4,male leader of the Omatikaya,n:pr
-leytslam,4,appreciate,v:tr
+spä,4,jump,v:?
 nì’o’,4,"in a manner which is enjoyable, enjoyably",adv
 venu,4,foot,n
 txärem,4,bone,n
 letam,4,sufficient,adj
 ’okrol,4,history (ancient),n
-tsulfä,4,mastery,n
+snumìna,4,dim,adj
+srungtsyìp,4,"helpful hint, tip",n
 fpxamo,4,"terrible, horrible, awful",adj
 snanumultxa,4,course (as a collection of classes),n
 fpomron,4,health or wellbeing (mental),n
 kom,4,dare,v:m
 walak,4,"energetic, active",adj
-fyeyntu,4,adult person,n
+kemlì’uvi,4,infix,n
+lefpomtokx,4,healthy (physically) ,adj
+sulìn,4,"be busy (positive sense), be engrossed in something one finds especially pleasant and energizing",v:in
 muntrram,4,last weekend,n
+nafì’u,4,such,adj
 tsu’o,4,ability,n
-susyang,4,"fragile, delicate",adj
 tìtsunslu,4,possibility,n
-säsulìn,4,"hobby, pleasureyielding activity",n
-kulat,4,"reveal, bring forth, uncover (literally and metaphorically)",v:tr
 sämok,4,suggestion,n
 tìsyortsyìp,4,"break, small rest or relaxation",n
-sok,4,recent,adj
 tìme’em,4,harmony (general sense),n
-zìsìtay,4,next year,n
 txeptun,4,"orange (""fire tun"")",adj
 nip,4,"become stuck, get caught in something",v:in
+yora’tu,4,winner,n
 ’ite,4,daughter,n
 spule,4,propel,v:tr
 mrrpxì,4,one-fifth,n
-tsìpxì,4,one-fourth,n
+lomtu,4,missed person,n
 vospxìmun,4,February,n
+starsìm,4,"gather, collect",v:tr
 pamtseotu,4,musician,n
-alìm,4,"far away, at a distance",adv
-nuä,4,beyond,adp:len
 talioang,4,sturmbeest,n
+la’a,4,"physical separation, distance between two places or objects",n
 tìvirä,4,"spread, proliferation",n
 nìwan,4,"secretly, in hiding, by hiding",adv
 nìyol,4,"briefly, shortly (of time)",adv
+leyr,4,frozen,adj
 txanlal,4,"ancient, very old",adj
 pizayu,4,ancestor,n
 wìngay,4,prove,v:tr
-tìtxurnga’,4,powerful,adj
-fìpo,4,this one person or thing,pn
-slär,4,cave,n
-mäkxu,4,"interrupt, throw out of harmonious balance",v:tr
 muwìntxu,4,"introduce, present",v:tr
 tìpe’ngay,4,conclusion,n
-sngel,4,"garbage, trash, rubbish",n
 te,4,used in full names,part
-emrey,4,survive,v:in
+uniltìrantokxolo’,4,"clan, or group of avatars",n
+tìkezin,4,"untangle, solve",nv:si
+yemstokx,4,"put on (clothing), don",v:tr
+kian,4,blame,v:tr
 yeyfya,4,straight line,n
 nìmal,4,"trustingly, without hesitation",adv
 tsmisnrr,4,"bladder lantern, nectar lantern",n
+reltseotu,4,artist (visual) ,n
 huru,4,cooking pot,n
-nìli,3,in advance,adv
+pung,4,"hurt, injure",v:tr
+txantstew,4,hero,n
+tìmweypey,4,patience,n
+kxamlä,3,through (via the middle of),adp
 ’en,3,make an informed guess,nv:si
 rawmpxom,3,thunder and lightning,n
-renulke,3,"irregular, random",adj
+meyam,3,"hug, embrace, hold in one’s arms",v:tr
 kxor,3,a wall or bank of powerful waterfalls noted for its deafening roar and deadly force,n
 rofa,3,"beside, alongside",adp
-ftem,3,pass by (something),v:tr
 loreyu,3,"helicoradian, beautiful spiral",n
 ventil,3,ankle,n
 fwäkì,3,mantis,n
 zawr,3,animal call,n
-tìhawl,3,"preparations, plan",n
 ’rrpxom,3,thunder,n
 ’evengan,3,boy,n
 ramtsyìp,3,hill,n
-lìng,3,"float in the air, hover",v:in
 tì’i’avay,3,until the end,adv
 ’e’al,3,worst,adj
-tìmu’ni,3,"achievement, accomplishment",n
 ley,3,"be of value, have some positive value, be worth something",v:in
 stiwi,3,"be naughty, do mischief",nv:si
 pxasìk,3,"screw that!, no way! (vulgar)",intj
 rong,3,tunnel,n
 pxesrram,3,three days ago,n
-leha’,3,"appropriate, suitable, fitting",adj
 säwem,3,fight,n
 uniltsa,3,"dream of, dream about",v:tr
-fyalì’u,3,adverb,n
 ramunong,3,well,n
 ku’up,3,heavy (physical weight),adj
 fyep,3,"hold in the hand, grasp, grip",v:tr
 txonay,3,tomorrow night,adv
 taweyka,3,because,conj
 fäkä,3,"go up, ascend",v:in
-fkxen,3,vegetable (food),n
+tìkeftxo,3,sadness,n
 kxll,3,charge,nv:si
-tupe,3,who,inter
 palulukan,3,thanator,n
-leyn,3,"repeat, do again",v:tr
+nìyo’,3,"perfectly, flawlessly",adv
 swirä,3,creature,n
+ketuwong,3,alien,n
 tì’ongokx,3,birth,n
 Mo’at,3,tsahìk of the Omatikaya,n:pr
 ’evi,3,kid (affectionate form of),n
@@ -1140,25 +1177,25 @@ vospxìtsìng,3,April,n
 zevakx,3,cruel,adj
 krrpe,3,when,inter
 sätswayon,3,flight (an instance of flying),n
-kewan,3,age,n
 tìm,3,low,adj
 hangham,3,laugh,v:in
+yewn,3,"express, convey (a thought or feeling)",v:tr
 se’ayl,3,"an individual tall, thin waterfall that pours down a sheer high cliff, or off of a floating mountain (countable)",n
-ronsrelngop,3,"imagine, envision (c.w. from ronsem mind, rel picture, ngop create, casual pronunciation [ˈɾon.sɾɛw.ŋ·op̚] )",v:tr
-fkxaranga’,3,stressful,adj
-nìToitsye,3,German,adv
+mune,3,two,num
 fngapsutxwll,3,metalfollowing plant,n
 ’ìn,3,"be busy, be occupied",v:in
 fpivìl,3,"hmm, let’s see, let me think",intj
-fngo’,3,"require, demand",v:tr
 nrra,3,"pride, feeling of pride",n
-spä,3,jump,v:?
+nekll,3,down (direction),adv
 poan,3,he,pn
 nawmtu,3,great person,n
 hìno,3,"fine, detailed, precise, intricate (of things)",adj
 tsìlpey,3,hope (abstract concept),n
+lisre,3,"by, before, up to but not after",adp:len
+stxong,3,"strange, unfamiliar, unknown",adj
 ultxarun,3,"encounter, meet by chance",v:tr
 tìtsyul,3,"beginning, start",n
+kelkin,3,unnecessary,adj
 kxam,3,"middle, midpoint",n
 vospxì’aw,3,January,n
 tsakrrvay,3,"until then, in the meantime",adv
@@ -1167,25 +1204,28 @@ nìksran,3,in a mediocre manner,adv
 ko’on,3,"ring, oval, closed shape roughly circular",n
 yo’ko,3,circle,n
 tengfya,3,"as, same way as (situational similarity)",conj
-snumìna,3,dim,adj
 pamrelvi,3,letter (phonetic symbol),n
+lì’uvi,3,affix,n
 swaran,3,"humble, modest, self-effacing",adj
-srungtsyìp,3,"helpful hint, tip",n
+txìm,3,"butt, rear end, ass",n
 fwìng,3,humiliate,nv:si
 lätxayn,3,"defeat in battle, conquer",v:tr
 pìsaw,3,"clumsy, accidentprone",adj
 pela’ang,3,what the hell,intj
-kemlì’uvi,3,infix,n
 flrr,3,"gentle, mild, tender  (people or things)",adj
 lemweypey,3,patient,adj
 hawmpam,3,"noise. sound that is excessive, unnecessary, inappropriate, unexpected or startling",n
 akum,3,that (as a result),conj
+txinfpìl,3,main point,n
+mikyun,3,ear,n
 ’ok,3,remembrance,n
+srese’a,3,"prophetize, prophesize, prophesy, predict",v:tr
 txantxewvay,3,maximally,adv
+ye,3,"satisfied, content, satiated, full",adj
 fe’pey,3,"feel dread, expect something bad to happen, fear",v:in
 mrrve,3,fifth (ordinal),adj
 tìlam,3,appearance,n
-sävll,3,"sign, indication, signal",n
+tsyär,3,reject,v:tr
 fäpa,3,top,n
 lepay,3,watery,adj
 ’opinsung,3,"color, color in",v:tr
@@ -1194,48 +1234,57 @@ txepìva,3,"ash, cinder",n
 tsukx,3,stab,v:tr
 tsre’i,3,throw,v:tr
 pamrelsiyu,3,writer,n
-yora’tu,3,winner,n
 txayo,3,"field, open terrain, plain",n
 tsankum,3,"advantage, benefit, upside, gain",n
-lomtu,3,missed person,n
+tìsung,3,"addition, post script",n
 tsampongu,3,war party,n
-txew,3,"edge, brink, limit, border, end",n
+tìflä,3,success (in general),n
+salewfya,3,"direction, course",n
 sänume,3,"teaching, instruction",n
-la’a,3,"physical separation, distance between two places or objects",n
-leyr,3,frozen,adj
-kxetse,3,tail,n
+puve,3,sixth (ordinal),adj
 kavan,3,support (physically),v:tr
 sreton’ong,3,"dusk, evening before sunset",n
 sru’,3,"crush, trample",v:tr
 fyeng,3,steep,adj
 tìpähem,3,arrival,n
+speng,3,restore,v:tr
+txankeltrrtrr,3,extraordinary,adj
 yak,3,"diverge, change direction, go astray",nv:si
 tìyora’,3,"victory, a win",n
 txekxumpay,3,"magma, lava",n
 nì’eyng,3,"back, in response, in answer",adv
+wäte,3,"argue, dispute",v:tr
+wotx,3,"totality, whole",n
+vrrìn,3,be busy (negative sense): be tired out and overwhelmed by an activity that’s keeping one busy,v:in
 vingkap,3,"occur to one, pop into one’s mind",v:tr
 ’evenge,3,girl,n
+fyanyo,3,"table, elevated utilitarian surface",n
 letsim,3,"original, unique, not derived from another source",adj
 ngä’än,3,"suffer mentally or emotionally, be miserable",v:in
 lewng,3,shame,n
+lewnga’,3,shameful (for things and behavior),adj
 matu,3,"excuse me, hey",intj
+newomum,3,"be curious, want to know",v:in
 tsa,3,that,aff:pre
-tawtute,3,"Skyperson, human",n
+lelì’fya,3,"concerning language, regarding language",adj
+am,3,(past tense),aff:in
+Kerìsmìsì,3,Christmas,n:pr
+zam mì zam,3,"completely, one hundred percent",phr
 tewng,2,loincloth,n
 yol,2,short (of time),adj
-kxamlä,2,through (via the middle of),adp
 starlì’u,2,adposition,n
 txantompa,2,"rainstorm, heavy rain",n
 kinam,2,leg,n
-meyam,2,"hug, embrace, hold in one’s arms",v:tr
+snonivi,2,singleperson hammock,n
 vonvä’,2,"butthole, asshole, dickhead (vulgar)",n
 koaktan,2,old man,n
 sa’nu,2,"mum, mommy (affectionate form of)",n
 trr’awve,2,Sunday,n
 kewong,2,alien,adj
 sätare,2,"connection, relationship",n
-txanwawe,2,"personally meaningful, significant",adj
 asim,2,"nearby, at close range",adv
+tì’al,2,wastefulness,n
+tìftanglen,2,prevention,n
 ’änsyem,2,complete,adj
 trrtxon,2,the day and night cycle of Pandora,n
 mu’ni,2,"accomplish, achieve",v:tr
@@ -1244,34 +1293,28 @@ pxiswawam,2,just a moment ago,adv
 tìnawri,2,talent,n
 nìtsleng,2,falsely,adv
 ftumfa,2,"out of, from inside",adp
-tìkeftxo,2,sadness,n
-nìyo’,2,"perfectly, flawlessly",adv
+pxun,2,arm,n
 pxelo,2,"thrice, three times",adv
 vrrtep,2,demon,n
-ketuwong,2,alien,n
 lì’ukìngvi,2,phrase,n
 fwefwi,2,whistle,v:in
 snomo,2,private space that one can retreat to,n
 tìkenong,2,example,n
 lawr,2,melody,n
-yewn,2,"express, convey (a thought or feeling)",v:tr
 lepxìmrun,2,"common, often found",adj
 kali’weya,2,species of poisonous arachnid,n
 txal,2,back (of the body),n
 nìran,2,"basically, fundamentally, in essence",adv
 tìlor,2,beauty,n
-nekll,2,down (direction),adv
-stxong,2,"strange, unfamiliar, unknown",adj
-nutx,2,thick,adj
 la’um,2,pretend,v:in
-kelkin,2,unnecessary,adj
+am’aluke,2,without a doubt,adv
 ftär,2,left (not right),adj
 may’,2,"taste, try, sample, evaluate, check out, testdrive",v:tr
 nawfwe,2,fluent (for speech),adj
 tìyawn,2,love,n
 miklor,2,"pleasant sounding, beautiful sounding",adj
 nìhek,2,"strangely, oddly",adv
-txìm,2,"butt, rear end, ass",n
+mo’ara,2,gathering place,n
 pxir,2,beer,n
 nìTsyungwen,2,Zhongwen,adv
 swawtsyìp,2,"little moment, second",n
@@ -1280,11 +1323,9 @@ zìskrrtsawn,2,"autumn, fall",n
 fngä’,2,"relieve oneself; (on Earth) use the restroom, go to the bathroom",v:in
 iv,2,(subjunctive),aff:in
 sresrr’ong,2,before dawn,n
-lefpomtokx,2,healthy (physically) ,adj
-sulìn,2,"be busy (positive sense), be engrossed in something one finds especially pleasant and energizing",v:in
 nìyawr,2,"correctly, rightly",adv
-nafì’u,2,such,adj
 lenomum,2,curious,adj
+vä’,2,"unpleasant to the senses, noisome",adj
 pximaw,2,right after,adp
 wip,2,salty,adj
 sey,2,cup or bowl minimally modified from naturally occuring resources,n
@@ -1293,14 +1334,13 @@ nìlkeftang,2,"continuously, incessantly, without stopping",adv
 leye’krr,2,early,adj
 lesngä’i,2,"original, existing at or from the start, first in a series",adj
 lupra,2,style,n
-srese’a,2,"prophetize, prophesize, prophesy, predict",v:tr
 nìksman,2,wonderfully,adv
-ye,2,"satisfied, content, satiated, full",adj
 prrte’,2,pleasurable (of an activity),adj
 fyeyn,2,"ripe, mature, adult",adj
 kxamtseng,2,"center, place in the middle",n
 mong,2,"depend on, rely on, trust for protection",v:tr
 hìmpxì,2,"minority, least, small part",n
+snayì,2,"staircase, series of steplike levels",n
 tìleymkem,2,"protesting, protest (abstract concept)",n
 srefpìl,2,assume,v:tr
 txantsawl,2,"giant, huge",adj
@@ -1309,23 +1349,21 @@ kllvawm,2,brown,adj
 tìwew,2,"coldness, cold",n
 sngä’itseng,2,"beginning, starting position, initial location",n
 päsketpol,2,basketball,n
+tsengo,2,somewhere,pn
+hultstxem,2,hinder,v:tr
 trrmuve,2,Monday,n
 kawnomum,2,unknown,adj
 ve’o,2,"order (as opposed to disorder or chaos), organization",n
 fekumnga’,2,disadvantageous,adj
-tìsung,2,"addition, post script",n
-tìflä,2,success (in general),n
+aylaru,2,to the others,pn
 leioae,2,to respect,nv:si
 emkä,2,cross,v:tr
 fekum,2,"disadvantage, drawback, downside",n
-starsìm,2,"gather, collect",v:tr
 pa’o,2,side,n
-salewfya,2,"direction, course",n
 kinamtil,2,knee,n
 tìtxap,2,pressure (physical),n
 lekxan,2,"blocked, obstructed; frustrated",adj
 wep,2,"web (as in world wide web, www)",n
-puve,2,sixth (ordinal),adj
 säplltxevi,2,comment,n
 vospxìay,2,next month,n
 kllwo,2,"alight, land (process of)",v:in
@@ -1338,58 +1376,61 @@ tstew,2,brave,adj
 tìve’kì,2,hatred,n
 txukx,2,deep (physically),adj
 hìm,2,small (in quantity),adj
+snaytx,2,lose,v:tr
 pxim,2,"erect, upright",adj
 sraw,2,painful,adj
-keltrrtrr,2,unusual,adj
 wempongu,2,"squad, military clan, battle party",n
 kä’ärìp,2,push,v:tr
 hawng,2,overabundance,n
 syar,2,"stick, stick to, adhere",v:in
 yo’kofya,2,cycle,n
-speng,2,restore,v:tr
 vospxìvolaw,2,September,n
+wrrkä,2,"go out, go outside",v:in
 ’eve,2,girl (colloquial),n
 paytxew,2,"shoreline, water’s edge",n
-txankeltrrtrr,2,extraordinary,adj
 tskxaytsyìp,2,hail,n
 leym,2,"call, cry out, exclaim",v:in
-uniltìrantokxolo’,2,"clan, or group of avatars",n
 tìkelu,2,lack,n
-tìkezin,2,"untangle, solve",nv:si
 kxamtxomaw,2,after midnight,n
 säpenghrr,2,warning,n
+vospxìpuk,2,June,n
 fralo,2,"every time, every instance, each time",adv
 trr’ong,2,"dawn, sunrise",n
-yemstokx,2,"put on (clothing), don",v:tr
 tìmal,2,trustworthiness,n
-kian,2,blame,v:tr
-wäte,2,"argue, dispute",v:tr
 tìkeftxonga’,2,sad,adj
 nìwä,2,"on the contrary, conversely",adv
 trrtsìve,2,Wednesday,n
 nemrey,2,in a fashion as if one’s life were at stake,adv
 ’ele’wll,2,"thorny paw, cactus",n
 tìtsukanom,2,availability,n
-wotx,2,"totality, whole",n
+zekwä,2,finger,n
 ngam,2,echo,n
 sopyu,2,traveller,n
-vrrìn,2,be busy (negative sense): be tired out and overwhelmed by an activity that’s keeping one busy,v:in
+ingyentsyìp,2,"trick, sleight of hand, clever/special methodology",n
 sekrr,2,present,n
-reltseotu,2,artist (visual) ,n
 r,2,"(dative case, indirect object)",aff:suf
 tsyo,2,flour,n
+tìtxaw,2,punishment,n
 äzanluke,2,"voluntarily, without force or compulsion",adv
 swapxì,2,family member,n
 sweyn,2,"keep, preserve",v:tr
-newomum,2,"be curious, want to know",v:in
+wawe,2,"meaning, importance, significance",n
 keye’ung,2,insanity,n
 tsukyom,2,edible,adj
 säspxintsyìp,2,minor ailment,n
+mungwrrtxo,2,"unless, except if",conj
+tsopì,2,lung,n
+tìngop,2,abstract idea of a creation,n
+nopx,2,"put away, store",v:tr
+Metkayina,2,Reef People Clan,n:pr
+vospxìvosìng,2,December,n
+räptum,2,"coarse, vulgar, socially unacceptable",adj
+zam,2,sixty four,num
+krro krro,2,"sometimes, from time to time",phr
 hìmtxampe,1,how much,inter
 tsyìl,1,"climb, scale (pulling entire body up)",v:tr
 neyn,1,"light colors, shades of white",adj
 renu,1,pattern,n
-snonivi,1,singleperson hammock,n
 tìfkeytongay,1,reality,n
 tawtxew,1,"horizon, skyline",n
 toktor,1,doctor,n
@@ -1397,8 +1438,6 @@ snolup,1,"personal style or aesthetic, presence",n
 teyrpin,1,white,n
 fnepe,1,which kind,inter
 tsin,1,"nail, claw",n
-tì’al,1,wastefulness,n
-tìftanglen,1,prevention,n
 kelfpomron,1,unhealthy (mentally),adj
 kxangangang,1,boom (onomatopoeic),intj
 fratxon,1,every night,adv
@@ -1412,7 +1451,6 @@ kanfpìl,1,"concentrate, focus one’s attention",v:in
 pxiswaway,1,in just a second from now,adv
 tìvawm,1,darkness,n
 pxel,1,"like, as",adp
-pxun,1,arm,n
 tsrul,1,nest; protected area serving as the home of Pandoran fauna,n
 zìma’uyu,1,"newcomer, someone who has just arrived on the scene",n
 kakrel,1,blind,adj
@@ -1429,7 +1467,6 @@ pamtseongopyu,1,"music creator, composer",n
 ’otxang,1,musical instrument (generic term),n
 tìtstunwinga’,1,kind,adj
 teylupil,1,teylu-face (vulgar),n
-mune,1,two,num
 kxange,1,yawn,v:in
 ä,1,"(genitive case, possessive)",aff:suf
 ngampam,1,rhyme,nv:si
@@ -1440,10 +1477,8 @@ hafyon,1,wisdom,n
 ’ak,1,"ow, ouch",intj
 hawre’,1,hat,n
 säflä,1,success (an instance of succeeding),n
-lisre,1,"by, before, up to but not after",adp:len
 yìm,1,bind,v:tr
 kavuk,1,treachery,n
-am’aluke,1,without a doubt,adv
 tatlam,1,apparently,adv
 flì,1,thin,adj
 frir,1,layer,n
@@ -1455,7 +1490,6 @@ letxi,1,"hurried, frenzied",adj
 lafyon,1,wise,adj
 tìprrte’,1,pleasure,n
 riti,1,stingbat,n
-lì’uvi,1,affix,n
 tsyìräfì,1,giraffe,n
 kelha’,1,inappropriate,adj
 fpap,1,pound,v:tr
@@ -1464,7 +1498,6 @@ tìyewn,1,expression,n
 ’onglawn,1,exhiliration of first bonding,n
 lì’upam,1,"accent, pronunciation",n
 äie,1,vision (spiritual),n
-mo’ara,1,gathering place,n
 ’ana,1,hanging vine,n
 maweypeyyu,1,One who is patient,n
 lì’uvan,1,"pun, wordplay",n
@@ -1486,7 +1519,6 @@ Tawkami,1,Na’vi Clan name,n:pr
 meuianga’,1,"honorable, honorably",adj
 hufwetsyìp,1,"breeze, light wind",n
 väpam,1,"noise. ugly or unpleasant sound, screech",n
-vä’,1,"unpleasant to the senses, noisome",adj
 takip,1,from among,adp
 fmongyu,1,thief,n
 säkanom,1,"something acquired, an acquisition, a possession",n
@@ -1500,11 +1532,9 @@ lenrra,1,proud,adj
 ìy,1,(near future tense),aff:in
 mektseng,1,"gap, breach",n
 er,1,(imperfective aspect),aff:in
-txinfpìl,1,main point,n
 tìoeyktìng,1,explanation,n
 ketrìp,1,"unfortunate, inauspicious",adj
 nìtut,1,continually,adv
-mikyun,1,ear,n
 ’akra,1,soil (fertile),n
 kelemweypey,1,impatient,adj
 velke,1,"chaotic, messy, disorganized, in shambles",adj
@@ -1516,8 +1546,6 @@ hafyonga’,1,wise,adj
 zize’,1,hellfire wasp,n
 nìnu,1,"failingly, falteringly, in vain, fruitlessly, not achieving the desired or expected end",adv
 tìtslam,1,"understanding, intelligence",n
-snayì,1,"staircase, series of steplike levels",n
-tsyär,1,reject,v:tr
 pllhrr,1,warn,v:in
 tìlang,1,exploration,n
 pan,1,"third, one third",n
@@ -1526,11 +1554,8 @@ vultsyìp,1,stick,n
 tìhipx,1,control,n
 sutx,1,"track, follow",v:tr
 nìFranse,1,French,adv
-tsengo,1,somewhere,pn
-hultstxem,1,hinder,v:tr
 ioi,1,"adornment, or ceremonial apparel (item of)",n
 lefnele,1,female,adj
-aylaru,1,to the others,pn
 säfngo’,1,"requirement, demand",n
 akrrta,1,since (temporal),conj
 sälang,1,an exploration or investigation,n
@@ -1561,7 +1586,6 @@ za’ärìp,1,pull,v:tr
 zawng,1,scream,v:in
 nìpxay,1,"many, manily",adv
 stxenutìng,1,offer,v:tr
-snaytx,1,lose,v:tr
 nìzen,1,necessarily,adv
 nalutsa,1,large armored whalelike sea creature,n
 smaoe,1,"phalanxia, heavily thorned plant",n
@@ -1576,7 +1600,6 @@ kllpä,1,"land, reach the ground",v:in
 ta’em,1,from above,adv
 utu,1,forest canopy,n
 muntrray,1,next weekend,n
-wrrkä,1,"go out, go outside",v:in
 tì’iluke,1,"endless, neverending (in a temporal sense)",adj
 ler,1,"steady, smooth (for motion)",adj
 lan,1,resin,n
@@ -1590,7 +1613,6 @@ kllyem,1,bury,v:tr
 lemrey,1,surviving (e.g. of entities from a group some of whom have died),adj
 snatxärem,1,skeleton,n
 tìsmaw,1,approval,n
-vospxìpuk,1,June,n
 skiempa,1,right side,n
 fewi,1,chase,v:tr
 ’eoio,1,ceremonious,adj
@@ -1600,7 +1622,6 @@ tìn,1,activity that keeps one busy,n
 hiup,1,"spit, spit out",v:tr
 kenten,1,fan lizard,n
 tompìva,1,raindrop,n
-zekwä,1,finger,n
 nìyll,1,"communally, in a communal manner",adv
 klltseng,1,position,n
 nìftär,1,to the left,adv
@@ -1615,8 +1636,6 @@ ne’ìm,1,back (direction),adv
 mesrray,1,"the day after tomorrow, two days from now",n
 kelsar,1,"useless,  in vain",adj
 few,1,"across, aiming for the opposite side of",adp
-ingyentsyìp,1,"trick, sleight of hand, clever/special methodology",n
-fyanyo,1,"table, elevated utilitarian surface",n
 tsyeytsyìp,1,tiny bite,n
 nìhay,1,next,adv
 syulang,1,flower,n
@@ -1627,16 +1646,13 @@ säfmong,1,theft (particular instance),n
 kakan,1,rough,adj
 nìkakan,1,roughly,adv
 txaw,1,punish,v:tr
-tìtxaw,1,punishment,n
 ra’un,1,"surrender, relinquish, give up",v:tr
 tìra’un,1,"surrender, relinquishment",n
 ’älek,1,determined,adj
 tì’älek,1,determination,n
 nì’älek,1,"determinedly, with determination",adv
-pung,1,"hurt, injure",v:tr
 kemuia,1,dishonor,n
 lelewng,1,shameful (for people),adj
-lewnga’,1,shameful (for things and behavior),adj
 manawmtu,1,"excuse me sir, excuse me madam",intj
 manga,1,"hey, hey you",intj
 sum,1,shell (from the ocean),n
@@ -1645,7 +1661,6 @@ tìnvi,1,"task, errand, step (in an instruction)",n
 fì,1,this,aff:pre
 leftxozä,1,celebratory,adj
 sängop,1,creation,n
-wawe,1,"meaning, importance, significance",n
 kllkulat,1,dig up,v:tr
 stiwinga’,1,mischievous,adj
 tangek,1,trunk (of a tree),n
@@ -1662,7 +1677,6 @@ pxiye’rìn,1,immediately (not as soon as pxiswaway),adv
 tìtstewnga’,1,"courageous, brave",adj
 tìfmi,1,attempt,n
 tumpin,1,"red, orange",n
-lelì’fya,1,"concerning language, regarding language",adj
 pìmtxan,1,how much,inter
 paysena,1,water container,n
 vospxey,1,March,n
@@ -1675,5 +1689,31 @@ fyole,1,"sublime, beyond perfection",adj
 kot,1,coat,n
 hoan,1,comfort,n
 tuvom,1,"greatest of all, exceedingly great",adj
-mungwrrtxo,1,"unless, except if",conj
-tsopì,1,lung,n
+säplltxe,1,statement,n
+tìspxin,1,"the state of being ill, sickness",n
+ngoa,1,mud,n
+la’ang,1,pile of stinking animal matter,n
+sämunge,1,transportation tool or device,n
+koak,1,"old, aged (for living things)",adj
+pxisre,1,right before,adp:len
+kämakto,1,ride out,v:?
+yehakx,1,"satisfied from hunger, full",adj
+klltxay,1,lie on the ground,v:in
+parul,1,miracle,n
+nìnänän,1,"decreasingly, less and less",adv
+yokx,1,shield,n
+nìktungzup,1,"carefully, firmly",adv
+nìloho,1,surprisingly,adv
+srefereiey nìprrte’,1,looking forward to,phr
+tìfnunga’,1,quiet,adj
+lekxutslu,1,risky,adj
+frìp,1,bite,v:tr
+ftxì,1,tongue,n
+kawl,1,"hard, diligently",adv
+trrkive,1,Saturday,n
+reltseo,1,visual art,n
+rel arusikx,1,"movie, film, video",phr
+puktsyìp,1,"pamphlet, booklet",n
+uk,1,shadow,n
+tìflänga’,1,successful,adj
+pxek,1,"kick, shove",v:tr

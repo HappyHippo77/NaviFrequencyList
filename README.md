@@ -8,8 +8,8 @@ The list includes the word, its meaning, its part of speech, and the number of t
 If you need the list in another file format, send an issue with a request for it and I'll do what I can.  
 
 Info:  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Words listed: 1679  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Total words counted: 50192  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Words listed: 1719  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・Total words counted: 55403  
 
 Sources:  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・#💙nìna’vi-nì’aw (Kelutral Discord Server) [https://www.kelutral.org/]  
