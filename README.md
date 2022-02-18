@@ -1,8 +1,7 @@
 
 # Na'vi Language Frequency List
 
-#### This list is not a complete collection of all the words in the language.
-
+This list contains most of the words found in the Na'vi language.
 It was compiled automatically by scanning various sources and using an API to gather the required information.  
 The list includes the word, its meaning, its part of speech, and the number of times it was counted in all of the source material.  
 If you need the list in another file format, send an issue with a request for it and I'll do what I can.  
