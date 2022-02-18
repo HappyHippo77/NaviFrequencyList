@@ -1,0 +1,2584 @@
+oe	3231	I, me	pn
+lu	2400	to be	v:cp
+ke	1314	not	part
+a	1261	that (subclause marker)	part
+nga	1111	you	pn
+po	986	he, she	pn
+fwa	888	that (subclause marker)	ctr
+ulte	873	and (clausal conjunction)	conj
+alu	848	that is, in other words	conj
+tute	828	person	n
+hrh	795	LOL ("laughing out loud")	intj
+sì	732	and (noun conjunction)	part
+mì	729	in, on	adp:len
+slä	724	but	conj
+tsun	638	can, be able	v:m
+fko	606	one, they (unspecified agent)	pn
+tsa’u	580	that (thing)	pn
+ma	477	O (vocative marker)	part
+si	378	(auxiliary verb)	v:si
+new	337	want	v:tr
+taluna	336	because	conj
+zene	336	must	v:m
+sunu	332	be pleasing, be likeable, bring enjoyment	v:in
+nìtxan	325	much (abstract), very	adv
+nìteng	317	too, also, as well, likewise	adv
+pxay	304	many	adj
+fte	298	so that, in order to	conj
+srak	291	yes/no (question marker for yes-or-no questions)	part
+kelku	277	home, house	n
+fpìl	263	think	v:tr
+eyktan	255	leader	n
+set	244	now	adv
+kaltxì	242	hello	intj
+’efu	236	feel, sense, perceive	v:tr
+ne	236	to, towards (direction)	adp
+’u	234	thing (object, fact, abstraction)	n
+lì’u	234	word	n
+lahe	228	other, else	adj
+len	224	happen, occur	v:in
+plltxe	222	speak	v:tr
+ha	218	so, in that case	adv
+slu	213	become	v:cp
+krr	208	time	n
+trr	203	day	n
+fa	198	with, by means of	adp
+hu	195	with (accompaniment)	adp
+fìtrr	195	today	adv
+srane	195	yes	part
+frapo	194	everyone	pn
+nì’ul	193	more	adv
+kop	191	too, also, additionally	adv
+ta	191	from (locative), from (temporal sense with other time words)	adp
+fu	190	or	conj
+txo	186	if	conj
+zìsìt	186	year	n
+tsakrr	185	then, at that time, that time	adv
+tsakem	182	that (action)	n
+rel	181	image, picture	n
+uvan	179	play (a game)	nv:si
+nì’aw	178	only	adv
+teri	177	about, concerning	adp
+lefngap	177	metallic	adj
+txanlokxe	174	clan or tribal domain, country	n
+tok	172	be at, occupy a space	v:tr
+eltu	168	brain	n
+tìkangkem	168	work	nv:si
+mip	168	new	adj
+olo’eyktan	168	clan leader	n
+tam	167	suffice, be okay	v:in
+pamrel	164	write	nv:si
+peng	162	tell	v:tr
+hapxì	161	part	n
+krra	158	when, at the time that	conj
+fìtseng	157	here, this place	n
+omum	156	know	v:tr
+’a’aw	154	a few, several	adj
+pum	150	‘one’ (refers to another instance of a previously mentioned noun)	pn
+pongu	150	group of people, party	n
+yom	148	eat	v:tr
+hahaw	148	sleep	v:in
+lì’fya	146	language	n
+teynga	145	that answer (indirect question marker)	ctr
+kea	145	no (before a noun)	adj
+mi	142	yet, still, as before	adv
+pawm	140	ask	v:tr
+säomum	138	(piece of) information	n
+za’u	137	come	v:in
+ngop	137	create	v:tr
+sno	136	his self, her self, its self	pn
+nìmun	131	again	adv
+nìna’vi	131	like the Na’vi, Na’vily	adv
+tsnì	130	that (function word)	ctr
+pängkxo	127	chat, converse, have a conversation	v:in
+tseng	127	place	n
+syaw	127	call	v:in
+sar	126	use	v:tr
+ya	124	air	n
+kxì	124	hello (casual)	intj
+san	124	(start-of-quote particle)	part
+nì’it	123	a bit, a small amount (abstract)	adv
+koren	123	rule, guideline	n
+terkup	121	die	v:in
+irayo	120	thank you, thanks	n
+kä	119	go	v:in
+sìltsan	118	good (of its kind), well done	adj
+ftu	118	from (direction)	adp
+fmi	118	try, attempt	v:tr
+sran	117	yes (colloquial)	part
+li	117	already	adv
+na	114	like, as	adp
+kem	113	action, deed	n
+srake	111	yes/no (question marker for yes-or-no questions)	part
+krrka	108	during	adp
+ngian	107	however	adv
+tse’a	106	see (physical sense)	v:tr
+yuesey	105	U.S.A.	n:pr
+kxawm	101	perhaps, maybe	adv
+kanom	100	acquire, get	v:tr
+nìwotx	98	all (of), in toto, completely	adv
+nìhawng	98	too, excessively	adv
+lì’ukìng	97	sentence	n
+sngä’i	96	begin, start	v:m
+tslam	96	understand	v:tr
+kehe	95	no	part
+oeng	94	we, us (inclusive)	pn
+tìng	93	give	v:tr
+txan	91	much	adj
+kin	91	need	v:tr
+kifkey	91	world (physical, solid)	n
+tìlen	90	event, happening	n
+inan	89	read (e.g. the forest), gain knowledge from sensory input	v:tr
+zup	88	fall	v:in
+tìtxen	87	to wake, to waken, wake up	nv:si
+hum	85	leave, depart	v:in
+ftxey	85	choose	v:tr
+mllte	84	agree	v:in
+run	83	find, discover	v:tr
+lena’vi	83	having to do with the Na’vi, the People	adj
+fya’o	83	path, way, manner	n
+herwì	83	snow	n
+sìlpey	81	hope 	v:in
+makto	81	ride	v:tr
+tsatseng	81	there, that place	n
+tekre	81	skull	n
+atxkxe	81	land	n
+nume	81	learn	v:in
+apxa	81	large	adj
+fpom	80	wellbeing, peace, happiness	n
+pay	79	water, liquid	n
+tsenge	79	place	n
+ska’a	78	destroy	v:tr
+fpi	78	for the sake of, for the benefit of	adp:len
+talun	78	because of, due to	adp
+fmawnta	78	that news (reported observations marker)	ctr
+maw	77	after (time)	adp
+sìk	77	(end-of-quote particle)	part
+smon	76	be familiar, be known (with dative)	v:in
+txantsan	76	excellent	adj
+ko	75	‘let’s’ (particle to solicit agreement)	part
+’awve	75	first (ordinal)	adj
+pelun	74	why	inter
+tafral	74	therefore, because of that	adv
+frato	74	than all (superlative marker)	part
+tse	73	well (conversation starter)	intj
+tskxekeng	73	exercise, train	nv:si
+ngäzìk	72	difficult, hard	adj
+ìlä	72	by, via, following, according to	adp:len
+’eylan	71	friend	n
+kezemplltxe	71	of course, needless to say	adv
+yrrap	70	storm	n
+tìngäzìk	69	difficulty, problem	n
+nìngay	68	truly	adv
+pa’li	68	direhorse	n
+latem	68	change	v:in
+zum	68	object, thing (physical or tangible)	n
+nìn	67	look at	v:tr
+pe’un	67	decide	v:tr
+ngeyn	66	tired	adj
+frakrr	66	always, all the time	adv
+tìfkeytok	66	state, condition, situation	n
+trram	65	yesterday	adv
+puk	65	book	n
+lam	65	seem, appear	v:in
+fmawn	65	news, something to report	n
+tìfmetok	65	test	n
+lefpom	64	happy, peaceful, joyous, pleasant	adj
+olo’	64	clan	n
+sweylu	63	should	v:in
+syuve	63	food (collective noun, cannot be pluralised)	n
+yafkeyk	62	weather	n
+pxìm	61	often	adv
+hapxìtu	61	member	n
+pamtseo	60	music	n
+tengkrr	60	while, same time as	conj
+pefya	60	how	inter
+alo	60	time, turn, instance, one of a number of repeated or recurring actions	n
+keftxo	60	unhappy, upset	adj
+kefyak	59	isn’t it?, right?	part
+var	59	to persist in a state, to continue to perform an action	v:m
+to	59	‘than’ (comparative marker)	part
+tsray	59	village	n
+yune	58	listen to (intentionally)	v:tr
+’o’	58	bringing fun, exciting	adj
+fkeytok	58	exist	v:in
+ioang	58	animal, beast	n
+’em	58	cook	v:tr
+numeyu	58	student	n
+ftia	58	study	v:tr
+’rrta	57	Earth	n:pr
+tompa	57	rain	n
+tut	57	continuation marker	part
+nitram	57	happy (of people)	adj
+ftang	56	stop	v:m
+ftxozä	56	celebration, happy occasion	n
+karyu	55	teacher	n
+srung	55	help, assistance	n
+fayluta	55	these words (reported speech marker)	ctr
+kam	55	ago	adp
+’eko	54	attack	v:tr
+zo	54	be well, be intact, be as it should be, work correctly or as nature intended	v:in
+kintrr	54	week	n
+mawkrr	54	after, afterwards, later	adv
+tsamsiyu	54	warrior	n
+natkenong	53	for example, as an example	conj
+fìtsenge	53	here, this place	n
+lok	53	close to	adp
+leymkem	53	protest	v:in
+txele	52	matter (subject)	n
+ftxìlor	51	delicious, good tasting	adj
+txon	51	night	n
+yayayr	51	confusion	n
+kllte	51	ground	n
+txin	51	main, primary	adj
+hufwe	50	wind	n
+nìkeftxo	50	unfortunately, sadly	adv
+tstxo	50	name	n
+tì’efu	50	feeling	n
+kar	50	teach	v:tr
+tawtute	50	Skyperson, human	n
+säfpìl	49	idea	n
+tätxaw	49	return	v:in
+txantsawtsray	49	large city, metropolis	n
+sä’o	49	tool, utensil	n
+som	48	hot	adj
+soaia	48	family	n
+spxin	48	sick	adj
+txep	48	fire	n
+hufwa	48	although	conj
+tìftiatu	47	researcher	n
+vur	47	story	n
+sop	46	travel	v:in
+hì’i	46	small, little (in size)	adj
+rolun	46	Eureka! I’ve found it!	intj
+rutxe	45	please	intj
+stum	45	almost	adv
+trray	45	tomorrow	adv
+kosman	45	wonderful, terrific, fantastic	adj
+skxawng	45	moron, idiot	n
+steftxaw	45	examine, check	v:tr
+pehem	44	what (action)	inter
+pam	44	sound	n
+nìftxan	44	so, to such an extent	adv
+txampay	44	sea, ocean	n
+wew	44	cold	adj
+kawtu	44	no one	pn
+ikran	44	ikran, banshee	n
+kempe	44	what (action)	inter
+nìltsan	44	well	adv
+srer	44	appear, materialize, come into view	v:in
+kxìm	43	command, order, assign a task	v:tr
+’ì’awn	43	remain, stay	v:in
+’eveng	43	child	n
+na’vi	43	the People, indigenous Pandoran sentient race	n:pr
+tspang	43	kill	v:tr
+tìtxula	43	construction, constructed thing	n
+fkan	42	resemble in a sensory modality, come to the senses as	v:in
+oare	42	moon	n
+nivi	42	sleeping hammock (general term)	n
+rewon	42	morning	n
+muve	42	second (ordinal)	adj
+txolar	42	dollar	n
+ye’rìn	41	soon	adv
+kuma	41	that (as a result)	conj
+ham	41	previous	adj
+tìran	41	walk	v:in
+tsawa	41	that (subclause marker)	ctr
+tsawke	40	sun; Alpha Centauri A	n
+nìwin	40	fast,  quickly	adv
+sleyku	40	produce	v:tr
+rä’ä	40	do not (for negative imperatives, commands only)	part
+tsawl	40	big (in size), tall	adj
+zong	40	save, defend	v:tr
+tutan	39	man, male (person)	n
+säspxin	39	disease, sickness, illness	n
+ultxa	39	meeting	n
+tsunslu	39	may, be possible	v:in
+tung	39	allow	v:tr
+nga’	39	contain	v:tr
+zey	39	special, distinct	adj
+tson	39	obligation, duty, imposed requirement	n
+taw	38	sky	n
+lehrrap	38	dangerous	adj
+srefwa	38	before	conj
+tslolam	38	get it, I understand	intj
+wìntxu	38	show	v:tr
+fyape	38	how	inter
+hay	38	next	adj
+tsafya	38	that way, like that	adv
+’upxare	38	message	n
+sko	38	something as, in the capacity of, or in the role of, something else	adp:len
+kangay	38	valid	adj
+ngim	38	long (physical length)	adj
+vospxì	38	month	n
+stxeli	38	gift	n
+leykek	38	enforce	v:tr
+wutso	37	dinner, served meal	n
+tìralpeng	37	translation, interpretation	n
+tsonta	37	to (with kxìm)	conj
+tsranten	37	matter, be of importance	v:in
+numtseng	37	school	n
+tuteo	37	somebody, someone	pn
+nari	37	eye	n
+pey	37	wait, wait for	v:in
+hek	37	to be curious, odd, strange, unexpected	v:in
+kolan	36	I mean, rather (selfcorrecting)	intj
+hasey	36	done, finished	adj
+nìprrte’	36	pleasurably, gladly, with pleasure	adv
+pxiset	36	right now	adv
+tìpängkxo	36	conversation, discussion	n
+keng	36	even, so much as	adv
+eyawr	36	correct, right	adj
+layon	36	black	adj
+vay	36	up to	adp
+tìkan	36	aim, goal, purpose, target	n
+tsawtsray	36	small or medium-sized city	n
+fe’	35	bad	adj
+luke	35	without	adp
+tsyänel	35	TV channel	n
+pxor	35	explode	v:in
+mawfwa	34	after	conj
+oeyktìng	34	explain (why)	v:tr
+pxaw	34	around	adp
+nawm	34	great, noble	adj
+tswa’	34	forget	v:tr
+mokri	34	voice	n
+fpe’	34	send	v:tr
+kemlì’u	34	verb	n
+syura	34	energy (physical or spiritual)	n
+lonu	34	release, let go	v:tr
+postì	34	(forum/blog) post	n
+ralpeng	33	interpret, translate	v:tr
+tanhì	33	star, bioluminescent freckle	n
+peu	33	what (thing)	inter
+salew	33	proceed, go	v:?
+nìyey	33	directly, straight to the point	adv
+ätxäle	33	request	n
+frrfen	32	visit	v:tr
+uniltìrantokx	32	avatar	n
+sa’nok	32	mother	n
+stawm	32	hear	v:tr
+tskxe	32	rock, stone	n
+ngong	31	lethargic, lacking sufficient energy, lazy	adj
+lawk	31	discourse on, talk about, say something concerning	v:tr
+wä	31	against (as in: fight against)	adp:len
+zeyko	31	heal, fix	v:tr
+tìpawm	31	question	n
+letokx	30	bodily, physical	adj
+kawkrr	30	never	adv
+nulkrr	30	longer (time)	adv
+lun	30	reason	n
+lor	30	beautiful, pleasant to the senses	adj
+nì’awve	30	first	adv
+nantangtsyìp	30	dog (earth animal); lit. little nantang	n
+tokx	30	body	n
+’umtsa	30	medicine	n
+rey	30	live	v:in
+ral	30	meaning	n
+tsawlultxa	30	large gathering, conference	n
+eyk	30	lead	v:tr
+tul	29	run	v:in
+nìfkrr	29	lately, currently	adv
+hìtxoa	29	excuse me	intj
+’ewll	29	plant	n
+hayalovay	29	until next time	intj
+tel	29	receive	v:tr
+ean	29	blue, green	adj
+swey	29	best	adj
+palulukantsyìp	29	cat (earth animal); lit. little palulukan	n
+nìsung	29	besides, additionally, furthermore	adv
+ngopyu	29	creator	n
+txasunu	28	love greatly, enjoy tremendously	v:in
+txankrr	28	for a long time	adv
+näk	28	drink	v:tr
+’ä’	28	oops!	intj
+ro	28	at (locative)	adp:len
+rikx	28	move, shift position	v:in
+kilvan	28	river	n
+utral	28	tree	n
+na’rìng	28	forest	n
+ram	28	mountain	n
+law	28	clear, certain	adj
+kum	28	result	n
+lrrtok	27	smile	nv:si
+hona	27	endearing, adorable, cute	adj
+txen	27	awake	adj
+yoa	27	in exchange for	adp
+ìì	27	um, er	intj
+txasom	27	very hot	adj
+meuia	27	honor	n
+nìpxi	27	especially, pointedly, unambiguously	adv
+tìsraw	27	hurt, be painful	nv:si
+ftue	27	easy, simple	adj
+txintìn	27	occupation, primary role in society	n
+hìkrr	27	second, very short time	n
+sìn	26	on, onto	adp
+fnu	26	quiet, be quiet	v:in
+’i’a	26	end, conclude	v:in
+spaw	26	believe	v:tr
+sngum	26	worry	n
+tìyawr	26	correctness	n
+pähem	26	arrive	v:in
+yem	26	put, place	v:tr
+tsim	26	source	n
+txintseng	26	base of operations	n
+weptseng	25	website	n
+atan	25	light	n
+txopu	25	fear	n
+tìlatem	25	change (abstract concept)	n
+skxakep	25	probable	adj
+’ìp	25	disappear, vanish, recede from view	v:in
+nìsìlpey	25	hopefully	adv
+hawnu	25	protect, shelter	v:tr
+rou	25	be, or get drunk	v:in
+nìfya’o	25	in a manner	adv
+tìkxuke	25	safety	n
+nìfkeytongay	24	actually, as a matter of fact	adv
+ka	24	across, covering thoroughly	adp
+unil	24	dream	n
+loi	24	egg	n
+sla’tsu	24	describe	v:tr
+wrrpa	24	outside	n
+letsranten	24	important	adj
+tìkangkemvi	24	project, piece of work	n
+tswayon	24	fly	v:in
+srekrr	24	before, already, ahead of time	adv
+tsam	24	war	n
+fìkem	24	this (action)	pn
+spe’e	24	capture	v:tr
+tìkin	23	need	n
+tsmuk	23	sibling	n
+vewng	23	look after, take care of, be responsible for	v:tr
+uran	23	boat	n
+sempul	23	father	n
+tsleng	23	false	adj
+frawzo	23	all is well, everything is fine or OK	intj
+sung	23	add	v:tr
+rìk	23	leaf	n
+tìrey	23	life	n
+tì’i’a	23	ending, conclusion	n
+nì’i’a	23	finally, at long last	adv
+txula	23	build, construct	v:tr
+lefkrr	23	current	adj
+vaykrr	22	until	conj
+hì’ang	22	insect	n
+fwew	22	look for, seek, search	v:tr
+ki	22	but rather, but instead	conj
+släkop	22	but also	adv
+alunta	22	because, from the reason	conj
+wem	22	fight	v:in
+nemfa	22	into, inside	adp
+zerok	22	remember	v:tr
+hawl	22	prepare	v:tr
+kxeyey	22	error, mistake	n
+kan	22	aim, to direct a weapon or other object at a target	v:tr
+lekoren	22	lawlike	adj
+tì’eyng	22	answer, response	n
+takuk	22	strike, beat, slap	v:tr
+holpxay	22	number	n
+ayu	21	things	n
+nekx	21	burn, consume	v:tr
+txampxì	21	majority, most, large part	n
+’it	21	bit, a small amount	n
+sang	21	warm	adj
+yewla	21	disappointment, emotional letdown, failed expectation	n
+rol	21	sing	v:?
+tstxolì’u	21	noun	n
+tseri	21	note, notice	v:tr
+txe’lan	21	heart	n
+ngay	21	true	adj
+nì’ul’ul	21	increasingly, more and more	adv
+txawew	21	very cold	adj
+steyki	21	anger, make someone angry	v:tr
+tstu	21	closed, shut, overcast (for cloudy skies)	adj
+slan	21	support (emotional, social or personal support)	v:tr
+txepram	21	volcano	n
+säwäsul	21	competition	n
+skxir	21	wound	nv:si
+syor	20	relax, chill out	v:in
+tup	20	instead of, rather than	conj
+vawm	20	dark	adj
+teya	20	fill (with dative of thing filled)	nv:si
+zoslu	20	heal, become well, get fixed	v:in
+wur	20	cool, chilly	adj
+neytiri	20	female Na’vi of the Omatikaya Clan	n:pr
+tun	20	red, orange	adj
+yawne	20	beloved	adj
+eo	20	before, in front of (place)	adp
+yì	20	shelf, ledge, level, step, rung 	n
+nìtam	20	enough	adv
+tare	20	connect, relate to, have a relationship with	v:tr
+zeykoyu	20	healer	n
+kllpxìltu	20	territory	n
+okup	20	milk	n
+key	20	face	n
+rawn	20	replace, substitute	v:tr
+vefya	20	system, process, procedure, approach	n
+toltem	20	shoot	v:tr
+pxawngip	20	environment	n
+hìmtxewvay	20	minimally	adv
+sre	19	before (time)	adp:len
+sa	19	rise to a challenge	v:in
+ewro	19	euro	n
+keteng	19	different	adj
+ken’aw	19	not only	adv
+txonam	19	last night	adv
+tsngawvìk	19	cry, weep	v:in
+flä	19	succeed	v:in
+wätu	19	opponent	n
+kxumpay	19	viscous liquid, gel	n
+sä’eoio	19	ceremony, ritual, rite	n
+spono	19	island	n
+ta’leng	18	skin	n
+kxanì	18	forbidden	adj
+tsyosyu	18	food made from flour	n
+’eyng	18	answer, respond	v:in
+nìmwey	18	calmly, peacefully	adv
+ngaytxoa	18	sorry, my apologies (acknowledgment of guilt and regret)	intj
+’ärìp	18	move	v:tr
+leymfe’	18	complain	v:in
+spulmokri	18	phone, telephone	n
+hifwo	18	flee, escape	v:in
+vin	18	request, ask for	v:tr
+kawng	18	bad, evil	adj
+wan	18	hide	v:tr
+tsaktap	18	violence	n
+rim	18	yellow	adj
+uo	18	behind	adp
+hol	18	few	adj
+lì’upuk	18	dictionary	n
+tìsop	18	journey	n
+syep	18	trap	v:tr
+tìreyn	18	train	n
+kenong	18	model, represent, exemplify	v:in
+’awsiteng	17	together	adv
+wou	17	be amazing, fascinating (slang)	v:in
+muntrr	17	weekend	n
+fìfya	17	this way, like this	adv
+sim	17	be near	v:in
+tolel	17	Eureka! I found it! I understand!	intj
+tsan’ul	17	improve, get better	v:in
+hrrap	17	danger	n
+vey	17	meat, any food of animal origin (including fowl, fish, insects, eggs, milk)	n
+tìftia	17	study	n
+fmokx	17	jealousy, envy	n
+’aku	17	remove, take away, take off	v:tr
+kintrram	17	last week	n
+lek	17	heed, obey	v:tr
+syayvi	17	luck, chance	n
+tìftxey	17	choice	n
+europa	17	Europe	n:pr
+spuwin	17	old, former	adj
+muntxatan	17	husband, male spouse	n
+payoang	17	fish	n
+wiya	16	expression of warning or frustration, ’damn!’	intj
+zawprrte’	16	be enjoyable	v:in
+sa’sem	16	parent or set of parents	n
+kekem	16	no action or activity	n
+pesu	16	who	inter
+tewti	16	wow, expression of surprise and pleasure	intj
+nìsok	16	recently	adv
+fra’u	16	everything	pn
+fratrr	16	daily, every day	adv
+kerusey	16	dead	adj
+nìlam	16	apparently	adv
+stä’nìpam	16	recording	n
+am’a	16	doubt	n
+kxa	16	mouth	n
+eywa’eveng	16	Pandora	n:pr
+fmetok	16	test	v:tr
+srey	16	version	n
+pxeyve	16	third (ordinal)	adj
+yrr	16	wild, natural (something in its original, unmodified, untamperedwith natural state)	adj
+yur	16	wash	v:tr
+penghrr	16	warn	v:in
+etrìp	16	favorable, auspicious	adj
+lew	16	cover, lid	n
+ep’ang	16	complex	adj
+poe	16	she	pn
+lamaytxa	16	flood	n
+tuté	16	woman, female (person)	n
+rum	16	ball	n
+oeyk	16	cause	n
+swizaw	15	arrow	n
+’ur	15	sight, look, appearance	n
+wätx	15	be bad at	v:tr
+mo	15	space, hollow, enclosed open area	n
+fwel	15	broken	adj
+weyn	15	draw, illustrate	v:tr
+srefey	15	expect	v:tr
+voìk	15	behavior, how one conducts oneself	n
+ohakx	15	hungry	adj
+fngap	15	metal	n
+kaym	15	evening (before twilight), late afternoon	n
+kxakx	15	break, snap in two	v:in
+kxap	15	threaten	nv:si
+rusey	15	alive, living, living thing	n
+hipx	15	control	v:tr
+kllfro’	15	be responsible	v:in
+reyfya	15	way of living, culture	n
+srätx	14	annoy, bother	v:tr
+fuke	14	or not	conj
+le’ìnglìsì	14	English, of the English language	adj
+mawey	14	calm	adj
+laro	14	clean, make free of dirt	nv:si
+’opin	14	color	n
+piak	14	open, clear (for cloudless skies)	adj
+melo	14	twice	adv
+sngä’ikrr	14	beginning, starting time	n
+wo	14	reach for	v:tr
+nìnän	14	less	adv
+seykxel	14	strong (emotionally, spiritually, not physical), confident	adj
+kaw’it	14	not at all, not a bit (used with ke; see ke kaw’it not...at all in phrases)	adv
+lì’fyaolo’	14	language group, language users	n
+kämunge	14	take	v:tr
+pak	14	disparagement	part
+tìrol	14	song (vocal)	n
+lìm	14	be far	v:in
+kame	14	see, see into, understand, know (spiritual sense)	v:tr
+fteke	14	so that not, lest	conj
+tìftang	14	stop (someone or something) 	nv:si
+lom	14	missing, missed (as an absent person who is longed for)	adj
+tor	14	last, ultimate, terminal	adj
+pate	14	get to a place, arrive	v:?
+’uo	14	something	pn
+hawngkrr	14	late	adv
+syonlì’u	14	adjective	n
+mesrram	13	the day before yesterday, two days ago	n
+nìk’ong	13	slowly	adv
+fìtxan	13	so, to such an extent	adv
+mauti	13	fruit	n
+mawl	13	half	n
+fìtxon	13	tonight	n
+nìfrakrr	13	as always	adv
+nì’awtu	13	alone (as one person)	adv
+tìk’ìn	13	free time, the absence of business	n
+ve’kì	13	hate	v:tr
+am’ake	13	sure, confident	adj
+lie	13	experience	n
+saylahe	13	’et cetera’	adv
+fratseng	13	everywhere	adv
+vll	13	indicate, point at	v:tr
+nìlun	13	of course, logically, following common sense	adv
+tìkxey	13	mess up, foul, do wrong	nv:si
+tsap’alute	13	apologise (apologize)	nv:si
+virä	13	spread, proliferate	v:?
+skxom	13	chance, opportunity	n
+syen	13	last, final	adj
+fe’ul	13	worsen, get worse	v:in
+tsyeyk	13	Jake	n:pr
+toitslan	13	Germany	n:pr
+fwopx	13	dust (in the air)	n
+sna’o	13	set, group, pile, clump, stand	n
+’awstengyem	13	bind / bring two or more things together	v:tr
+säleymkem	13	protest, instance of protesting	n
+srungsiyu	13	assistant, helper	n
+frrtu	13	guest, visitor	n
+txi	13	hurry, hurriedness, frenzy	n
+’ul	12	increase	v:in
+nui	12	fail, falter, go astray, not obtain expected or desired result	v:in
+sto	12	refuse (to do something)	v:tr
+eywa	12	Eywa, world spirit, Gaia	n:pr
+steng	12	similar	adj
+kxamtxon	12	midnight	n
+kelutral	12	Hometree	n:pr
+äo	12	under, below	adp
+fìtsap	12	each other	adv
+fkxara	12	stress (mental or emotional feeling)	n
+lertu	12	colleague	n
+fwampop	12	tapirus	n
+netrìp	12	luckily, happily	adv
+maweypey	12	be patient	v:in
+teng	12	same, equal	adj
+kxu	12	harm	nv:si
+fnel	12	kind, type	n
+nìflä	12	successfully	adv
+mìftxele	12	in this regard, related to this matter	adv
+eytukan	12	male leader of the Omatikaya	n:pr
+emza’u	12	pass (a test), overcome	v:tr
+yora’	12	win	v:tr
+pìlok	12	blog	n
+fyin	12	simple	adj
+tompakel	12	drought	n
+tiam	12	count	v:tr
+pänutìng	12	promise (a thing to someone)	v:tr
+fekem	12	accident	n
+pxen	12	functional clothing (item of)	n
+txewm	11	scary, frightening	adj
+’ampi	11	touch	v:tr
+tskxepay	11	ice	n
+tsìk	11	suddenly, without warning	adv
+slantire	11	inspire	nv:si
+tì’o’	11	fun, excitement	n
+takrra	11	since (temporal)	conj
+tìsom	11	heat	n
+tsmukan	11	brother	n
+lesar	11	be useful, be of use, come in handy	nv:si
+tìtxur	11	strength, power	n
+tstunwi	11	kind, thoughtful, considerate	adj
+’ìnglìsì	11	English language	n
+hena	11	carry	v:tr
+zun	11	if (counterfactual use)	conj
+zel	11	then (counterfactual use)	adv
+yo’	11	be perfect, flawless	v:in
+tsmuke	11	sister	n
+o	11	some, (with words of time) during	aff:suf
+toitsye	11	German (language)	adj
+trrpuve	11	Friday	n
+teylu	11	beetle larva	n
+tsìve	11	fourth (ordinal)	adj
+pängkxoyu	11	chatter, converser	n
+txìng	11	leave, abandon	v:tr
+muntxa	11	mate (with someone), marry	nv:si
+nìsngä’i	11	originally, at first	adv
+so’ha	11	be enthusiastic about, show enthusiasm for, be excited about	v:tr
+tsulfätu	11	master of an art, craft, or skill, expert	n
+yäkx	11	not notice, ignore, snub	v:tr
+ketsran	11	no matter, no matter what, whatever	adj
+zìskrrsom	11	summer	n
+fwi	11	slip, slide	v:in
+tsalsungay	11	nevertheless, even so	adv
+narlor	11	beautiful visually	adj
+zamunge	11	bring	v:tr
+mll’an	11	accept	v:tr
+tsyul	11	begin, start	v:tr
+palon	11	burn	v:in
+’okvur	11	history (nonancient)	n
+säftxulì’u	11	speech, oration	n
+zongtseng	11	safe place, refuge	n
+rangal	10	wish	v:in
+zìskrrwew	10	winter	n
+pehrr	10	when	inter
+mungwrr	10	except	adp
+sti	10	anger (intransitive), be angry	v:in
+nìvingkap	10	by the way, incidentally	adv
+muntxatu	10	spouse	n
+tìhawl	10	preparations, plan	n
+tsurokx	10	rest	v:in
+keyawr	10	incorrect, wrong, not right	adj
+lefkeytongay	10	real	adj
+ekxan	10	exclude, keep out, bar	nv:si
+teyr	10	white	adj
+wok	10	loud	adj
+re’o	10	head	n
+mìkam	10	between	adp
+säwäsultsyìp	10	contest	n
+naer	10	drink, something able to be drunk	n
+nrr	10	glow, be luminous	v:in
+tuktirey	10	Jake and Neytiri’s daughter	n:pr
+lekye’ung	10	insane, crazy	adj
+win	10	fast	adj
+prrnen	10	infant, baby	n
+zìskrrmipaw	10	spring	n
+sästarsìm	10	collection (put together intentionally by a person)	n
+vun	10	provide	v:tr
+’upe	10	what (thing)	inter
+nulnew	10	prefer	v:tr
+muiä	10	proper, fair, right, justified	adj
+fpomtokx	10	health (physical)	n
+numultxa	10	class (for instruction)	n
+nìsyen	10	lastly	adv
+kintrray	10	next week	n
+säwìntxu	10	showing, exhibition	n
+tìpe’un	10	decision	n
+txanso’hayu	10	fan, enthusiast	n
+spe’etu	10	captive	n
+ye’krr	10	early	adv
+kxayl	10	high	adj
+tseotu	10	artist (generic term) 	n
+kxitx	10	death	n
+tìmwiä	10	fairness, justice	n
+kemwiä	10	improper, unfair, wrong, unjustified	adj
+horenleykekyu	10	law enforcer, police officer	n
+han	10	lose	v:tr
+tsu’tey	10	male of the Omatikaya Clan	n:pr
+tsewtx	9	dirty	adj
+atokirina’	9	seed of the great tree	n
+’ora	9	lake	n
+nikre	9	hair	n
+sur	9	taste, flavor	n
+swoa	9	intoxicating beverage, or "spirits"	n
+sngä’iyu	9	beginner	n
+mìso	9	away (position)	adv
+way	9	song (ancient, ceremonial)	n
+nìfe’	9	badly	adv
+txung	9	disturb, disrupt, bother, affect negatively	v:tr
+komum	9	don’t know, no idea (slang)	phr
+kxìmyu	9	commander, one with authority over another	n
+numtsengvi	9	classroom, division of a school	n
+tswesya	9	current	n
+mok	9	suggest	v:tr
+’ongokx	9	be born	v:in
+lini	9	young of an animal, bird, fish, insect	n
+kxuke	9	safe	adj
+pllngay	9	admit	v:in
+nìyrr	9	naturally, without tampering with or changing the nature	adv
+toruk	9	toruk, great leonopteryx	n
+ha’ngir	9	afternoon	n
+kllkxem	9	stand	v:in
+neni	9	sand	n
+zìsìkrr	9	season	n
+zenke	9	must not	v:m
+tìomum	9	knowledge	n
+venu	9	foot	n
+kanu	9	smart, intelligent	adj
+krrnekx	9	take/consume time	v:in
+tìkanu	9	intelligence	n
+me	9	(dual)	aff:pre
+fpìlfya	9	thought pattern, way of thinking	n
+wrrza’u	9	come out, emerge	v:in
+kulat	9	reveal, bring forth, uncover (literally and metaphorically)	v:tr
+tsìltsan	9	good (abstract concept), goodness	n
+vospxìvomun	9	October	n
+semkä	9	bridge	n
+zìsìtay	9	next year	n
+pìwopx	9	cloud	n
+wum	9	approximately, roughly	adv
+lekin	9	necessary	adj
+hän	9	net, web	n
+tìtxurnga’	9	powerful	adj
+txurtel	9	rope	n
+atxkxerel	9	map	n
+HRH	9	LOL ("laughing out loud")	intj
+tsko	8	bow (weapon)	n
+zusawkrr	8	future	n
+lumpe	8	why	inter
+seysonìltsan	8	well done! (derived from hasey soli nìltsan accomplished well)	intj
+kxamtrr	8	midday, noon	n
+tsyafe	8	mild, moderate, comfortable	adj
+txoa	8	forgiveness	n
+mun’i	8	cut	v:?
+txokefyaw	8	if not, or else, otherwise	conj
+tìhawnu	8	protect	nv:si
+le’awtu	8	alone, on one’s own, by one’s self; lonely	adj
+ftanglen	8	prevent	v:tr
+nang	8	surprise, exclamation, encouragement (mirative)	part
+mowar	8	advice, bit or piece of advice	n
+lì’fyavi	8	expression, bit of language	n
+nän	8	decrease	v:in
+yayo	8	bird	n
+lal	8	old (opposite of mip)	adj
+koaktu	8	old person	n
+’itan	8	son	n
+pup	8	short (physical length)	adj
+taron	8	hunt	v:tr
+munge	8	take, bring	v:tr
+hiyìk	8	funny, strange	adj
+spä	8	jump	v:?
+syewe	8	fat (substance in meat)	n
+swaw	8	moment	n
+fpxäkìm	8	enter	v:in
+’are	8	poncho, cape, shawl	n
+tsawng	8	shatter, break into pieces	v:in
+pewn	8	neck	n
+pxan	8	worthy	adj
+zäfi	8	modified, interfered with, no longer in a natural state	adj
+tsapo	8	that one (for people only)	pn
+somwew	8	temperature	n
+’ong	8	unfold, blossom	v:?
+paw	8	grow; germinate and develop (of a plant)	v:in
+zoplo	8	offence, insult	n
+eyktanay	8	deputy, general, one step down from leader	n
+ingyentsim	8	mystery, riddle, enigma, conundrum	n
+kunsìp	8	gunship	n
+fpeio	8	challenge (ceremonial)	n
+tìeyktan	8	leadership	n
+tìska’a	8	destruction	n
+sähena	8	container, vessel, carrier	n
+tsyeym	8	treasure; something rare and of great value	n
+krro krro	8	sometimes, from time to time	phr
+kxener	7	smoke	n
+vezeyko	7	put in order, organize	v:tr
+käteng	7	spend time with, hang out with	v:in
+meyp	7	weak	adj
+tstal	7	knife	n
+kip	7	among	adp
+io	7	over,  above	adp
+kìte’e	7	serve	nv:si
+yayayrnga’	7	confusing	adj
+ro’a	7	be impressive, inspire awe or respect	v:in
+weopx	7	wave (of water)	n
+le’aw	7	only	adj
+fmong	7	steal, rob	v:tr
+tsyoklìt	7	chocolate	n
+lehawngkrr	7	late	adj
+ronsem	7	mind	n
+nong	7	follow, proceed after	v:tr
+uolì’uvi	7	suffix	n
+nìno	7	in detail, expansively, thoroughly	adv
+tsyey	7	snack, light meal	n
+hayalo	7	next time	adv
+mìfa	7	inside	n
+sänumvi	7	lesson	n
+’aw	7	one	num
+ran	7	intrinsic character or nature, essence, constitution	n
+hamalo	7	last time	adv
+ronsrelngop	7	imagine, envision (c.w. from ronsem mind, rel picture, ngop create, casual pronunciation [ˈɾon.sɾɛw.ŋ·op̚] )	v:tr
+mawkrra	7	after (temporal)	conj
+tsongropx	7	hole, cavity, excavation with a bottom (visible or presumed)	n
+syon	7	feature, trait, attribute, characteristic, point, aspect, facet, property	n
+reypay	7	blood	n
+fngo’	7	require, demand	v:tr
+tìohakx	7	hunger	n
+ftxulì’u	7	orate, give speech	v:in
+lehawng	7	excessive	adj
+hangvur	7	joke, funny story	n
+nìftue	7	easily	adv
+vospxìam	7	last month	n
+tsawn	7	gather growing food from the forest; pick; harvest (in agriculture)	v:tr
+’awlie	7	once (in the past)	adv
+tsyokx	7	hand	n
+vospxìvol	7	August	n
+eykyu	7	leader (typically temporary, of a small group like a hunting party)	n
+ropx	7	hole (going clear through an object)	n
+tong	7	put out, quench	v:tr
+zet	7	treat (emotionally), display an attitude towards	v:tr
+wäsul	7	compete	v:in
+sänrr	7	glow, an instance of glowing; light source, lamp	n
+zìsìtsaltrr	7	(yearly) anniversary	n
+alìm	7	far away, at a distance	adv
+txum	7	poison	n
+txon’ongmaw	7	twilight, the time before dark, after sunset	n
+tsamsä’o	7	weapon of war	n
+fìpo	7	this one person or thing	pn
+tseo	7	art	n
+mäkxu	7	interrupt, throw out of harmonious balance	v:tr
+pe’ngayyu	7	judge	n
+sngel	7	garbage, trash, rubbish	n
+tìkezin	7	untangle, solve	nv:si
+kian	7	blame	v:tr
+slele	6	swim	v:in
+tem	6	shoot	v:in
+palang	6	contact (in a social sense), communicate with	v:tr
+kalin	6	sweet to the taste	adj
+fnan	6	be good at	v:tr
+kxor	6	a wall or bank of powerful waterfalls noted for its deafening roar and deadly force	n
+lang	6	investigate, explore	v:tr
+nìtengfya	6	as, same way as (similar action)	adv
+nìlaw	6	clearly	adv
+txon’ong	6	nightfall, sunset, dusk, gloaming	n
+yapay	6	mist, fog, steam	n
+ngenga	6	you (honorific form)	pn
+tìwäte	6	dispute, argument	n
+mrrtrr	6	five day work week	n
+’emyu	6	cook, cooker	n
+leha’	6	appropriate, suitable, fitting	adj
+ramunong	6	well	n
+ke’u	6	nothing	pn
+tsaheyl	6	bond with, establish a neural connection	nv:si
+tsaheylu	6	bond (neural connection)	n
+ontu	6	nose	n
+hewne	6	soft (of an object)	adj
+lapo	6	other person or thing	pn
+fil	6	child’s toy, plaything	n
+pxi	6	sharp (as a point)	adj
+fkxen	6	vegetable (food)	n
+txa’	6	hard	adj
+nokx	6	give birth to	v:tr
+yawntu	6	loved one	n
+kxum	6	viscous, gelatinous, thick	adj
+nìtrrtrr	6	on a daily basis, regularly	adv
+fpivìl	6	hmm, let’s see, let me think	intj
+mei	6	wet	adj
+leytslam	6	appreciate	v:tr
+kay	6	from now (in the future)	adp
+’okrol	6	history (ancient)	n
+tengfya	6	as, same way as (situational similarity)	conj
+tsulfä	6	mastery	n
+’on	6	shape, form	n
+tswal	6	power	n
+nim	6	timid, shy	adj
+tìtsunslu	6	possibility	n
+mikyun	6	ear	n
+’ewan	6	young	adj
+’awpo	6	one individual	pn
+sävll	6	sign, indication, signal	n
+reypaytun	6	red ("blood tun")	adj
+yawo	6	take off, launch	v:in
+yll	6	communal	adj
+vospxìmun	6	February	n
+tsampongu	6	war party	n
+txew	6	edge, brink, limit, border, end	n
+muntxate	6	wife, female spouse	n
+sweriye	6	Sweden	n:pr
+vospxìkin	6	July	n
+kllrikx	6	earthquake	n
+letsim	6	original, unique, not derived from another source	adj
+tìnvi	6	task, errand, step (in an instruction)	n
+ftawnemkrr	5	past	n
+stä’nì	5	catch	v:tr
+fpomtokxnga’	5	healthful (physically)	adj
+yo	5	surface	n
+heyn	5	sit	v:in
+ohe	5	I (deferential or ceremonial form)	pn
+tìmu’ni	5	achievement, accomplishment	n
+tawng	5	dive, duck (into or under water)	v:in
+rawm	5	lightning (general term)	n
+tìkemwiä	5	unfairness, injustice	n
+hìmtxan	5	amount	n
+loho	5	be surprising (experiencer in dative)	v:in
+’ipu	5	humorous, funny, amusing	adj
+velek	5	give up, surrender, concede defeat	v:in
+nìrangal	5	wish (contrary to fact, with perfective or imperfective subjunctive)	adv
+ha’	5	fit, suit, complement, inherently enhance	v:in
+kelpxìmrun	5	rare	adj
+tìketeng	5	difference	n
+syeha	5	breathe	nv:si
+yomtìng	5	feed (with dative object)	v:in
+srew	5	dance	v:in
+taronyu	5	hunter	n
+leyn	5	repeat, do again	v:tr
+äzan	5	force, compel	nv:si
+peseng	5	where	inter
+pelì’u	5	what (word, utterance)	inter
+hangham	5	laugh	v:in
+kato	5	rhythm	n
+fkxaranga’	5	stressful	adj
+nìtoitsye	5	German	adv
+syeprel	5	camera	n
+vospxìmrr	5	May	n
+’awlo	5	once	adv
+nì’o’	5	in a manner which is enjoyable, enjoyably	adv
+kì’ong	5	slow	adj
+nutx	5	thick	adj
+snumìna	5	dim	adj
+aungia	5	sign, omen	n
+ketsuktiam	5	uncountable, infinite	adj
+fpxamo	5	terrible, horrible, awful	adj
+walak	5	energetic, active	adj
+kemlì’uvi	5	infix	n
+tìmok	5	abstract idea of a suggestion	n
+lefpomtokx	5	healthy (physically) 	adj
+fyeyntu	5	adult person	n
+tsu’o	5	ability	n
+susyang	5	fragile, delicate	adj
+ukxo	5	dry	adj
+säsulìn	5	hobby, pleasureyielding activity	n
+mek	5	empty, or metaphorically: having no value	adj
+mrrve	5	fifth (ordinal)	adj
+sok	5	recent	adj
+ngip	5	space, open or borderless area	n
+tìsteftxaw	5	examination	n
+mìn	5	turn, rotate on an axis	v:in
+nip	5	become stuck, get caught in something	v:in
+tsre’i	5	throw	v:tr
+tsìpxì	5	one-fourth	n
+pxìmun’i	5	divide, cut into parts	v:tr
+txur	5	strong (physically)	adj
+nuä	5	beyond	adp:len
+tawsìp	5	skyship	n
+la’a	5	physical separation, distance between two places or objects	n
+atanzaw	5	forked lightning	n
+nìyol	5	briefly, shortly (of time)	adv
+tìnew	5	desire	n
+kxetse	5	tail	n
+slär	5	cave	n
+muwìntxu	5	introduce, present	v:tr
+keltrrtrr	5	unusual	adj
+speng	5	restore	v:tr
+wrrkä	5	go out, go outside	v:in
+te	5	used in full names	part
+emrey	5	survive	v:in
+wrrzärìp	5	pull out, extract	v:tr
+newomum	5	be curious, want to know	v:in
+zam mì zam	5	completely, one hundred percent	phr
+rel arusikx	5	movie, film, video	phr
+särengop	5	design (a particular instance of designing)	n
+sngap	4	sting	v:tr
+nìli	4	in advance	adv
+’en	4	make an informed guess	nv:si
+sosul	4	pleasant smell of nearby running water, rain, moist vegetation	adj
+renulke	4	irregular, random	adj
+meyam	4	hug, embrace, hold in one’s arms	v:tr
+nìzawnong	4	safely	adv
+alaksi	4	ready	adj
+ftem	4	pass by (something)	v:tr
+letrrtrr	4	ordinary	adj
+ventil	4	ankle	n
+fwäkì	4	mantis	n
+paynga’	4	moist, humid, damp	adj
+’evengan	4	boy	n
+ramtsyìp	4	hill	n
+lìng	4	float in the air, hover	v:in
+txanatan	4	bright, vivid	adj
+tì’i’avay	4	until the end	adv
+txanwawe	4	personally meaningful, significant	adj
+srankehe	4	more or less, somewhat, yes and no, kind of	part
+tìngay	4	truth	n
+tìloho	4	surprise	n
+säwem	4	fight	n
+uniltsa	4	dream of, dream about	v:tr
+fyalì’u	4	adverb	n
+pxiswawam	4	just a moment ago	adv
+säwìngay	4	proof (particular instance)	n
+tsawlhì’	4	size	n
+srunga’	4	helpful	adj
+srä	4	cloth; a piece of cloth woven on a loom	n
+ftumfa	4	out of, from inside	adp
+tupe	4	who	inter
+smaw	4	approve of	v:tr
+neto	4	away (direction)	adv
+’evi	4	kid (affectionate form of)	n
+vospxìtsìng	4	April	n
+tìmuntxa	4	mating, marriage	n
+krrpe	4	when	inter
+seyn	4	chair, stool, bench; any tool or device to facilitate sitting	n
+kewan	4	age	n
+tìm	4	low	adj
+flew	4	throat	n
+nìwok	4	loudly	adv
+tìsla’tsu	4	description	n
+tìkxìm	4	commanding, ordering, assigning tasks	n
+kali’weya	4	species of poisonous arachnid	n
+kxutu	4	enemy	n
+plltxeyu	4	speaker	n
+stxong	4	strange, unfamiliar, unknown	adj
+txärem	4	bone	n
+letam	4	sufficient	adj
+pamrelvi	4	letter (phonetic symbol)	n
+tìyawn	4	love	n
+srungtsyìp	4	helpful hint, tip	n
+snanumultxa	4	course (as a collection of classes)	n
+fpomron	4	health or wellbeing (mental)	n
+kom	4	dare	v:m
+sulìn	4	be busy (positive sense), be engrossed in something one finds especially pleasant and energizing	v:in
+muntrram	4	last weekend	n
+nafì’u	4	such	adj
+sämok	4	suggestion	n
+tìsyortsyìp	4	break, small rest or relaxation	n
+ye	4	satisfied, content, satiated, full	adj
+tsyär	4	reject	v:tr
+tìme’em	4	harmony (general sense)	n
+fäpa	4	top	n
+ngrrpongu	4	grassroots movement	n
+txeptun	4	orange ("fire tun")	adj
+txepìva	4	ash, cinder	n
+yora’tu	4	winner	n
+’ite	4	daughter	n
+spule	4	propel	v:tr
+mrrpxì	4	one-fifth	n
+tsankum	4	advantage, benefit, upside, gain	n
+lomtu	4	missed person	n
+tìsung	4	addition, post script	n
+starsìm	4	gather, collect	v:tr
+pamtseotu	4	musician	n
+talioang	4	sturmbeest	n
+puve	4	sixth (ordinal)	adj
+tìvirä	4	spread, proliferation	n
+nìwan	4	secretly, in hiding, by hiding	adv
+leyr	4	frozen	adj
+txanlal	4	ancient, very old	adj
+pizayu	4	ancestor	n
+wìngay	4	prove	v:tr
+tìpe’ngay	4	conclusion	n
+lawnol	4	great joy	n
+uniltìrantokxolo’	4	clan, or group of avatars	n
+vospxìpuk	4	June	n
+yemstokx	4	put on (clothing), don	v:tr
+tìkeftxonga’	4	sad	adj
+yeyfya	4	straight line	n
+nìmal	4	trustingly, without hesitation	adv
+trrtsìve	4	Wednesday	n
+tsmisnrr	4	bladder lantern, nectar lantern	n
+reltseotu	4	artist (visual) 	n
+’evenge	4	girl	n
+huru	4	cooking pot	n
+pung	4	hurt, injure	v:tr
+lelì’fya	4	concerning language, regarding language	adj
+txantstew	4	hero	n
+tìngop	4	abstract idea of a creation	n
+tìmweypey	4	patience	n
+yol	3	short (of time)	adj
+kxamlä	3	through (via the middle of)	adp
+tsyìl	3	climb, scale (pulling entire body up)	v:tr
+starlì’u	3	adposition	n
+rawmpxom	3	thunder and lightning	n
+rofa	3	beside, alongside	adp
+loreyu	3	helicoradian, beautiful spiral	n
+zawr	3	animal call	n
+’rrpxom	3	thunder	n
+trr’awve	3	Sunday	n
+sätare	3	connection, relationship	n
+’e’al	3	worst	adj
+asim	3	nearby, at close range	adv
+ley	3	be of value, have some positive value, be worth something	v:in
+stiwi	3	be naughty, do mischief	nv:si
+pxasìk	3	screw that!, no way! (vulgar)	intj
+rong	3	tunnel	n
+pxesrram	3	three days ago	n
+ku’up	3	heavy (physical weight)	adj
+fyep	3	hold in the hand, grasp, grip	v:tr
+txonay	3	tomorrow night	adv
+taweyka	3	because	conj
+fäkä	3	go up, ascend	v:in
+tìkeftxo	3	sadness	n
+kxll	3	charge	nv:si
+palulukan	3	thanator	n
+nìyo’	3	perfectly, flawlessly	adv
+swirä	3	creature	n
+ketuwong	3	alien	n
+tì’ongokx	3	birth	n
+mo’at	3	tsahìk of the Omatikaya	n:pr
+meoauniaea	3	harmony, living at one with nature	n
+zevakx	3	cruel	adj
+sätswayon	3	flight (an instance of flying)	n
+yewn	3	express, convey (a thought or feeling)	v:tr
+se’ayl	3	an individual tall, thin waterfall that pours down a sheer high cliff, or off of a floating mountain (countable)	n
+mune	3	two	num
+fngapsutxwll	3	metalfollowing plant	n
+’ìn	3	be busy, be occupied	v:in
+nrra	3	pride, feeling of pride	n
+nekll	3	down (direction)	adv
+poan	3	he	pn
+nawmtu	3	great person	n
+hìno	3	fine, detailed, precise, intricate (of things)	adj
+tsìlpey	3	hope (abstract concept)	n
+lisre	3	by, before, up to but not after	adp:len
+ultxarun	3	encounter, meet by chance	v:tr
+tìtsyul	3	beginning, start	n
+la’um	3	pretend	v:in
+kelkin	3	unnecessary	adj
+ftär	3	left (not right)	adj
+kxam	3	middle, midpoint	n
+vospxì’aw	3	January	n
+tsakrrvay	3	until then, in the meantime	adv
+tswalnga’	3	powerful	adj
+may’	3	taste, try, sample, evaluate, check out, testdrive	v:tr
+nìksran	3	in a mediocre manner	adv
+ko’on	3	ring, oval, closed shape roughly circular	n
+yo’ko	3	circle	n
+lì’uvi	3	affix	n
+swaran	3	humble, modest, self-effacing	adj
+txìm	3	butt, rear end, ass	n
+fwìng	3	humiliate	nv:si
+lätxayn	3	defeat in battle, conquer	v:tr
+pìsaw	3	clumsy, accidentprone	adj
+nìtsyungwen	3	Zhongwen	adv
+swawtsyìp	3	little moment, second	n
+pela’ang	3	what the hell	intj
+kelhoan	3	uncomfortable	adj
+stiwisiyu	3	mischiefmaker	n
+nìyawr	3	correctly, rightly	adv
+nantang	3	viperwolf Caniferratus costatus, striped armored wolf	n
+flrr	3	gentle, mild, tender  (people or things)	adj
+lemweypey	3	patient	adj
+hawmpam	3	noise. sound that is excessive, unnecessary, inappropriate, unexpected or startling	n
+akum	3	that (as a result)	conj
+txinfpìl	3	main point	n
+’ok	3	remembrance	n
+srese’a	3	prophetize, prophesize, prophesy, predict	v:tr
+txantxewvay	3	maximally	adv
+kxamtseng	3	center, place in the middle	n
+fe’pey	3	feel dread, expect something bad to happen, fear	v:in
+tìlam	3	appearance	n
+lepay	3	watery	adj
+’opinsung	3	color, color in	v:tr
+tìwew	3	coldness, cold	n
+tsukx	3	stab	v:tr
+pamrelsiyu	3	writer	n
+txayo	3	field, open terrain, plain	n
+ve’o	3	order (as opposed to disorder or chaos), organization	n
+tìflä	3	success (in general)	n
+leioae	3	to respect	nv:si
+säfngo’	3	requirement, demand	n
+emkä	3	cross	v:tr
+sre’	3	tooth	n
+salewfya	3	direction, course	n
+sänume	3	teaching, instruction	n
+kavan	3	support (physically)	v:tr
+sreton’ong	3	dusk, evening before sunset	n
+txukx	3	deep (physically)	adj
+sru’	3	crush, trample	v:tr
+hawng	3	overabundance	n
+fyeng	3	steep	adj
+tìpähem	3	arrival	n
+yo’kofya	3	cycle	n
+paytxew	3	shoreline, water’s edge	n
+txankeltrrtrr	3	extraordinary	adj
+yak	3	diverge, change direction, go astray	nv:si
+leym	3	call, cry out, exclaim	v:in
+tìyora’	3	victory, a win	n
+txekxumpay	3	magma, lava	n
+nì’eyng	3	back, in response, in answer	adv
+trr’ong	3	dawn, sunrise	n
+wäte	3	argue, dispute	v:tr
+wotx	3	totality, whole	n
+vrrìn	3	be busy (negative sense): be tired out and overwhelmed by an activity that’s keeping one busy	v:in
+vingkap	3	occur to one, pop into one’s mind	v:tr
+fyanyo	3	table, elevated utilitarian surface	n
+ngä’än	3	suffer mentally or emotionally, be miserable	v:in
+lewng	3	shame	n
+lewnga’	3	shameful (for things and behavior)	adj
+swapxì	3	family member	n
+matu	3	excuse me, hey	intj
+manga	3	hey, hey you	intj
+tsa	3	that	aff:pre
+mungwrrtxo	3	unless, except if	conj
+am	3	(past tense)	aff:in
+metkayina	3	Reef People Clan	n:pr
+kerìsmìsì	3	Christmas	n:pr
+räptum	3	coarse, vulgar, socially unacceptable	adj
+txopunil	3	nightmare	n
+tarep	3	save, rescue	v:tr
+tewng	2	loincloth	n
+txantompa	2	rainstorm, heavy rain	n
+renu	2	pattern	n
+kinam	2	leg	n
+snonivi	2	singleperson hammock	n
+vonvä’	2	butthole, asshole, dickhead (vulgar)	n
+koaktan	2	old man	n
+sa’nu	2	mum, mommy (affectionate form of)	n
+kewong	2	alien	adj
+tsin	2	nail, claw	n
+tì’al	2	wastefulness	n
+tìftanglen	2	prevention	n
+’änsyem	2	complete	adj
+trrtxon	2	the day and night cycle of Pandora	n
+mu’ni	2	accomplish, achieve	v:tr
+fahew	2	smell	n
+tìnawri	2	talent	n
+nìtsleng	2	falsely	adv
+tìvawm	2	darkness	n
+pxel	2	like, as	adp
+pxun	2	arm	n
+kakrel	2	blind	adj
+syaksyuk	2	prolemuris	n
+pxelo	2	thrice, three times	adv
+vrrtep	2	demon	n
+lì’ukìngvi	2	phrase	n
+fwefwi	2	whistle	v:in
+snomo	2	private space that one can retreat to	n
+tìyo’	2	perfection	n
+tìkenong	2	example	n
+lawr	2	melody	n
+lepxìmrun	2	common, often found	adj
+teylupil	2	teylu-face (vulgar)	n
+txal	2	back (of the body)	n
+nìran	2	basically, fundamentally, in essence	adv
+tìslan	2	support (emotional, social or personal support) 	n
+tìlor	2	beauty	n
+hawre’	2	hat	n
+am’aluke	2	without a doubt	adv
+riti	2	stingbat	n
+nawfwe	2	fluent (for speech)	adj
+miklor	2	pleasant sounding, beautiful sounding	adj
+lì’upam	2	accent, pronunciation	n
+nìhek	2	strangely, oddly	adv
+mo’ara	2	gathering place	n
+lì’uvan	2	pun, wordplay	n
+pxir	2	beer	n
+zìskrrtsawn	2	autumn, fall	n
+fngä’	2	relieve oneself; (on Earth) use the restroom, go to the bathroom	v:in
+iv	2	(subjunctive)	aff:in
+sresrr’ong	2	before dawn	n
+omatikaya	2	Blue Flute Clan	n:pr
+lenomum	2	curious	adj
+vä’	2	unpleasant to the senses, noisome	adj
+pximaw	2	right after	adp
+wip	2	salty	adj
+rì’ìr	2	reflection	n
+sey	2	cup or bowl minimally modified from naturally occuring resources	n
+tìpängkxotsyìp	2	little conversation	n
+nìlkeftang	2	continuously, incessantly, without stopping	adv
+leye’krr	2	early	adj
+lesngä’i	2	original, existing at or from the start, first in a series	adj
+lupra	2	style	n
+nìksman	2	wonderfully	adv
+prrte’	2	pleasurable (of an activity)	adj
+fyeyn	2	ripe, mature, adult	adj
+mong	2	depend on, rely on, trust for protection	v:tr
+hìmpxì	2	minority, least, small part	n
+snayì	2	staircase, series of steplike levels	n
+tìleymkem	2	protesting, protest (abstract concept)	n
+srefpìl	2	assume	v:tr
+txantsawl	2	giant, huge	adj
+nawang	2	merge, become one with	v:in
+kllvawm	2	brown	adj
+sngä’itseng	2	beginning, starting position, initial location	n
+päsketpol	2	basketball	n
+tsengo	2	somewhere	pn
+hultstxem	2	hinder	v:tr
+trrmuve	2	Monday	n
+ioi	2	adornment, or ceremonial apparel (item of)	n
+kawnomum	2	unknown	adj
+fekumnga’	2	disadvantageous	adj
+aylaru	2	to the others	pn
+fekum	2	disadvantage, drawback, downside	n
+pa’o	2	side	n
+kinamtil	2	knee	n
+tìtxap	2	pressure (physical)	n
+lekxan	2	blocked, obstructed; frustrated	adj
+wep	2	web (as in world wide web, www)	n
+säplltxevi	2	comment	n
+vospxìay	2	next month	n
+kllwo	2	alight, land (process of)	v:in
+’oratsyìp	2	pond, pool	n
+tungzup	2	drop	v:tr
+trrpxeyve	2	Tuesday	n
+kive	2	seventh (ordinal)	adj
+volve	2	eighth (ordinal)	adj
+tstew	2	brave	adj
+tìve’kì	2	hatred	n
+hìm	2	small (in quantity)	adj
+snaytx	2	lose	v:tr
+pxim	2	erect, upright	adj
+sraw	2	painful	adj
+wempongu	2	squad, military clan, battle party	n
+kä’ärìp	2	push	v:tr
+syar	2	stick, stick to, adhere	v:in
+vospxìvolaw	2	September	n
+’eve	2	girl (colloquial)	n
+lan	2	resin	n
+tskxaytsyìp	2	hail	n
+tìkelu	2	lack	n
+kxamtxomaw	2	after midnight	n
+säpenghrr	2	warning	n
+fralo	2	every time, every instance, each time	adv
+hiup	2	spit, spit out	v:tr
+kenten	2	fan lizard	n
+tìmal	2	trustworthiness	n
+nìwä	2	on the contrary, conversely	adv
+nemrey	2	in a fashion as if one’s life were at stake	adv
+’ele’wll	2	thorny paw, cactus	n
+tìtsukanom	2	availability	n
+zekwä	2	finger	n
+trr’ongmaw	2	dawn after sunrise	n
+ngam	2	echo	n
+sopyu	2	traveller	n
+mesrray	2	the day after tomorrow, two days from now	n
+ingyentsyìp	2	trick, sleight of hand, clever/special methodology	n
+sekrr	2	present	n
+r	2	(dative case, indirect object)	aff:suf
+tsyo	2	flour	n
+tìtxaw	2	punishment	n
+äzanluke	2	voluntarily, without force or compulsion	adv
+sweyn	2	keep, preserve	v:tr
+sum	2	shell (from the ocean)	n
+tsenga	2	where, place where	conj
+wawe	2	meaning, importance, significance	n
+snewsye	2	weird, spooky	adj
+tumpin	2	red, orange	n
+keye’ung	2	insanity	n
+fyole	2	sublime, beyond perfection	adj
+tsukyom	2	edible	adj
+säspxintsyìp	2	minor ailment	n
+tsopì	2	lung	n
+säplltxe	2	statement	n
+nopx	2	put away, store	v:tr
+vospxìvosìng	2	December	n
+koak	2	old, aged (for living things)	adj
+klltxay	2	lie on the ground	v:in
+zam	2	sixty four	num
+srefereiey nìprrte’	2	looking forward to	phr
+kawl	2	hard, diligently	adv
+lehoan	2	comfortable	adj
+tirea	2	spirit	n
+ekxtxu	2	rough	adj
+ronguway	2	howl	v:in
+säfrrfen	2	visit, an instance of visiting	n
+vopxì	2	one-eighth	n
+mowarsiyu	2	advisor	n
+nìNa’vi	2	like the Na’vi, Na’vily	adv
+Eytukan	2	Eytukan (male leader of the Omatikaya)	n:pr
+’Rrta	2	Earth	n:pr
+Na’vi	2	the People, indigenous Pandoran sentient race	n:pr
+hìmtxampe	1	how much	inter
+neyn	1	light colors, shades of white	adj
+tìfkeytongay	1	reality	n
+tawtxew	1	horizon, skyline	n
+toktor	1	doctor	n
+snolup	1	personal style or aesthetic, presence	n
+teyrpin	1	white	n
+fnepe	1	which kind	inter
+kelfpomron	1	unhealthy (mentally)	adj
+kxangangang	1	boom (onomatopoeic)	intj
+fratxon	1	every night	adv
+tì’em	1	the art of cooking	n
+tìngong	1	lethargy, laziness	n
+lefnelan	1	male	adj
+tinan	1	reading	n
+lewn	1	endure, stand, tolerate	v:tr
+pefnel	1	which kind	inter
+kanfpìl	1	concentrate, focus one’s attention	v:in
+pxiswaway	1	in just a second from now	adv
+tsrul	1	nest; protected area serving as the home of Pandoran fauna	n
+zìma’uyu	1	newcomer, someone who has just arrived on the scene	n
+uniltìranyu	1	avatar driver	n
+prrkxentrrkrr	1	day time smoking pleasure, vibrating tongue (slang for romantic activities)	n
+me’em	1	harmonious	adj
+sä’ipu	1	something humorous	n
+narvä’	1	ugly, unsightly	adj
+iknimaya	1	Stairway to Heaven, the rite of passage for young Na’vi	n:pr
+rìkean	1	leaf green	adj
+pamtseongopyu	1	music creator, composer	n
+’otxang	1	musical instrument (generic term)	n
+tìtstunwinga’	1	kind	adj
+kxange	1	yawn	v:in
+ä	1	(genitive case, possessive)	aff:suf
+ngampam	1	rhyme	nv:si
+tspìng	1	austrapede	n
+fta	1	knot	n
+hafyon	1	wisdom	n
+’ak	1	ow, ouch	intj
+säflä	1	success (an instance of succeeding)	n
+yìm	1	bind	v:tr
+kavuk	1	treachery	n
+tatlam	1	apparently	adv
+flì	1	thin	adj
+frir	1	layer	n
+txap	1	press, press on, apply (physical) pressure to	v:tr
+trrmrrve	1	Thursday	n
+kawkxan	1	free, unblocked, unobstructed, clear	adj
+tìftxulì’u	1	speechmaking, public speaking	n
+letxi	1	hurried, frenzied	adj
+lafyon	1	wise	adj
+tìprrte’	1	pleasure	n
+tsyìräfì	1	giraffe	n
+kelha’	1	inappropriate	adj
+fpap	1	pound	v:tr
+ralu	1	male Na’vi	n:pr
+tìyewn	1	expression	n
+’onglawn	1	exhiliration of first bonding	n
+äie	1	vision (spiritual)	n
+’ana	1	hanging vine	n
+maweypeyyu	1	One who is patient	n
+pxe	1	(trial)	aff:pre
+mam	1	wrap	v:tr
+kur	1	hang	v:in
+spxam	1	mushroom, fungus	n
+kawnglan	1	malicious, bad hearted	adj
+säsrätx	1	annoyance	n
+mowan	1	pleasing, enjoyable (physically, sexually)	adj
+letrr	1	daily	adj
+yawnetu	1	loved one	n
+l	1	(agentive case, subject of transitive verb)	aff:suf
+anurai	1	Na’vi Clan name	n:pr
+tawkami	1	Na’vi Clan name	n:pr
+meuianga’	1	honorable, honorably	adj
+hufwetsyìp	1	breeze, light wind	n
+väpam	1	noise. ugly or unpleasant sound, screech	n
+takip	1	from among	adp
+fmongyu	1	thief	n
+säkanom	1	something acquired, an acquisition, a possession	n
+tsang	1	piercing	n
+leyewla	1	disappointing	adj
+taksyokx	1	clap hands	v:in
+nì’en	1	making an informed guess, acting on intuition	adv
+telem	1	cord	n
+lenrra	1	proud	adj
+ìy	1	(near future tense)	aff:in
+mektseng	1	gap, breach	n
+er	1	(imperfective aspect)	aff:in
+tìoeyktìng	1	explanation	n
+ketrìp	1	unfortunate, inauspicious	adj
+nìtut	1	continually	adv
+’akra	1	soil (fertile)	n
+kelemweypey	1	impatient	adj
+velke	1	chaotic, messy, disorganized, in shambles	adj
+kllpa	1	bottom	n
+kan’ìn	1	focus on, specialize in, be particularly interested in	v:tr
+numultxatu	1	classmate, member of a class	n
+käsrìn	1	lend	v:tr
+hafyonga’	1	wise	adj
+zize’	1	hellfire wasp	n
+nìnu	1	failingly, falteringly, in vain, fruitlessly, not achieving the desired or expected end	adv
+tìtslam	1	understanding, intelligence	n
+pllhrr	1	warn	v:in
+tìlang	1	exploration	n
+pan	1	third, one third	n
+layompin	1	black	n
+vultsyìp	1	stick	n
+tìhipx	1	control	n
+sutx	1	track, follow	v:tr
+nìfranse	1	French	adv
+lefnele	1	female	adj
+akrrta	1	since (temporal)	conj
+sälang	1	an exploration or investigation	n
+kìng	1	thread	n
+’awnìm	1	avoid	v:tr
+slukx	1	horn of an animal	n
+tswìk	1	suck	v:tr
+fwep	1	dust (on a surface)	n
+ultxatu	1	meeting participant	n
+tsankumnga’	1	advantageous	adj
+nìftxavang	1	passionately, with all heart	adv
+tìwìngay	1	proof, proving (abstract)	n
+tireapängkxo	1	commune	v:?
+kxemyo	1	wall, vertical surface	n
+rawng	1	entrance, doorway	n
+tìfmong	1	theft	n
+kawngsar	1	exploit	v:tr
+pari	1	Paris	n:pr
+ngäng	1	stomach	n
+raw	1	down to	adp
+kew	1	zero	num
+tatep	1	lose track, lose awareness of something	v:tr
+tìhan	1	loss	n
+säwäte	1	point of contention, source of argument, thing disputed	n
+za’ärìp	1	pull	v:tr
+zawng	1	scream	v:in
+nìpxay	1	many, manily	adv
+stxenutìng	1	offer	v:tr
+nìzen	1	necessarily	adv
+nalutsa	1	large armored whalelike sea creature	n
+smaoe	1	phalanxia, heavily thorned plant	n
+utraltsyìp	1	bush	n
+le’al	1	wasteful	adj
+nìtkanluke	1	accidentally, unintentionally	adv
+snep	1	narrow	adj
+faoi	1	smooth	adj
+pe’ngay	1	judge, conclude	v:in
+kllpä	1	land, reach the ground	v:in
+ta’em	1	from above	adv
+utu	1	forest canopy	n
+muntrray	1	next weekend	n
+tì’iluke	1	endless, neverending (in a temporal sense)	adj
+ler	1	steady, smooth (for motion)	adj
+snokfyan	1	personal belongings rack	n
+tomperwì	1	sleet	n
+letskxe	1	stony, of stone	adj
+tsong	1	valley	n
+ue’	1	vomit, vomit up	v:tr
+äzantu	1	domineering person; one who is bossy, authoritarian, or dictatorial	n
+kllyem	1	bury	v:tr
+lemrey	1	surviving (e.g. of entities from a group some of whom have died)	adj
+snatxärem	1	skeleton	n
+tìsmaw	1	approval	n
+skiempa	1	right side	n
+fewi	1	chase	v:tr
+’eoio	1	ceremonious	adj
+fkxile	1	bib necklace	n
+rìkxi	1	tremble, shake, shiver	v:in
+tìn	1	activity that keeps one busy	n
+tompìva	1	raindrop	n
+nìyll	1	communally, in a communal manner	adv
+klltseng	1	position	n
+nìftär	1	to the left	adv
+nìskien	1	to the right	adv
+pamrelfya	1	spelling	n
+tìmungwrr	1	exception	n
+tsatu	1	that person	n
+txey	1	halt (mainly in military use)	v:in
+kesran	1	soso, mediocre	adj
+ne’ìm	1	back (direction)	adv
+kelsar	1	useless,  in vain	adj
+few	1	across, aiming for the opposite side of	adp
+tsyeytsyìp	1	tiny bite	n
+nìhay	1	next	adv
+syulang	1	flower	n
+yomyo	1	plate, (for food)	n
+fe’ranvi	1	blemish, deformity, stain, flawed feature	n
+lìngtskxe	1	unobtanium	n
+säfmong	1	theft (particular instance)	n
+kakan	1	rough	adj
+nìkakan	1	roughly	adv
+txaw	1	punish	v:tr
+ra’un	1	surrender, relinquish, give up	v:tr
+tìra’un	1	surrender, relinquishment	n
+’älek	1	determined	adj
+tì’älek	1	determination	n
+nì’älek	1	determinedly, with determination	adv
+kemuia	1	dishonor	n
+lelewng	1	shameful (for people)	adj
+manawmtu	1	excuse me sir, excuse me madam	intj
+fì	1	this	aff:pre
+leftxozä	1	celebratory	adj
+sängop	1	creation	n
+kllkulat	1	dig up	v:tr
+stiwinga’	1	mischievous	adj
+tangek	1	trunk (of a tree)	n
+ay	1	(future tense)	aff:in
+t	1	(patientive case, direct object of transitive verb)	aff:suf
+’ia	1	lose oneself (spiritual sense)	v:in
+’om	1	violet, purple, magenta	adj
+herwìva	1	snowflake	n
+ilu	1	large plesiosaurlike sea creature	n
+’ali’ä	1	collar / choker	n
+vospxìvopey	1	November	n
+pxiye’rìn	1	immediately (not as soon as pxiswaway)	adv
+tìtstewnga’	1	courageous, brave	adj
+tìfmi	1	attempt	n
+pìmtxan	1	how much	inter
+paysena	1	water container	n
+vospxey	1	March	n
+nì	1	...-ly (makes adverbs)	aff:pre
+an	1	(male gender suffix)	aff:suf
+nik	1	convenient, usable without much expenditure of effort	adj
+tsmìm	1	track, trace (of animal or person)	n
+atanvi	1	ray	n
+kot	1	coat	n
+hoan	1	comfort	n
+tuvom	1	greatest of all, exceedingly great	adj
+tìspxin	1	the state of being ill, sickness	n
+ngoa	1	mud	n
+la’ang	1	pile of stinking animal matter	n
+sämunge	1	transportation tool or device	n
+pxisre	1	right before	adp:len
+kämakto	1	ride out	v:?
+yehakx	1	satisfied from hunger, full	adj
+parul	1	miracle	n
+nìnänän	1	decreasingly, less and less	adv
+yokx	1	shield	n
+nìktungzup	1	carefully, firmly	adv
+nìloho	1	surprisingly	adv
+tìfnunga’	1	quiet	adj
+lekxutslu	1	risky	adj
+frìp	1	bite	v:tr
+ftxì	1	tongue	n
+trrkive	1	Saturday	n
+reltseo	1	visual art	n
+puktsyìp	1	pamphlet, booklet	n
+uk	1	shadow	n
+tìflänga’	1	successful	adj
+pxek	1	kick, shove	v:tr
+ìm	1	(near past tense)	aff:in
+tsamopin	1	warpaint	n
+tsngem	1	muscle	n
+tsukanom	1	available, obtainable	adj
+txantur	1	powerful	adj
+tsìng	1	four	num
+kxutslu	1	risk	n
+payfya	1	stream	n
+ngul	1	grey, drab	adj
+’ekong	1	beat (rhythmic)	n
+eampin	1	blue, green	n
+’ompin	1	violet, purple, magenta	n
+nongspe’	1	pursue with an intent to capture	v:tr
+e	1	(female gender suffix)	aff:suf
+yerik	1	yerik, hexapede	n
+ngawng	1	worm	n
+ftärpa	1	left side	n
+letsaktap	1	violent	adj
+fewtusok	1	opposite, on the opposite side	adj
+ka wotx	1	generally, for the most part	phr
+sevin	1	pretty	adj
+fäza’u	1	come up, ascend	v:in
+tìwäsul	1	competition	n
+pxul	1	formidable, imposing	adj
+natxu	1	disapprove of	v:tr
+vi	1	(particle used for something spawned from something bigger)	aff:suf
+kemuianga’	1	dishonorable	adj
+tìsay	1	loyalty	n
+nìtkan	1	purposefully, deliberately	adv
+aho	1	pray	v:in
+fkew	1	mighty	adj
+il	1	bend	v:in
+lopx	1	panic	v:in
+pxasul	1	fresh, appealing as food	adj
+rina’	1	seed	n
+slayk	1	brush, comb	v:tr
+yaymak	1	foolish, ignorant	adj
+yengwal	1	sorrow	n
+fäpyo	1	roof	n
+ftxìvä’	1	bad tasting	adj
+klltxeykay	1	lay (something) on the ground	v:tr
+utumauti	1	banana fruit	n
+pxayopin	1	colorful, multicolored, variegated	adj
+pxesrray	1	three days from now	adv
+sälatem	1	change (instance of), edit, modification	n
+sempu	1	daddy (affectionate form of)	n
+sìlronsem	1	clever, smart (thing)	adj
+skxirtsyìp	1	cut, bruise, minor wound	n
+eyweveng	1	Pandora	n:pr
+tìk	1	immediately, without delay	adv
+say	1	loyal	adj
+nìFranse	1	French	adv
+nìToitsye	1	German	adv
+Yuesey	1	U.S.A.	n:pr
+leNa’vi	1	having to do with the Na’vi, the People	adj
+Eywa’eveng	1	Pandora	n:pr
+’al	0	waste	v:tr
+’ango	0	soft (of a sound)	adj
+’angtsìk	0	hammerhead	n
+’anla	0	yearn for	v:tr
+’asap	0	sudden shock	n
+’awkx	0	cliff	n
+’awm	0	camp	n
+’e’in	0	pod, gourd	n
+’ekxin	0	tight	adj
+’engeng	0	level	adj
+’etnaw	0	shoulder	n
+’ewrang	0	loom	n
+’llngo	0	hip	n
+’rrko	0	roll	v:in
+’ä’o	0	pitcher plant	n
+’ìheyu	0	spiral	n
+akwey	0	male Na’vi	n:pr
+amhul	0	female Na’vi	n:pr
+aonung	0	male Na’vi of the Metkayina Clan	n:pr
+ateyitan	0	son of Ateyo	n:pr
+ateyo	0	male Na’vi	n:pr
+entu	0	male Na’vi	n:pr
+kamun	0	male Na’vi	n:pr
+kekunan	0	Na’vi Clan name	n:pr
+kelnì	0	Cologne	n:pr
+li’ona	0	Na’vi Clan name	n:pr
+lo’ak	0	Jake and Neytiri’s second born son	n:pr
+lo’akur	0	Toruk Makto Amulet	n:pr
+losäntsyelesì	0	Los Angeles	n:pr
+mo’at’ite	0	daughter of Mo’at	n:pr
+naranawm	0	Polyphemus	n:pr
+nawmtoruktek	0	Toruk Makto Totem	n:pr
+neteyam	0	Jake and Neytiri’s first born son	n:pr
+newey	0	female Na’vi	n:pr
+poston	0	Boston	n:pr
+rini	0	female Na’vi	n:pr
+ronal	0	Female Na’vi of the Metkayina Clan	n:pr
+rongloa	0	Na’vi Clan name	n:pr
+rotxo	0	male Na’vi of the Metkayina Clan	n:pr
+seze	0	Neytiri’s banshee	n:pr
+silwanin	0	Neytiri’s sister	n:pr
+sorewn	0	female Na’vi	n:pr
+swotulu	0	sacred river	n:pr
+tipani	0	Na’vi Clan name	n:pr
+tonowari	0	male Na’vi of the Metkayina Clan	n:pr
+tsawkenay	0	Alpha Centauri B	n
+tsenu	0	female Na’vi	n:pr
+tsireya	0	female of the Metkayina Clan	n:pr
+tskaha	0	Na’vi Clan name	n:pr
+tsumongwi	0	original name for the Omatikaya	n:pr
+tuke	0	female Na’vi	n:pr
+txewì	0	male Na’vi	n:pr
+txilte	0	female Na’vi	n:pr
+txärpawk	0	Palulukan Bone Horn	n:pr
+uniltaron	0	Dream Hunt	n:pr
+va’ru	0	male Na’vi	n:pr
+vitrautral	0	Tree of Souls	n:pr
+yeysu	0	Jesus	n:pr
+afpawng	0	grief	n
+atxar	0	smell of living animals, as found around a watering hole	adj
+au	0	exclamation of consternation	intj
+awaiei	0	banshee of paradise	n
+epxang	0	stone jar used to hold small toxic arachnid	n
+ewku	0	taste (not intentionally)	v:tr
+eyaye	0	warbonnet	n
+fkay	0	hateful	adj
+fkio	0	tetrapteron	n
+fkip	0	up among	adp
+fkxake	0	itch	v:in
+flawkx	0	leather	n
+flawm	0	cheek	n
+flefle	0	Sol’s delight, magnetotrophic plant	n
+fmal	0	sustain	v:tr
+fnawe’	0	cowardly	adj
+fpak	0	hold off, suspend action	v:in
+fpxafaw	0	medusa	n
+ftxavang	0	passionate	adj
+fwang	0	savory, umami, rich	adj
+fwem	0	dull, blunt (as a point)	adj
+fyan	0	constructed device for keeping something off the ground and clean	n
+fyel	0	seal, make impervious	v:tr
+fyuatx	0	anemonoid	n
+fyìp	0	tendril, tentacle	n
+hefi	0	smell (not intentionally)	v:tr
+heyr	0	chest	n
+hoet	0	vast, broad, expansive	adj
+hupx	0	miss, not hit a target	v:tr
+i’en	0	stringed instrument	n
+ikut	0	large pestle (grinding tool); mealmashing pole	n
+ingyen	0	feeling of mystery or incomprehension	n
+keyn	0	put down	v:tr
+kinä	0	seven	num
+koum	0	rounded, curved	adj
+kung	0	putrid, fetid, rotten	adj
+kurakx	0	drive out	v:tr
+kuru	0	neural queue	n
+kxaylte	0	cillaphant	n
+kxeltek	0	pick up, lift	v:tr
+kxem	0	be vertical	v:in
+kxukx	0	swallow	v:tr
+kxänäng	0	smell of decaying animal/flesh, rotting, putrid	adj
+kärìp	0	push	v:tr
+kìm	0	spin, to spin (something)	v:tr
+kìmar	0	in season (of foods, vegetable or animal)	adj
+lanay’ka	0	slinger	n
+liswa	0	nourishment	n
+litx	0	sharp (as a blade)	adj
+lo’a	0	totem, amulet	n
+lìktap	0	crooked	adj
+mal	0	trustworthy, trustinspiring	adj
+masat	0	breastplate (armor)	n
+mawup	0	turtapede	n
+mekre	0	supplies	n
+merki	0	ground rack (for smoking meats)	n
+mrr	0	five	num
+mulpxar	0	roosterhead plant	n
+nawri	0	talented	adj
+ngep	0	navel	n
+nget	0	smell of decaying wood and leaves, dank (nonanimal decay)	adj
+ngrr	0	root	n
+niä	0	grab	v:tr
+nìkx	0	gravel	n
+oìsss	0	angry snarl, ’watch it!’	intj
+pasuk	0	berry	n
+pawk	0	horn, wind instrument	n
+pil	0	facial stripe	n
+pom	0	kiss	v:tr
+pukap	0	six	num
+pxey	0	three	num
+pänu	0	promise	n
+raspu’	0	leggings (used in war)	n
+rawke	0	alarm cry, call to defense	intj
+rawp	0	bladder polyp	n
+rem	0	fuel	n
+reng	0	shallow (physically)	adj
+renten	0	goggles, (made from insect wings, carved from wood, etc)	n
+reym	0	dry land	n
+ripx	0	pierce	v:tr
+rurur	0	water that is aeriated while flowing among the rocks of a very gradually sloping stream (countable)	n
+rìn	0	wood	n
+saa	0	threatening cry	intj
+satu’li	0	heritage	n
+sau	0	exclamation upon exertion, urgh	intj
+sayrìp	0	handsome, good looking	adj
+seyri	0	lip	n
+seyto	0	butcher (in the sense of separating or processing the carcass of a dead animal)	v:tr
+skepek	0	formal	adj
+skien	0	right (not left)	adj
+skuka	0	sagittaria	n
+sloa	0	wide	adj
+sloan	0	pour	v:tr
+smar	0	prey, hunted thing	n
+snew	0	constrict, tighten	v:tr
+sngukx	0	grub plant	n
+snäm	0	rot, decay, degrade over time	v:in
+srakat	0	dinicthoid	n
+srok	0	bead (decorative)	n
+srìn	0	transfer from one to another (rarely used without prefix)	v:tr
+stxenu	0	offer	n
+swek	0	bar, rod, pole	n
+swok	0	sacred	adj
+swotu	0	sacred place	n
+syam	0	to smell (intentionally)	v:tr
+syanan	0	a single drop or series of smaller waterfalls occurring sequentially along a stream or series of pools (countable)	n
+syawn	0	blessing	n
+syay	0	fate	n
+syo	0	light (physical weight), lightweight	adj
+syä’ä	0	bitter	adj
+säro’a	0	do great deeds	n:si
+tete	0	dull (as a blade)	adj
+tsahey	0	expression of warning or frustration, ’crap!’, ’ah, hell!’	intj
+tseltsul	0	whitewater rapids	n
+tsiki	0	reef tick	n
+tskalep	0	crossbow	n
+tskawr	0	limp	v:in
+tsmi	0	nectar	n
+tsngal	0	cup	n
+tsngan	0	meat, obtained from terrestial animals	n
+tstunkem	0	do a favor	n:si
+tstxa’a	0	canalyd	n
+tsuksìm	0	chin	n
+tswin	0	queue, braid	n
+tsyal	0	wing	n
+tsìsyì	0	whisper	v:in
+tukru	0	spear	n
+txansngum	0	feel desperate	n:si
+txatx	0	bubble	n
+txay	0	be horizontal, lie flat	v:in
+txewk	0	club (weapon)	n
+txll’u	0	hookagourd	n
+täftxu	0	weave	v:tr
+tì’awm	0	camp	n:si
+um	0	loose	adj
+unyor	0	sweetly aromatic (a flowery or aromatic woody sort of smell; may also refer to some spices used in Na’vi cooking)	adj
+vawt	0	solid, not hollow	adj
+vitra	0	soul	n
+vol	0	eight	num
+vul	0	branch (of a tree)	n
+väng	0	thirsty	adj
+walew	0	get over, accept some fact, reconcile oneself, move on	v:in
+we’ay	0	sour	adj
+yaney	0	canoe	n
+yemfpay	0	dip into liquid	n:si
+yey	0	straight	adj
+yuey	0	beautiful (inner beauty)	adj
+yän	0	fasten, tie down	v:tr
+zare’	0	forehead, brow	n
+zeswa	0	grass	n
+zir	0	touch, feel, texture	n
+zung	0	crouch	v:in
+zärìp	0	pull	v:tr
+zìm	0	feel (not intentionally)	v:tr
+änsìt	0	male Na’vi	n:pr
+ìstaw	0	male Na’vi	n:pr
+ìley	0	war cry	intj
+ìlva	0	flake, drop, chip	n
+ìpxa	0	fern	n
+tunu	0	romantic	adj
+zin	0	tangled	adj
+tìzin	0	tangle, tangle up	n:si
+he’a	0	cough	v:in
+fwal	0	wipe	v:tr
+ngungung	0	rub	v:tr
+rungfwam	0	rungfwam, saber hog	n
+mungsye	0	inhale	v:in
+pìtìk	0	scratch (non-harmfully, as an itch)	v:tr
+tsupx	0	scratch (harmfully, as with a claw)	v:tr
+lonusye	0	exhale, blow	v:in
+tsuk	0	-able/-ible (receptive ability)	aff:pre
+ngrrfpìl	0	key assumption	n
+fra	0	every, all	aff:pre
+uy	0	(formal, ceremonial)	aff:in
+pe	0	what, which (question prefix)	aff:pre
+ei	0	(positive affect)	aff:in
+äng	0	(negative affect)	aff:in
+ats	0	(inferential, suppositional)	aff:in
+tsyìp	0	little (diminutive suffix)	aff:suf
+äp	0	(reflexive)	aff:in
+ri	0	(topical case)	aff:suf
+ol	0	(perfective aspect)	aff:in
+pon	0	balance	v:tr
+lipx	0	drip	v:in
+torukspxam	0	octoshroom, great leonopteryx fungus	n
+loran	0	elegance, grace	n
+fyanyì	0	shelf	n
+yawnyewla	0	broken heart, broken heartedness	n
+txeptseng	0	place where a fire is burning or has burned	n
+txepvi	0	spark	n
+lì’kong	0	syllable	n
+vurway	0	story poem, narrative poem	n
+waytelem	0	song cord	n
+txurtu	0	strongman/woman, brawny person	n
+plltxepam	0	speech sound; phoneme	n
+tstalsena	0	knife sheath	n
+tutsena	0	stretcher	n
+sngumtsim	0	worrisome matter, source of worry	n
+sngeltseng	0	rubbish place, garbage dump	n
+txanwetseng	0	personally significant or beloved place, heimat (ger.)	n
+fngä’tseng	0	restroom (on Earth)	n
+kantseng	0	destination	n
+’oktrr	0	day of commemoration	n
+’evan	0	boy (colloquial)	n
+’itetsyìp	0	little daughter (term of endearment)	n
+anìheyu	0	fibonacci, blue spiral plant	n
+apxangrr	0	delta tree	n
+eanean	0	cheadle, herbaceous plant	n
+eltungawng	0	brainworm	n
+emkäfya	0	ford, crossing	n
+eolì’uvi	0	prefix	n
+eyawrfya	0	right way (of doing something), correct path	n
+srekamtrr	0	the time before noon	n
+srekamtxon	0	before midnight	n
+onlor	0	goodsmelling	adj
+ontsang	0	nose ring	n
+onvä’	0	badsmelling	adj
+pa’liwll	0	direhorse pitcher plant	n
+pamtseowll	0	cat ear, music plant	n
+pamuvan	0	sound play	n
+parulnga’	0	miraculous	adj
+parultsyìp	0	term of affection for children	n
+paskalin	0	sweet berry (term of endearment)	n
+pätsì	0	badge	n
+payìva	0	drop of water	n
+paynäpll	0	pineapple	n
+paysmung	0	water carrier	n
+paysyul	0	water lily	n
+paywll	0	water plant, dapophet	n
+täftxuyu	0	weaver	n
+tafkip	0	from up among	adp
+ta’lengean	0	skin blue	adj
+tanleng	0	bark (of a tree)	n
+swizawsena	0	quiver (attached to ikran’s saddle)	n
+’e’insey	0	drinking gourd	n
+’ekxinumpe	0	how tight, loose?	inter
+tireaioang	0	spirit animal	n
+’eyt	0	the symbol 8 (not the value eight)	n
+’ongopyu	0	designer	n
+’opinvultsyìp	0	crayon	n
+akrrmaw	0	after (temporal)	conj
+aystampe	0	what men	inter
+aystepe	0	what women	inter
+aysupe	0	what people	inter
+ewktswo	0	(sense of) taste	n
+nefä	0	up (direction)	adv
+nayn	0	the symbol 9 (not the value nine)	n
+fe’ran	0	flawed nature, something illconceived or inherently defective	n
+fìtseng(e)	0	here, this place	adv
+fkxakewll	0	itch plant	n
+flìnutx	0	thickness	n
+fnawe’tu	0	coward	n
+kiantu	0	blameworthy person	n
+fkeyk	0	state of, condition of	aff:suf
+fne	0	type of	aff:pre
+fnelan	0	male	n
+fnele	0	female	n
+fnetxum	0	allergen	n
+fpomronga’	0	healthful (mentally)	adj
+frafya	0	in every way	adv
+ftuopa	0	from behind	adp
+ftxulì’uyu	0	orator, (public) speaker	n
+fwäkìwll	0	mantis orchid	n
+fyawìntxu	0	guide (with dative of thing guided)	v:in
+fyawìntxuyu	0	guide	n
+fyinep’ang	0	degree of complexity	n
+fyinep’angpe	0	how complex?	inter
+fyìpmaut	0	squid fruit tree	n
+fyolup	0	exquisite, sublime in style	adj
+hametsì	0	leavened bread	n
+hawntsyokx	0	glove	n
+hawnven	0	shoe	n
+hawtsyìp	0	nap	n
+hefitswo	0	(sense of) smell	n
+hermeyp	0	snow flurry	n
+hertxayo	0	snow field	n
+hìmtxew	0	minimum	n
+hìpey	0	hesitate, hold back for a short time	v:in
+hìrumwll	0	puffer plant	n
+holpxaype	0	how many	inter
+inanfya	0	sense (means of perception)	n
+ingyenga’	0	mysterious, puzzling, enigmatic	adj
+ionar	0	banshee rider visor	n
+kakpam	0	deaf	adj
+kalweyaveng	0	son of a bitch (vulgar)	n
+käpxì	0	rear (part or section)	n
+kawtseng	0	nowhere	adv
+ke’aw	0	divided, torn apart, striferidden	adj
+kefpomronga’	0	unhealthful (mentally)	adj
+kelfpomtokx	0	unhealthy (physically)	adj
+keltsun	0	impossible	adj
+kenzen	0	not necessarily	adv
+käsatseng	0	out there	adv
+txeptsyìp	0	flame	n
+kesätarenga’	0	irrelevant	adj
+ketsuk	0	in-...-able/-ible (receptive ability)	aff:pre
+ketsukanom	0	unavailable, unobtainable	adj
+ketsuklewn	0	intolerable, unacceptable, unendurable, unbearable	adj
+ketsuktswa’	0	unforgettable	adj
+keynven	0	step	v:in
+keyrel	0	facial expression	n
+kezin	0	untangled	adj
+kipxì	0	one-seventh	n
+kllkä	0	go down, descend, (for astronomical bodies) set	v:in
+kllza’u	0	come down, descend	v:in
+koakte	0	old woman	n
+koaktutral	0	goblin thistle	n
+kurfyan	0	hamper or suspended rack	n
+kurfyavi	0	hook (for hanging or suspending an item)	n
+kurkung	0	asshole (vulgar)	n
+kxamtrrmaw	0	the time immediately after noon, early afternoon	n
+kxamyì	0	intermediate level	n
+kxapnga’	0	threatening	adj
+kxaylyì	0	high level	n
+kxumpaysyar	0	glue	n
+väfewll	0	Centipede, badsmell plant	n
+värumut	0	vein pod	n
+vawmpin	0	dark color	n
+venga’	0	organized, "on top of things"	adj
+venzek	0	toe	n
+pxayzekwä	0	spiny whips	n
+ralke	0	meaningless, devoid of content	adj
+ralnga’	0	meaningful, instructive, something from which a lesson can be learned	adj
+la’ape	0	how near, how far, what distance	inter
+lanutral	0	dandetiger	n
+le’en	0	speculative, intuitive	adj
+lefpomron	0	healthy (mentally)	adj
+lefrir	0	layered	adj
+lehawmpam	0	noisy	adj
+lehìpey	0	hesitant, in a state of hesitation	adj
+lepwopx	0	cloudy	adj
+lereyfya	0	cultural	adj
+lerìk	0	leafy	adj
+lerìn	0	wooden, of wood	adj
+leronsrel	0	imaginary	adj
+leskxir	0	wounded	adj
+lesnonrra	0	full of selfpride	adj
+leso’ha	0	enthusiastic, keen	adj
+letsunslu	0	possible	adj
+letswal	0	powerful	adj
+letut	0	constant, continual	adj
+letwan	0	dodgy, sneaky (of a person)	adj
+letxiluke	0	unhurried	adj
+lewäte	0	disagreeable, argumentative (of an agent)	adj
+leweopx	0	wavelike	adj
+leyapay	0	foggy, misty	adj
+lezeswa	0	grassy	adj
+lì’upe	0	what (word, utterance)	inter
+lukpen	0	without clothing, naked	adj
+lukftang	0	constant, continual	adj
+lortsyal	0	shimmyfly	n
+lìmsimpe	0	how near, how far	inter
+maitan	0	my son (form of address)	phr
+maite	0	my daughter (form of address)	phr
+matsa	0	matsa, crackers	n
+meitayo	0	wetlands	n
+mestampe	0	what two men	inter
+mestepe	0	what two women	inter
+mesupe	0	what two people	inter
+meyptu	0	weakling	n
+miktsang	0	earring	n
+mikvä’	0	badsounding	adj
+mìnyu	0	turner, twisted lily	n
+momek	0	hollow, not solid	adj
+munsna	0	pair	n
+nafpawng	0	grievingly, with grief	adv
+nam’ake	0	confidently	adv
+neympin	0	light color	n
+ngimpup	0	length	n
+ngulpin	0	grey	n
+nì’al	0	wastefully	adv
+nì’eng	0	equally, on the same level	adv
+nì’eoio	0	ceremoniously	adv
+nì’eveng	0	like a child, immaturely	adv
+nìawnomum	0	as you know, as is known (casual speech [naw.no.mum])	adv
+nìayoeng	0	like us, as we do	adv
+nìflrr	0	gently, tenderly	adv
+nìfmokx	0	jealously, enviously	adv
+nìfnu	0	silently	adv
+nìfpxamo	0	horribly, terribly, awfully	adv
+nìfrir	0	in layers	adv
+nìfwefwi	0	by whistling, in a whistling manner	adv
+nìfyeyntu	0	like an adult, maturely	adv
+nìhawmpam	0	noisily	adv
+nìhìpey	0	hesitantly	adv
+nìhoan	0	comfortably	adv
+nìhoet	0	widely, pervasively	adv
+nìhol	0	few, not many	adv
+nìhona	0	endearingly, sweetly	adv
+nìk’ärìp	0	steadily	adv
+nìkanu	0	intelligently, in a smart way	adv
+nìkelkin	0	unnecessarily	adv
+nìkemweypey	0	impatiently	adv
+nìklonu	0	firmly, steadfastly, faithfully	adv
+nìkmar	0	in the right season, opportunely	adv
+nikroi	0	hair adornment	n
+niktsyey	0	food wrap (food items wrapped in edible leaves or vines)	n
+nìkxap	0	threateningly	adv
+nìkxem	0	vertically	adv
+nìler	0	steadily	adv
+nìmeyp	0	weakly, loosely	adv
+nìmweypey	0	patiently	adv
+nìnäk	0	by drinking, in a liquid way	adv
+ninan	0	by reading	adv
+nìnew	0	voluntarily, willingly, by desire	adv
+nìngong	0	lethargically, lazily	adv
+ningyen	0	mysteriously, in a puzzling fashion	adv
+nìnrra	0	proudly, with pride	adv
+nìolo’	0	(together) as members of a clan	adv
+nìpxim	0	erectly, rightly	adv
+nìpxul	0	formidably, imposingly	adv
+nìrìkxi	0	shakily, tremblingly	adv
+nìronsrel	0	in imagination, by imagination	adv
+nìslele	0	by swimming	adv
+nìso’ha	0	enthusiastically	adv
+nìsngum	0	worryingly, fretfully	adv
+nìsoaia	0	(together) as members of a family	adv
+nìsteng	0	similarly	adv
+nìsti	0	angrily	adv
+nìswey	0	optimally, best	adv
+nìsyayvi	0	by chance or coincidence	adv
+nìsyep	0	tightly, in an iron grip	adv
+nìt’iluke	0	neverendingly, forever	adv
+nìtsim	0	originally, in an original way, with originality	adv
+nìtsìsyì	0	by whispering, in a whisper	adv
+nìtson	0	dutifully, as an obligation	adv
+nìtstew	0	bravely, courageously	adv
+nìtsyìl	0	by climbing	adv
+nìtxankeltrrtrr	0	extraordinarily	adv
+nìtxay	0	horizontally	adv
+nìtxi	0	hurriedly, in a frenzied way	adv
+nìtxiluke	0	unhurriedly, leisurely	adv
+nìtxukx	0	deeply	adv
+nìwäte	0	disagreeably, begrudgingly	adv
+nìwawe	0	meaningfully, significantly	adv
+nìyewla	0	in a disappointing fashion, in a way failing to meet expectations	adv
+nìyeyfya	0	straight ahead, in a straight line	adv
+nìzevakx	0	cruelly	adv
+paystan	0	what men	inter
+payste	0	what women	inter
+paysu	0	what people	inter
+pefyinep’ang	0	how complex?	inter
+pekxinum	0	how tight, loose?	inter
+’ekxinum	0	degree of tightness, looseness	n
+pela’a	0	how near, how far, what distance	inter
+pelìmsim	0	how near, how far	inter
+pemste	0	what two women	inter
+pemsu	0	what two people	inter
+penghrrap	0	binary sunshine, fringed lamp	n
+pensìl	0	pencil	n
+pemstan	0	what two men	inter
+pepstan	0	what three men	inter
+pepste	0	what three women	inter
+pepsu	0	what three people	inter
+peslosnep	0	what width, how wide?	inter
+pestan	0	what man	inter
+peste	0	what woman	inter
+pinvul	0	crayon	n
+pìwopxtsyìp	0	nebula	n
+polpxay	0	how many	inter
+prrku	0	womb	n
+prrnesyul	0	bud	n
+prrsmung	0	baby carrier	n
+prrwll	0	moss	n
+pupxì	0	one-sixth	n
+pxawpa	0	perimeter, circumference, border	n
+pxawpxun	0	armband	n
+pxawtxap	0	squeeze	v:tr
+pxestampe	0	what three men	inter
+pxestepe	0	what three women	inter
+pxesupe	0	what three people	inter
+kllpxiwll	0	lionberry	n
+pxiut	0	razor palm, sharp tree	n
+pxiwll	0	hermit bud plant	n
+pxorna’lor	0	sari, beautiful exploding seed plant	n
+pxorna’	0	episoth, exploding seed	n
+pxorpam	0	ejective consonant	n
+pxuntil	0	elbow	n
+relvul	0	pen, pencil, writing stick	n
+pamrelvul	0	pen, pencil, writing stick	n
+rengop	0	design (finer detail)	v:tr
+rey’eng	0	the Balance of Life	n
+rimpin	0	yellow	n
+nguway	0	howl, viperwolf cry	n
+ronguwayyu	0	howler	n
+ronsrel	0	something imagined	n
+rumaut	0	cannonball fruit tree	n
+sa’ewrang	0	mother loom, giant loom	n
+sa’nutsyìp	0	little mommy (used for young girls)	n
+sä’anla	0	yearning	n
+säfmi	0	attempt	n
+säfe’ul	0	worsening (specific instance)	n
+säfrìp	0	bite	n
+säfyep	0	handle	n
+sähe’a	0	cough, instance of coughing	n
+saho	0	prayer	n
+säkxange	0	yawn	n
+sälätxayn	0	defeat, an instance of defeat	n
+säleymfe’	0	complaint	n
+sälipx	0	drop (of a liquid)	n
+sämyam	0	hug, embrace	n
+sängä’än	0	bout of suffering; episode of depression	n
+sänui	0	failure (particular instance of failure)	n
+säpllhrr	0	warning	n
+säpom	0	kiss	n
+särawn	0	replacement, substitute, something that replaces something else	n
+säseyto	0	butchering tool	n
+säsìlpey	0	hope (particular instance)	n
+säsrese’a	0	prediction	n
+säsrìn	0	lent or borrowed thing	n
+säsyep	0	trap	n
+sätarenga’	0	relevant, pertinent	adj
+sätaron	0	hunt	n
+sätsan’ul	0	improvement (specific instance)	n
+sätseri	0	observation, something noticed	n
+sätsìsyì	0	whisper	n
+sätsyìl	0	climbing event, a climb	n
+säyäkx	0	snub	n
+säzärìp	0	face lead, rein	n
+skayp	0	Skype	n
+slosnep	0	width	n
+slosneppe	0	what width, how wide?	inter
+snafpìlfya	0	philosophy	n
+snapamrelvi	0	alphabet	n
+snatanhì	0	constellation	n
+snatanhìtsyìp	0	star cluster	n
+snaytu	0	loser	n
+sngunga’	0	worrisome, troubling	adj
+snonrra	0	selfpride (negative connotation)	n
+snotipx	0	selfcontrol	n
+somtìlor	0	popsicle, hot beauty	n
+späpeng	0	restore oneself (metaphorically)	v:in
+spulyaney	0	canoe paddle	n
+stawmtswo	0	(sense of) hearing	n
+sumsey	0	drinking vessel made of shell	n
+sunkesun	0	like it or not	adv
+swaynivi	0	family hammock	n
+swoasey	0	kava bowl (constructed from seed pods, used for drinking intoxicating beverages), handsized	n
+sye’otxang	0	wind instrument	n
+syeptute	0	hyneman, person trapper	n
+syewenga’	0	fatty	adj
+syokup	0	weight (physical) 	n
+syuratan	0	bioluminescence	n
+syusmung	0	food tray	n
+tarnioang	0	predator animal	n
+taronyutsyìp	0	little hunter	n
+tarpongu	0	hunting party	n
+tautral	0	sky tree	n
+taweyk	0	because	conj
+syuvekel	0	famine	n
+rumut	0	puffball tree (Obesus rotundus)	n
+tawsyuratan	0	aurora	n
+tawtsngal	0	panopyra, sky cup	n
+teswotìng	0	grant	v:tr
+temrey	0	survival	n
+tì’awpo	0	individuality (negative connotation), selfishness	n
+tì’eylan	0	friendship	n
+tì’ipu	0	humor	n
+tì’ul	0	increase	n
+tìaho	0	prayer (in general, abstract idea)	n
+tìfe’ul	0	worsening (in the general or abstract sense)	n
+tìflrr	0	gentleness, tenderness	n
+tìfnawe’	0	cowardice	n
+tìfnu	0	quiet, silence	n
+tìfpxamo	0	horror	n
+tìftxavang	0	passion	n
+tìfyawìntxu	0	guidance	n
+tìfyeyn	0	ripeness, maturity, full fruition	n
+tìhawnuwll	0	spartan, protection plant	n
+tìhìpey	0	hesitation	n
+tìhona	0	cuteness, adorableness	n
+tìkakpam	0	deafness	n
+tìkakrel	0	blindness	n
+tìkankxan	0	barrier to one’s goals, source of frustration	n
+tìkankxanga’	0	frustrating	adj
+tìkawng	0	evil	n
+tìktseri	0	unawareness, lack of notice	n
+tìkusar	0	teaching (the act)	n
+til	0	joint, hinge	n
+tìla’um	0	pretence	n
+tìleym	0	call	n
+tìleymfe’	0	complaining	n
+tilì’u	0	conjunction	n
+tìmeyp	0	weakness	n
+tìmll’an	0	acceptance	n
+tìmyì	0	low level	n
+tìnatxu	0	disapproval	n
+tìnomum	0	curiosity	n
+tìnui	0	failure (abstract concept)	n
+tìpalang	0	(social) contact	n
+tìpaw	0	growth	n
+tìpsaw	0	clumsiness	n
+tìpxul	0	formidableness, imposingness	n
+tìranpam	0	footstep (sound)	n
+tìrawn	0	replacement, the act of replacing	n
+tireafya’o	0	spirit path	n
+tìrengop	0	design (the act or art of designing	n
+tiretu	0	shaman	n
+tìronsrel	0	imagination	n
+tìsnaytx	0	loss	n
+tìso’ha	0	enthusiasm, having a good attitude	n
+tìspe’e	0	capture	n
+tìsrese’a	0	prophecy	n
+tìsti	0	anger	n
+tìswaran	0	humility, humbleness	n
+tìsyor	0	relaxation	n
+tìtaron	0	hunting	n
+tìterkup	0	death (in abstract sense)	n
+tìtsan’ul	0	improvement (in the general or abstract sense)	n
+tìtseri	0	awareness, notice	n
+tìtstew	0	courage, bravery	n
+tìtstunwi	0	kindness	n
+tìtsyär	0	rejection	n
+tìtunu	0	romance	n
+tìtusaron	0	hunting	n
+tìtxanew	0	greed	n
+tìtxantslusam	0	wisdom (seldom used)	n
+tìväng	0	thirst	n
+tìwan	0	obfuscation, cover up	n
+tìwusem	0	fighting	n
+tìyäkx	0	lack of notice, snubbing	n
+tìyusom	0	eating (the act)	n
+tìzevakx	0	cruelty	n
+tìzevakxnga’	0	cruel	adj
+tompameyp	0	drizzle	n
+tompawll	0	geode, rain plant	n
+trrpeve	0	which day (derived from trr day and pe interrogative marker and ve ordinal number marker)	inter
+karyunay	0	apprentice teacher	n
+ikranay	0	forest banshee	n
+’eylanay	0	acquaintance (with the potential for becoming a friend)	n
+tsawksyul	0	sun lily	n
+tsawsngem	0	muscular	adj
+tse’atswo	0	(sense of) sight, vision	n
+zìmtswo	0	(sense of) touch	n
+tsengpe	0	where	inter
+tskxevi	0	pebble, small stone polished smooth by natural forces	n
+tsmuktu	0	sibling	n
+tsngawpay	0	tears	n
+tsngawpayvi	0	teardrop	n
+tsongtsyìp	0	dimple	n
+tstunkemtsyìp	0	little favor	n
+tstxolì’ukìngvi	0	noun phrase (phrase whose pivotal or central word is a noun)	n
+tsuktswa’	0	forgettable	adj
+tsulfätunay	0	nearmaster	n
+tswintsyìp	0	little queue	n
+tsyorina’wll	0	cycad, flour seed plant	n
+tumpasuk	0	celia fruit tree	n
+tunutu	0	object of desire, crush	n
+tutampe	0	what man	inter
+tutepe	0	what woman	inter
+txanew	0	greedy	adj
+txanfwerwì	0	blizzard	n
+txanfwìngtu	0	bastard, loser (vulgar)	n
+txanro’a	0	be famous	v:in
+txantslusam	0	wise	adj
+txantxew	0	maximum	n
+txantxewm	0	terrifying	adj
+txavä’	0	disgusting	adj
+txe’lankong	0	heartbeat	n
+txewluke	0	endless, boundless, without limit	adj
+txewnga’	0	having a limit, not without bounds, finite	adj
+txonkrr	0	at night	adv
+txumnga’	0	poisonous	adj
+txumpaywll	0	scorpion thistle, poison water plant	n
+vurvi	0	summary, synopsis	n
+vozampasukut	0	grinch tree, thousand berry tree	n
+wokau	0	pendulum drum	n
+yawntutsyìp	0	darling, little loved one	n
+yayayrtsim	0	something confusing, source of confusion	n
+yayotsrul	0	bird’s nest	n
+yeväng	0	satisfied from thirst by drink, feeling quenched, slaked	adj
+yìmkxa	0	banshee catcher, mouth-binder	n
+ylltxep	0	communal fire or fire pit	n
+yomhì’ang	0	small animal/insect eater, dakteron	n
+yomioang	0	chalice plant	n
+yomvey	0	dine on flesh, be carniverous	v:in
+yomzeswa	0	graze	v:in
+zapxì	0	front (part or section)	n
+zasrìn	0	borrow	v:tr
+zave	0	sixty-fourth (ordinal)	adj
+zeswavi	0	blade of grass	n
+zìtsaltrr	0	(yearly) anniversary	n
+zawsena	0	quiver (attached to the ikran’s saddle)	n
+yu	0	-er (personification, creates nouns from verbs)	aff:suf
+tsawlapx	0	unidelta tree	n
+tsawlapxangrr	0	unidelta tree	n
+kopenhan	0	Copenhagen	n:pr
+tseyk	0	Jake	n:pr
+pesomwew	0	what temperature?	inter
+somwewpe	0	what temperature?	inter
+so’yu	0	fan, enthusiast	n
+fe’lup	0	tacky, in poor taste	adj
+tsahìk	0	matriarch, high priestess, interpreter	n
+tawsnrrtsyìp	0	Alpha Centauri C, Proxima Centauri	n:pr
+snrrtsyìp	0	Alpha Centauri C, Proxima Centauri	n:pr
+oetsyìp	0	little me, little I	pn
+ngatsyìp	0	little you, you little	pn
+sivako	0	you can do it!; rise to the challenge!	intj
+kefpomtokxnga’	0	unhealthful (physically)	adj
+fkarut	0	peel	v:tr
+latsi	0	keep up with someone	v:in
+tsä’	0	squirt	v:in
+tuvon	0	lean	v:in
+’ongop	0	design	v:tr
+reykol	0	play music, make to sing (poetic)	v:tr
+tì’ong	0	blooming, unfolding	n
+txumtsä’wll	0	Baja tickler, poisonsquirting plant	n
+’ampirikx	0	leaf pitcher plant	n
+vezo	0	be in order, be organized	v:in
+kìreysì	0	Grace	n:pr
+tì	0	(noun-creating prefix)	aff:pre
+sä	0	(noun-creating prefix, generally specific instance)	aff:pre
+sna	0	group of ... (prefix indicating naturally occuring groups or collections)	aff:pre
+tu	0	... person (noun-making suffix)	aff:suf
+ve	0	...th (makes ordinal numbers from cardinal numbers)	aff:suf
+nay	0	(particle indicating something lower in the hierarchy)	aff:suf
+le	0	having to do with... (makes adjectives from nouns and verbs, non-productive)	aff:pre
+us	0	(active participle)	aff:in
+awn	0	(passive participle)	aff:in
+tareptu	0	rescuee, someone who has been rescued or saved	n
+sätarep	0	rescue, an instance of rescuing	n
+tsantu	0	good person, "good guy"	n
+spakat	0	drown	v:in
+fwum	0	float (on the surface of a liquid)	v:in
+wapx	0	sink	v:in
+tamìfa	0	internal	adj
+tawrrpa	0	external	adj
+tsantxäl	0	invitation	n
+nìsay	0	loyally	adv
+särangal	0	wish	n
+’avun	0	save (time, food, etc.)	v:tr
+ninat	0	Ninat (female singer of the Omatikaya Clan)	n:pr
+peyral	0	Peyral (female Na’vi of the Omatikaya Clan)	n:pr
+leno	0	thorough, detailorientated (of a person)	adj
+tìno	0	thoroughness, attention to detail	n
+kawngtu	0	bad person, "bad guy"	n
+otranyu	0	Otranyu (probably a clan name)	n:pr
